@@ -1,0 +1,228 @@
+---
+title: "Study of Blast output for domains A and B of TopoVI"
+author: "Leslie REGAD"
+output:
+  pdf_document:
+    toc: no
+    toc_depth: '3'
+    number_sections: true
+  html_document:
+    code_folding: show
+    df_print: paged
+    fig_caption: yes
+    highlight: pygments
+    keep_md: no
+    self_contained: yes
+    theme: spacelab
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+editor_options:
+  chunk_output_type: console
+---
+
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+#visualisation des tables 
+library(DT)
+
+#graphics
+library(pheatmap)
+#library(plotly)
+library(FactoMineR)
+library(igraph)
+library(randomForest)
+library(rpart)
+library(rpart.plot)
+library(rpart.plot)
+
+options(width = 300)
+# options(encoding = 'UTF-8')
+knitr::opts_chunk$set(
+  fig.width = 5.5, fig.height = 4, 
+  fig.path = 'figures/asym_',
+  fig.align = "center", 
+  size = "tiny", 
+  echo = TRUE, eval = TRUE, 
+  warning = FALSE, message = FALSE, 
+  results = TRUE, comment = "")
+options(scipen = 12) ## Max number of digits for non-scientific notation
+# knitr::asis_output("\\footnotesize")
+```
+
+
+# Data preparation
+
+* Open file
+
+Data were stored in the file `data/merge_060519.csv`. The two third columns contain sequence size for three subunits B and the two last columns contain sequence size for two  subunits A.
+
+
+```{r}
+fileIn <- read.table("data/merge_060519.csv", sep=";", header=T)
+head(fileIn)
+```
+
+The file contains `r nrow(fileIn)` rows and `r ncol(fileIn)` columns.  
+
+
+* Concatenate size of sequence for the three subunits B and for the two subunits A
+```{r}
+size.sB <- c(fileIn[,"Top6B_SACSH"], fileIn[,"Top6B_METMA"], fileIn[,"Top6B_HALMA"])
+length(size.sB)
+
+size.sA <- c(fileIn[,"Top6A_SACSH"],fileIn[,"Top6A_METMA"])
+length(size.sA)
+```
+
+
+* We noted that some columns contains NA values. We removed these NA values.
+
+```{r}
+ind.supp.sB <- which(is.na(size.sB)==TRUE)
+size.sB <- size.sB[-ind.supp.sB]
+
+ind.supp.sA <- which(is.na(size.sA)==TRUE)
+size.sA <- size.sA[-ind.supp.sA]
+```
+
+After removing NA value, we have :   
+    + `r length(size.sB)` data for the subUnit B  
+    + `r length(size.sA)` data for the subUnit A  
+  
+
+* concatenate these values in a list
+```{r}
+list.size <- vector("list", length=2)
+names(list.size) <- c("sB","sA")
+
+list.size[[1]] <-size.sB
+list.size[[2]] <- size.sA
+
+```
+
+
+# Distribution of sequence size for subUnits A and B
+
+We plot the distribution of sequence size for the two subunits using boxplot representation.
+
+```{r}
+boxplot(list.size, xlab="subunits", ylab="sequence size")
+```
+
+We noted that the two subunits do not have the same distribution.
+
+* subunit B have more outliers than subunit A
+* the sequence size associated to subunit B is more variable than this of subunit A
+
+# Determination of descriptive statistic
+
+## For subunit B : 
+
+```{r boxplotB}
+boxplot.sB <- boxplot(size.sB)
+```
+
+
+* average size :  `r round(mean(list.size[["sB"]]),2)` amino acids
+* standard deviation : `r round(sd(list.size[["sB"]]),2)` amino acids  
+$\rightarrow$ on average a sequence has `r round(mean(list.size[["sB"]]),2)` $\pm$ `r round(sd(list.size[["sB"]]),2)` amino acids
+
+* minimum size :  `r round(min(list.size[["sB"]]),2)`  amino acids
+* maximum size :  `r round(max(list.size[["sB"]]),2)`  amino acids  
+
+* median size :  `r round(median(list.size[["sB"]]),2)`  amino acids  
+$\rightarrow$ 50% of sequences have less than `r round(median(list.size[["sB"]]),2)`  amino acids
+
+* first quartile size :  `r  quantile(list.size[["sB"]])[2]`  amino acids  
+$\rightarrow$ 25% of sequences have less than `r quantile(list.size[["sB"]])[2]`  amino acids
+
+* third quartile size :  `r  quantile(list.size[["sB"]])[4]`  amino acids  
+$\rightarrow$ 75% of sequences have less than `r  quantile(list.size[["sB"]])[4]`  amino acids  
+
+
+
+Recompute statistic parameters after removing outliers.  
+
+* Outliers  = valeurs inférieures à la valeur pivot de gauche ou supérieures à la valeur pivot de droite  
+* valeur pivot de gauche = Q1-1.5*(Q3-Q1) avec Q1 et Q3 = 1er et 3ème quartiles
+* valeur pivot de droite = Q3 + 1.5*(Q3-Q1) avec Q1 et Q3 = 1er et 3ème quartiles  
+
+```{r sB.ssOutliers}
+size.sB.ssOutliers <- size.sB[which((size.sB> boxplot.sB$stats[1,1] ) &
+                                      (size.sB< boxplot.sB$stats[5,1]))]
+```
+  
+  
+* average size after removing outliers :  `r round(mean( size.sB.ssOutliers))`  amino acids
+* standard deviation after removing outliers :  `r round(sd( size.sB.ssOutliers))`  amino acids
+* minimum size after removing outliers :  `r round(boxplot.sB$stats[1,1])`  amino acids
+* maximun size after removing outliers :  `r round(boxplot.sB$stats[5,1])`  amino acids
+
+
+
+## For subunit A : 
+
+```{r boxplotA}
+boxplot.sA <- boxplot(size.sA)
+```
+
+
+* average size :  `r round(mean(list.size[["sA"]]),2)` amino acids
+* standard deviation : `r round(sd(list.size[["sA"]]),2)` amino acids  
+$\rightarrow$ on average a sequence has `r round(mean(list.size[["sA"]]),2)` $\pm$ `r round(sd(list.size[["sA"]]),2)` amino acids
+
+* minimum size :  `r round(min(list.size[["sA"]]),2)`  amino acids
+* maximum size :  `r round(max(list.size[["sA"]]),2)`  amino acids  
+
+* median size :  `r round(median(list.size[["sA"]]),2)`  amino acids  
+$\rightarrow$ 50% of sequences have less than `r round(median(list.size[["sA"]]),2)`  amino acids
+
+* first quartile size :  `r  quantile(list.size[["sA"]])[2]`  amino acids  
+$\rightarrow$ 25% of sequences have less than `r quantile(list.size[["sA"]])[2]`  amino acids
+
+* third quartile size :  `r  quantile(list.size[["sA"]])[4]`  amino acids  
+$\rightarrow$ 75% of sequences have less than `r  quantile(list.size[["sA"]])[4]`  amino acids
+
+
+Recompute statistic parameters after removing outliers.  
+
+```{r sA.ssOutliers}
+size.sA.ssOutliers <- size.sA[which((size.sA> boxplot.sA$stats[1,1] ) & 
+                                      (size.sA< boxplot.sA$stats[5,1]))]
+```
+
+* average size after removing outliers :  `r round(mean( size.sA.ssOutliers))`  amino acids
+* standard deviation after removing outliers :  `r round(sd( size.sA.ssOutliers))`  amino acids
+* minimum size after removing outliers:  `r round(boxplot.sA$stats[1,1])`  amino acids
+* maximun size after removing outliers:  `r round(boxplot.sA$stats[5,1])`  amino acids
+
+
+# Comparison of the size variance for the two subunits
+
+* Fisher test
+
+We performed a Fisher test to compare the two variances
+
+```{r var.test}
+var.test(size.sB, size.sA)
+```
+
+Les conditions de validité du test (les échantillons doivent suivre une loi normale) n'est pas vérifiée.
+
+
+* Wilcoxon test  
+On va donc réaliser un test de wilcoxon sur les données suivantes : 
+
+```{r}
+data.sB <- abs(size.sB-mean(size.sB))
+data.sA <- abs(size.sA-mean(size.sA))
+
+wilcox.test(data.sB,data.sA)
+```
+
+The obtained p-value is smaller than 0.05.
+the test is significant, thus we conclude that the variance of sequence size for subunit B is significant larger than sequence size for subunit A.
+
+
+

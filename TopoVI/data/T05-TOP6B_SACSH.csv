@@ -1,0 +1,1405 @@
+O05207.1;530;530;100;0.0;{0 529};Saccharolobus shibatae B12;RecName: Full=Type 2 DNA topoisomerase 6 subunit B, AltName: Full=Type II DNA topoisomerase VI subunit B, Short=TopoVI-B 2ZBK_B Chain B, Crystal Structure Of An Intact Type Ii Dna Topoisomerase: Insights Into Dna Transfer Mechanisms 2ZBK_D Chain D, Crystal Structure Of An Intact Type Ii Dna Topoisomerase: Insights Into Dna Transfer Mechanisms 2ZBK_F Chain F, Crystal Structure Of An Intact Type Ii Dna Topoisomerase: Insights Into Dna Transfer Mechanisms 2ZBK_H Chain H, Crystal Structure Of An Intact Type Ii Dna Topoisomerase: Insights Into Dna Transfer Mechanisms CAA71604.1 type II DNA topoisomerase subunit B
+WP_012711263.1;530;530;100;0.0;{0 529};Sulfolobus islandicus;DNA topoisomerase VI subunit B
+WP_012717515.1;530;530;100;0.0;{0 529};Sulfolobus islandicus;DNA topoisomerase VI subunit B
+WP_016732475.1;530;530;100;0.0;{0 529};Sulfolobus islandicus;DNA topoisomerase VI subunit B
+WP_009992415.1;530;530;100;0.0;{0 529};Saccharolobus solfataricus;DNA topoisomerase VI subunit B
+1MU5_A;471;469;100;0.0;{2 470};Unknown unknown;Chain A, Structure Of Topoisomerase Subunit
+1Z5A_A;469;469;100;0.0;{0 468};Unknown unknown;Chain A, Topoisomerase Vi-B, Adp-Bound Dimer Form
+1MX0_A;472;470;100;0.0;{2 471};Unknown unknown;Chain A, Structure Of Topoisomerase Subunit
+1Z59_A;469;469;100;0.0;{0 468};Unknown unknown;Chain A, Topoisomerase Vi-B, Adp-Bound Monomer Form
+WP_069281699.1;531;531;100;0.0;{0 530};Sulfolobus sp. A20;DNA topoisomerase VI subunit B
+WP_054845562.1;527;525;100;0.0;{0 524};Sulfolobus sp. JCM 16833;DNA topoisomerase VI subunit B
+PVU71090.1;534;534;100;0.0;{0 533};Sulfolobus sp. SCGC AB-777_L09;DNA topoisomerase VI subunit B
+WP_011278153.1;532;530;100;0.0;{0 529};Sulfolobus acidocaldarius;DNA topoisomerase VI subunit B
+AHC51583.1;532;530;100;0.0;{0 529};Sulfolobus acidocaldarius SUSAZ;DNA topoisomerase VI subunit B
+EWG07091.1;529;527;100;0.0;{0 526};Candidatus Aramenus sulfurataquae;DNA topoisomerase VI subunit B
+WP_012021696.1;531;530;100;0.0;{0 529};Metallosphaera sedula;DNA topoisomerase VI subunit B
+WP_013776217.1;527;524;99;0.0;{2 525};Acidianus hospitalis;DNA topoisomerase VI subunit B
+WP_054836255.1;531;530;100;0.0;{0 529};Metallosphaera hakonensis;DNA topoisomerase VI subunit B
+WP_110380711.1;527;524;99;0.0;{2 525};Acidianus sulfidivorans;DNA topoisomerase VI subunit B
+WP_013737080.1;531;530;100;0.0;{0 529};Metallosphaera cuprina;DNA topoisomerase VI subunit B
+WP_110270913.1;529;527;100;0.0;{0 526};Acidianus brierleyi;DNA topoisomerase VI subunit B
+ARM76591.1;527;524;99;0.0;{2 525};Acidianus manzaensis;DNA topoisomerase VI subunit B
+EZQ06780.1;528;524;99;0.0;{3 526};Candidatus Acidianus copahuensis;DNA topoisomerase VI subunit B
+WP_081801211.1;527;524;99;0.0;{2 525};Candidatus Acidianus copahuensis;DNA topoisomerase VI subunit B
+WP_009074918.1;531;530;100;0.0;{0 529};Metallosphaera yellowstonensis;DNA topoisomerase VI subunit B
+WP_010979316.1;532;529;99;0.0;{1 529};Sulfurisphaera tokodaii;DNA topoisomerase VI subunit B
+WP_126449911.1;530;521;98;0.0;{4 524};Sulfodiicoccus acidiphilus;DNA topoisomerase VI subunit B
+PVU69994.1;532;530;100;0.0;{0 529};Sulfolobales archaeon SCGC AB-777_K20;DNA topoisomerase VI subunit B
+RLG87115.1;527;507;96;0.0;{5 511};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+RLG75511.1;526;514;98;0.0;{7 520};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+PWV37411.1;523;507;97;0.0;{3 509};Desulfurococcaceae archaeon;DNA topoisomerase VI subunit B
+WP_109159654.1;523;507;97;0.0;{3 509};Desulfurococcaceae archaeon AG1;DNA topoisomerase VI subunit B
+GAY25430.1;526;507;96;0.0;{6 512};Desulfurococcaceae archaeon AG1;DNA topoisomerase VI, B subunit
+WP_042667851.1;530;508;96;0.0;{6 513};Desulfurococcus amylolyticus;DNA topoisomerase VI subunit B
+WP_048078751.1;529;491;93;0.0;{3 493};Desulfurococcus mucosus;DNA topoisomerase VI subunit B
+OYT47402.1;524;479;91;0.0;{6 484};Desulfurococcales archaeon ex4484_42;DNA topoisomerase VI subunit B
+WP_013562721.1;529;491;93;0.0;{3 493};Desulfurococcus mucosus;DNA topoisomerase VI subunit B
+WP_014736969.1;529;485;92;0.0;{6 490};Thermogladius calderae;DNA topoisomerase VI subunit B
+WP_013129653.1;532;483;91;0.0;{8 490};Thermosphaera aggregans;DNA topoisomerase VI subunit B
+WP_014768080.1;530;505;95;0.0;{6 510};Desulfurococcus amylolyticus;DNA topoisomerase VI subunit B
+WP_012608886.1;530;505;95;0.0;{6 510};Desulfurococcus amylolyticus;DNA topoisomerase VI subunit B
+PMP60709.1;548;527;96;0.0;{0 526};Caldisphaera sp.;DNA topoisomerase VI subunit B
+OYT54473.1;537;520;97;0.0;{4 523};Desulfurococcales archaeon ex4484_217_2;DNA topoisomerase VI subunit B
+WP_083859987.1;547;526;96;0.0;{0 525};Caldisphaera lagunensis;DNA topoisomerase VI subunit B
+AFZ71100.1;555;526;95;0.0;{8 533};Caldisphaera lagunensis DSM 15908;DNA topoisomerase VI, B subunit
+WP_058370575.1;534;525;98;0.0;{9 533};Pyrodictium occultum;DNA topoisomerase VI subunit B
+ABM80808.1;535;509;95;0.0;{8 516};Hyperthermus butylicus DSM 5456;Type II DNA topoisomerase VI subunit B
+OYT55072.1;536;532;99;0.0;{3 534};Desulfurococcales archaeon ex4484_217_2;DNA topoisomerase VI subunit B
+ADM26916.1;528;509;96;0.0;{0 508};Ignisphaera aggregans DSM 17230;DNA topoisomerase VI, B subunit
+PMP59400.1;548;527;96;0.0;{0 526};Caldisphaera sp.;DNA topoisomerase VI subunit B
+OYT59788.1;532;530;100;0.0;{1 530};Desulfurococcales archaeon ex4484_217_1;DNA topoisomerase VI subunit B
+BAN89988.1;568;522;92;0.0;{22 543};Aeropyrum camini SY1 = JCM 12091;DNA topoisomerase VI subunit B
+RLG81866.1;523;516;99;0.0;{7 522};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+OYT41071.1;529;519;98;0.0;{2 520};Desulfurococcales archaeon ex4484_58;DNA topoisomerase VI subunit B
+OYT50264.1;523;516;99;0.0;{7 522};Desulfurococcales archaeon ex4484_204;DNA topoisomerase VI subunit B
+WP_075049287.1;530;511;96;0.0;{6 516};Ignicoccus islandicus;DNA topoisomerase VI subunit B
+WP_048061796.1;519;501;97;0.0;{0 500};Hyperthermus butylicus;DNA topoisomerase VI subunit B
+Q9YE64.2;568;522;92;0.0;{22 543};Aeropyrum pernix K1;RecName: Full=Type 2 DNA topoisomerase 6 subunit B, AltName: Full=Type II DNA topoisomerase VI subunit B, Short=TopoVI-B BAA79682.2 type II DNA topoisomerase VI subunit B
+RLG81355.1;529;507;96;0.0;{6 512};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+WP_013143766.1;531;484;91;0.0;{8 491};Staphylothermus hellenicus;DNA topoisomerase VI subunit B
+WP_011839271.1;531;484;91;0.0;{8 491};Staphylothermus marinus;DNA topoisomerase VI subunit B
+WP_055409925.1;534;510;96;0.0;{6 515};Pyrodictium delaneyi;DNA topoisomerase VI subunit B
+WP_117354053.1;556;501;90;1e-179;{9 509};Acidilobus sp. 7A;DNA topoisomerase VI subunit B
+PVU73144.1;556;488;88;1e-179;{9 496};Acidilobus sp. SCGC AC-742_E15;DNA topoisomerase VI subunit B
+PVU69012.1;554;488;88;1e-179;{9 496};Acidilobus sp. SCGC AC-742_M05;DNA topoisomerase VI subunit B, partial
+RLG76192.1;549;514;94;6e-179;{7 520};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+KJR78158.1;372;370;99;6e-179;{0 369};Candidatus Aramenus sulfurataquae;DNA topoisomerase VI subunit B, partial
+ESQ26440.1;556;488;88;1e-178;{9 496};uncultured Acidilobus sp. JCHS;DNA topoisomerase VI, B subunit
+ESQ23405.1;556;488;88;2e-178;{9 496};uncultured Acidilobus sp. MG;DNA topoisomerase VI, B subunit
+ESQ26089.1;556;488;88;8e-178;{9 496};uncultured Acidilobus sp. OSP8;DNA topoisomerase VI, B subunit
+ESQ20969.1;556;486;87;2e-177;{9 494};uncultured Acidilobus sp. CIS;DNA topoisomerase VI, B subunit
+RLG73486.1;552;508;92;4e-177;{7 514};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+WP_013266139.1;556;490;88;7e-177;{8 497};Acidilobus saccharovorans;DNA topoisomerase VI subunit B
+PUA33109.1;536;529;99;7e-176;{3 531};Zestosphaera tikiterensis;DNA topoisomerase VI subunit B
+WP_012123231.1;553;497;90;1e-170;{10 506};Ignicoccus hospitalis;DNA topoisomerase VI subunit B
+WP_069807258.1;537;505;94;4e-170;{6 510};Vulcanisaeta thermophila;DNA topoisomerase VI subunit B
+RLF16718.1;527;483;92;6e-168;{8 490};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+ABL88021.1;528;504;95;3e-167;{0 503};Pyrobaculum islandicum DSM 4184;DNA topoisomerase VI, B subunit
+AFH42740.1;561;540;96;3e-167;{15 554};Fervidicoccus fontis Kam940;DNA topoisomerase VI subunit B
+RLF25176.1;527;500;95;6e-167;{6 505};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+RLF20135.1;527;483;92;1e-166;{8 490};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+WP_053240542.1;525;498;95;2e-166;{3 500};Pyrobaculum islandicum;DNA topoisomerase VI subunit B
+WP_013336987.1;539;506;94;5e-166;{7 512};Vulcanisaeta distributa;DNA topoisomerase VI subunit B
+KUO94058.1;533;509;95;5e-165;{7 515};Vulcanisaeta sp. CIS_19;DNA topoisomerase VI
+PNV80141.1;574;514;90;8e-165;{3 516};Fervidicoccus sp.;DNA topoisomerase VI subunit B
+WP_081225901.1;533;489;92;1e-164;{7 495};Vulcanisaeta sp. EB80;DNA topoisomerase VI subunit B
+KUO82006.1;533;489;92;2e-164;{7 495};Vulcanisaeta sp. JCHS_4;DNA topoisomerase VI
+ABO08367.1;526;498;95;2e-164;{5 502};Pyrobaculum calidifontis JCM 11548;DNA topoisomerase VI, B subunit
+WP_013603695.1;536;509;95;3e-164;{7 515};Vulcanisaeta moutnovskia;DNA topoisomerase VI subunit B
+ACB40316.1;530;504;95;3e-163;{0 503};Pyrobaculum neutrophilum V24Sta;DNA topoisomerase VI, B subunit
+RLE92739.1;529;477;90;7e-163;{10 486};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+AET31905.1;526;498;95;1e-162;{3 500};Pyrobaculum ferrireducens;DNA topoisomerase VI subunit B
+RLE61541.1;513;477;93;6e-162;{1 477};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+PMB75425.1;561;540;96;2e-161;{15 554};Fervidicoccus fontis;DNA topoisomerase VI subunit B
+OYT62376.1;516;500;97;2e-160;{6 505};Thermofilum sp. ex4484_15;DNA topoisomerase VI subunit B
+ABP51475.1;528;496;94;2e-160;{3 498};Pyrobaculum arsenaticum DSM 13514;DNA topoisomerase VI, B subunit
+WP_116421437.1;527;505;96;2e-160;{3 507};Pyrobaculum aerophilum;DNA topoisomerase VI subunit B
+Q8ZVM0.1;527;505;96;3e-160;{3 507};Pyrobaculum aerophilum str. IM2;RecName: Full=Type 2 DNA topoisomerase 6 subunit B, AltName: Full=Type II DNA topoisomerase VI subunit B, Short=TopoVI-B AAL64036.1 DNA topoisomerase VI (type II ) subunit b
+AFA38222.1;528;496;94;4e-160;{3 498};Pyrobaculum oguniense TE7;DNA topoisomerase VI, B subunit
+RLE57852.1;509;479;94;5e-160;{5 483};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+WP_013679319.1;528;511;97;2e-159;{0 510};Thermoproteus uzoniensis;DNA topoisomerase VI subunit B
+RLE78031.1;510;499;98;8e-159;{2 500};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+AKT35096.1;526;505;96;1e-158;{3 507};Pyrobaculum sp. WP30;DNA topoisomerase VI, B subunit
+KUO90818.1;526;505;96;2e-158;{3 507};Pyrobaculum sp. OCT_11;DNA topoisomerase VI
+WP_014026830.1;526;476;90;4e-158;{7 482};Pyrolobus fumarii;DNA topoisomerase VI subunit B
+OYT27198.1;475;466;98;8e-158;{8 473};Thermoprotei archaeon ex4572_64;DNA topoisomerase VI subunit B
+WP_048062719.1;525;499;95;1e-157;{7 505};Caldivirga maquilingensis;DNA topoisomerase VI subunit B
+ABW02046.1;528;499;95;1e-157;{10 508};Caldivirga maquilingensis IC-167;DNA topoisomerase VI, B subunit
+KJR73748.1;525;504;96;1e-156;{0 503};Thermoproteus sp. AZ2;DNA topoisomerase VI subunit B
+RLE82548.1;522;477;91;4e-156;{4 480};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+RLE65213.1;527;501;95;4e-156;{2 502};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+RLE82033.1;523;498;95;1e-155;{4 501};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+KUO87685.1;528;518;98;2e-155;{0 517};Thermoproteus sp. JCHS_4;DNA topoisomerase VI
+PLJ77623.1;512;509;99;3e-155;{1 509};Thermofilum sp. NZ13;DNA topoisomerase VI subunit B
+KUO84250.1;527;499;95;4e-155;{7 505};Caldivirga sp. MG_3;DNA topoisomerase VI
+WP_066797737.1;527;499;95;6e-155;{7 505};Caldivirga sp. MU80;DNA topoisomerase VI subunit B
+KUO92574.1;523;502;96;2e-154;{0 501};Thermocladium sp. ECH_B;DNA topoisomerase VI
+KUO84380.1;528;518;98;5e-154;{0 517};Thermoproteus sp. CIS_19;DNA topoisomerase VI
+WP_081246480.1;528;518;98;4e-153;{0 517};Thermoproteus sp. CP80;DNA topoisomerase VI subunit B
+RLI03856.1;519;492;95;1e-151;{5 496};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+WP_052884447.1;513;503;98;9e-151;{1 503};Thermofilum uzonense;DNA topoisomerase VI subunit B
+BAJ47823.1;520;471;91;1e-150;{15 485};Candidatus Caldiarchaeum subterraneum;DNA topoisomerase VI subunit B
+RLE89961.1;514;490;95;2e-150;{2 491};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+RJX16324.1;518;487;94;7e-150;{1 487};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+RLE61475.1;523;500;96;9e-150;{6 505};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+KJR71931.1;505;463;92;1e-149;{0 462};Vulcanisaeta sp. AZ3;DNA topoisomerase VI subunit B, partial
+WP_011752333.1;516;479;93;1e-149;{2 480};Thermofilum pendens;DNA topoisomerase VI subunit B
+RLE84442.1;522;477;91;2e-149;{1 477};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+RLI01422.1;518;487;94;8e-149;{1 487};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+KJR71935.1;505;463;92;2e-148;{0 462};Vulcanisaeta sp. AZ3;DNA topoisomerase VI subunit B, partial
+RLG91244.1;518;488;94;3e-148;{1 488};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+RLE78255.1;521;489;94;8e-147;{3 491};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+RLE98582.1;506;482;95;2e-146;{1 482};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+RLE72254.1;516;476;92;8e-146;{1 476};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+RLE77086.1;516;476;92;1e-145;{1 476};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+RLE96168.1;506;482;95;2e-145;{1 482};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+GBC75579.1;504;498;99;3e-145;{0 497};archaeon HR06;Type 2 DNA topoisomerase 6 subunit B
+WP_020962614.1;511;481;94;3e-145;{2 482};Thermofilum adornatus;DNA topoisomerase VI subunit B
+OYT31914.1;525;488;93;4e-145;{1 488};Thermofilum sp. ex4484_79;DNA topoisomerase VI subunit B
+WP_052886365.1;511;481;94;6e-145;{2 482};Thermofilum carboxyditrophus;DNA topoisomerase VI subunit B
+OGD52837.1;507;483;95;2e-144;{2 484};Candidatus Bathyarchaeota archaeon RBG_13_38_9;DNA topoisomerase VI subunit B
+RLF06848.1;506;482;95;5e-144;{1 482};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+RLG83050.1;444;428;96;9e-144;{0 427};Thermoprotei archaeon;DNA topoisomerase VI subunit B, partial
+RLI11468.1;529;480;91;3e-143;{0 479};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+PMB75054.1;512;486;95;4e-143;{7 492};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+RLG94690.1;607;476;78;6e-143;{9 484};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+WP_119819653.1;516;488;95;2e-142;{9 496};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+RLI28989.1;517;481;93;2e-142;{5 485};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+RLE95263.1;516;492;95;2e-142;{6 497};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+RLI50915.1;510;483;95;2e-142;{5 487};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+RLE49749.1;516;489;95;2e-142;{0 488};Candidatus Verstraetearchaeota archaeon;DNA topoisomerase VI subunit B
+KON33189.1;507;489;96;3e-142;{1 489};miscellaneous Crenarchaeota group-6 archaeon AD8-1;hypothetical protein AC479_05455
+RJS82111.1;505;480;95;7e-142;{4 483};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+PDM26838.1;505;480;95;7e-142;{4 483};Candidatus Bathyarchaeota archaeon B24-2;DNA topoisomerase VI subunit B
+PIU59038.1;508;488;96;9e-142;{1 488};Candidatus Bathyarchaeota archaeon CG07_land_8_20_14_0_80_47_9;DNA topoisomerase VI subunit B
+RLG97282.1;505;480;95;9e-142;{4 483};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+RLI29293.1;480;476;99;1e-141;{2 477};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+RLI22976.1;505;480;95;2e-141;{4 483};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+RJS78320.1;521;488;94;2e-141;{14 501};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+RLI11637.1;600;497;83;2e-141;{2 498};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+RLG92963.1;506;486;96;2e-141;{2 487};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+RLG06920.1;525;511;97;2e-141;{2 512};Thaumarchaeota archaeon;DNA topoisomerase VI subunit B
+PUA33044.1;520;489;94;2e-141;{1 489};Aigarchaeota archaeon NZ13_MG1;DNA topoisomerase VI subunit B
+OGD49191.1;505;474;94;2e-139;{2 475};Candidatus Bathyarchaeota archaeon RBG_13_46_16b;DNA topoisomerase VI subunit B
+PMB74880.1;513;474;92;5e-139;{10 483};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+PCN51253.1;542;495;91;1e-138;{1 495};Candidatus Geothermarchaeota archaeon ex4572_27;DNA topoisomerase VI subunit B
+RLG02654.1;525;476;91;3e-138;{4 479};Thaumarchaeota archaeon;DNA topoisomerase VI subunit B
+RLI03694.1;607;481;79;4e-138;{4 484};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+KON27106.1;508;488;96;6e-138;{2 489};miscellaneous Crenarchaeota group archaeon SMTZ-80;hypothetical protein AC481_05710
+RJS85679.1;600;497;83;9e-138;{2 498};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+PSN90386.1;515;482;94;1e-137;{7 488};Candidatus Marsarchaeota G2 archaeon ECH_B_SAG-M15;DNA topoisomerase VI subunit B
+RLI46999.1;524;488;93;2e-137;{18 505};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+PSO08351.1;515;482;94;2e-137;{7 488};Candidatus Marsarchaeota G2 archaeon BE_D;DNA topoisomerase VI subunit B
+KPV64480.1;508;487;96;5e-137;{3 489};Candidatus Bathyarchaeota archaeon BA2;Type 2 DNA topoisomerase 6 subunit B
+RLI17615.1;508;479;94;6e-137;{0 478};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+KON32219.1;541;522;96;1e-136;{1 522};miscellaneous Crenarchaeota group-1 archaeon SG8-32-3;hypothetical protein AC478_00955
+RLI22423.1;508;488;96;1e-136;{1 488};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+RJS88186.1;607;481;79;1e-136;{4 484};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+RJS69252.1;508;488;96;1e-136;{1 488};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+RLI24589.1;520;482;93;1e-136;{4 485};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+RLI11958.1;508;488;96;4e-136;{1 488};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+RLG55594.1;515;483;94;5e-136;{0 482};Candidatus Korarchaeota archaeon;DNA topoisomerase VI subunit B
+RLG52707.1;515;483;94;5e-136;{0 482};Candidatus Korarchaeota archaeon;DNA topoisomerase VI subunit B
+RLI32212.1;527;485;92;7e-136;{0 484};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+RLF13286.1;516;509;99;8e-136;{3 511};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+RJS85504.1;599;474;79;3e-135;{2 475};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+GBC71486.1;528;477;90;6e-135;{4 480};archaeon HR02;Type 2 DNA topoisomerase 6 subunit B
+OFX17914.1;519;479;92;5e-134;{0 478};archaeon RBG_16_50_20;DNA topoisomerase VI subunit B
+GBC69309.1;520;477;92;7e-134;{6 482};archaeon HR01;Type 2 DNA topoisomerase 6 subunit B
+PCN50015.1;514;486;95;1e-133;{4 489};Candidatus Geothermarchaeota archaeon ex4572_27;DNA topoisomerase VI subunit B
+PMB78551.1;530;490;92;2e-133;{3 492};Candidatus Korarchaeota archaeon;DNA topoisomerase VI subunit B
+KYH36952.1;535;475;89;2e-133;{4 478};Candidatus Bathyarchaeota archaeon B24;hypothetical protein AYL29_009980
+RLI67409.1;505;485;96;2e-133;{4 488};Candidatus Heimdallarchaeota archaeon;DNA topoisomerase VI subunit B
+OLE76723.1;527;503;95;2e-133;{0 502};archaeon 13_1_20CM_2_54_9;DNA topoisomerase VI subunit B
+RLI24062.1;535;475;89;3e-133;{4 478};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+RLI12305.1;600;497;83;3e-133;{2 498};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+AIE99386.1;516;492;95;5e-133;{6 497};uncultured marine thaumarchaeote KM3_10_C07;DNA topoisomerase VI subunit B (top6B)
+OLD01286.1;527;503;95;2e-132;{0 502};Crenarchaeota archaeon 13_1_40CM_3_53_5;DNA topoisomerase VI subunit B
+RLG67296.1;526;513;98;3e-132;{6 518};archaeon;DNA topoisomerase VI subunit B
+RLE70549.1;509;491;96;4e-132;{1 491};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+RLE63800.1;417;415;100;4e-132;{2 416};Thermoprotei archaeon;DNA topoisomerase VI subunit B, partial
+OGD46427.1;509;500;98;1e-131;{4 503};Candidatus Bathyarchaeota archaeon RBG_16_48_13;DNA topoisomerase VI subunit B
+RLF10194.1;511;509;100;2e-131;{1 509};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+RLG62525.1;498;473;95;3e-131;{2 474};Candidatus Geothermarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+RLE47794.1;484;458;95;5e-131;{0 457};Candidatus Verstraetearchaeota archaeon;DNA topoisomerase VI subunit B
+RLF79013.1;511;480;94;6e-131;{0 479};Thermococci archaeon;DNA topoisomerase VI subunit B
+RLG69453.1;511;480;94;1e-130;{0 479};archaeon;DNA topoisomerase VI subunit B
+RJS86269.1;542;474;87;2e-130;{25 498};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+KYH42537.1;611;474;78;2e-130;{14 487};Candidatus Bathyarchaeota archaeon B26-1;hypothetical protein AYL31_000890
+RLE51142.1;453;453;100;2e-130;{0 452};Candidatus Verstraetearchaeota archaeon;DNA topoisomerase VI subunit B
+OLB45973.1;528;502;95;4e-130;{0 501};archaeon 13_2_20CM_2_53_6;DNA topoisomerase VI subunit B
+RLE70055.1;452;436;96;5e-130;{6 441};Thermoprotei archaeon;DNA topoisomerase VI subunit B, partial
+RLE51728.1;484;466;96;1e-129;{0 465};Candidatus Verstraetearchaeota archaeon;DNA topoisomerase VI subunit B
+RLI09640.1;527;479;91;2e-129;{4 482};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+RJS78217.1;611;474;78;2e-129;{14 487};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+RLI36424.1;523;482;92;6e-129;{11 492};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+OHE56275.1;601;498;83;7e-129;{12 509};Thaumarchaeota archaeon RBG_16_49_8;DNA topoisomerase VI subunit B
+PSN86840.1;514;480;93;9e-129;{12 491};Candidatus Marsarchaeota G1 archaeon BE_D;DNA topoisomerase VI subunit B
+RLI52833.1;547;478;87;1e-128;{53 530};Candidatus Thorarchaeota archaeon;DNA topoisomerase VI subunit B
+RLI56358.1;547;478;87;1e-128;{53 530};Candidatus Thorarchaeota archaeon;DNA topoisomerase VI subunit B
+RLG97388.1;611;474;78;1e-128;{14 487};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+RLI48573.1;547;469;86;2e-128;{53 521};Candidatus Thorarchaeota archaeon;DNA topoisomerase VI subunit B
+PSN84463.1;514;480;93;2e-128;{12 491};Candidatus Marsarchaeota G1 archaeon OSP_D;DNA topoisomerase VI subunit B
+RLF13935.1;520;488;94;3e-128;{15 502};Thermoprotei archaeon;DNA topoisomerase VI subunit B, partial
+OLE71558.1;525;503;96;4e-128;{0 502};archaeon 13_1_20CM_2_51_12;DNA topoisomerase VI subunit B
+KON31511.1;527;479;91;2e-127;{4 482};miscellaneous Crenarchaeota group-15 archaeon DG-45;hypothetical protein AC482_00540
+RLF10882.1;471;467;99;3e-127;{4 470};Thermoprotei archaeon;DNA topoisomerase VI subunit B, partial
+PMP94332.1;507;473;93;4e-126;{2 474};Nitrososphaera sp.;DNA topoisomerase VI subunit B
+RLI02964.1;528;483;91;6e-125;{1 483};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+CCC81399.1;373;373;100;5e-124;{0 372};Thermoproteus tenax Kra 1;type II DNA topoisomerase VI, subunit B
+OGD58075.1;555;506;91;3e-122;{3 508};Candidatus Bathyarchaeota archaeon RBG_13_52_12;DNA topoisomerase VI subunit B
+RLI42928.1;437;418;96;4e-122;{0 417};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+RLG08450.1;618;443;72;2e-121;{130 572};Thaumarchaeota archaeon;DNA topoisomerase VI subunit B
+WP_125740879.1;512;489;96;7e-121;{0 488};Candidatus Korarchaeum cryptofilum;DNA topoisomerase VI subunit B
+WP_012310094.1;512;484;95;1e-120;{0 483};Candidatus Korarchaeum cryptofilum;DNA topoisomerase VI subunit B
+RDE15472.1;517;478;92;4e-120;{17 494};Candidatus Thorarchaeota archaeon;DNA topoisomerase VI subunit B
+PNV78183.1;519;468;90;1e-118;{2 469};Candidatus Korarchaeota archaeon;DNA topoisomerase VI subunit B
+WP_125672789.1;533;468;88;2e-118;{16 483};Candidatus Korarchaeota archaeon MDKW;DNA topoisomerase VI subunit B
+RDE11245.1;505;470;93;5e-116;{10 479};Candidatus Thorarchaeota archaeon;DNA topoisomerase VI subunit B
+RLI86621.1;565;475;84;7e-116;{1 475};Archaeoglobales archaeon;DNA topoisomerase VI subunit B
+RDD53445.1;511;490;96;9e-116;{0 489};Candidatus Korarchaeota archaeon NZ13-K;DNA topoisomerase VI subunit B
+RLG46367.1;527;487;92;1e-115;{11 497};Candidatus Korarchaeota archaeon;DNA topoisomerase VI subunit B
+RLG48696.1;504;479;95;1e-114;{10 488};Candidatus Korarchaeota archaeon;DNA topoisomerase VI subunit B
+WP_012940670.1;574;478;83;2e-113;{2 479};Archaeoglobus profundus;DNA topoisomerase VI subunit B
+RLG83429.1;630;579;92;2e-112;{8 586};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+RUM33716.1;612;478;78;3e-112;{20 497};Archaeoglobus sp.;DNA topoisomerase VI subunit B
+RLF72831.1;629;489;78;2e-111;{12 500};Thermoplasmata archaeon;DNA topoisomerase VI subunit B
+RLG41607.1;522;449;86;3e-111;{10 458};Candidatus Korarchaeota archaeon;DNA topoisomerase VI subunit B
+RLI54553.1;513;485;95;4e-111;{5 489};Candidatus Thorarchaeota archaeon;DNA topoisomerase VI subunit B
+RLF55080.1;629;489;78;5e-111;{12 500};Thermoplasmata archaeon;DNA topoisomerase VI subunit B
+RDE16065.1;504;477;95;8e-111;{4 480};Candidatus Thorarchaeota archaeon;DNA topoisomerase VI subunit B
+RDE16513.1;507;489;96;1e-110;{10 498};Candidatus Thorarchaeota archaeon;DNA topoisomerase VI subunit B
+WP_012964873.1;592;475;80;2e-110;{5 479};Ferroglobus placidus;DNA topoisomerase VI subunit B
+KXH74219.1;514;484;94;2e-110;{9 492};Candidatus Thorarchaeota archaeon SMTZ1-45;hypothetical protein AM325_06390
+RJS89596.1;455;404;89;3e-110;{0 403};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+RLE59703.1;379;365;96;1e-109;{14 378};Thermoprotei archaeon;DNA topoisomerase VI subunit B, partial
+AJF62514.1;526;497;94;2e-109;{15 511};archaeon GW2011_AR20;DNA topoisomerase VI, subunit B
+OIN87359.1;540;512;95;2e-109;{19 530};Candidatus Aenigmarchaeota archaeon CG1_02_38_14;DNA topoisomerase VI subunit B
+PIV68531.1;551;512;93;4e-109;{30 541};Candidatus Aenigmarchaeota archaeon CG01_land_8_20_14_3_00_37_9;DNA topoisomerase VI subunit B
+OLS29795.1;499;474;95;4e-109;{1 474};Candidatus Thorarchaeota archaeon AB_25;Type 2 DNA topoisomerase 6 subunit B
+RLF65903.1;658;461;70;5e-109;{23 483};Thermoplasmata archaeon;DNA topoisomerase VI subunit B
+RLG41935.1;531;511;96;9e-109;{10 520};Candidatus Korarchaeota archaeon;DNA topoisomerase VI subunit B
+WP_013683747.1;606;489;81;2e-108;{0 488};Archaeoglobus veneficus;DNA topoisomerase VI subunit B
+RLJ06428.1;535;487;91;2e-108;{16 502};Candidatus Aenigmarchaeota archaeon;DNA topoisomerase VI subunit B
+RLI88568.1;597;477;80;2e-108;{3 479};Archaeoglobales archaeon;DNA topoisomerase VI subunit B, partial
+RLF22649.1;348;342;98;7e-108;{6 347};Thermoprotei archaeon;DNA topoisomerase VI subunit B, partial
+PIY35583.1;551;512;93;7e-108;{30 541};Candidatus Aenigmarchaeota archaeon CG_4_10_14_3_um_filter_37_21;DNA topoisomerase VI subunit B
+RLI77105.1;605;447;74;8e-108;{12 458};Archaeoglobales archaeon;DNA topoisomerase VI subunit B
+RLF43648.1;628;483;77;9e-108;{21 503};Thermoplasmata archaeon;DNA topoisomerase VI subunit B
+WP_066958231.1;600;468;78;2e-107;{12 479};Methanoculleus thermophilus;DNA topoisomerase VI subunit B
+KXH71092.1;505;477;94;9e-107;{5 481};Candidatus Thorarchaeota archaeon SMTZ1-45;hypothetical protein AM325_15220
+AOV95417.1;531;493;93;3e-106;{19 511};Nanohaloarchaea archaeon SG9;hypothetical protein AQV86_05890
+KHO45502.1;563;512;91;3e-106;{20 531};archaeon GW2011_AR3;DNA topoisomerase VI subunit B
+RLJ00120.1;513;496;97;4e-106;{1 496};Candidatus Aenigmarchaeota archaeon;DNA topoisomerase VI subunit B
+AJF61769.1;596;478;80;5e-106;{44 521};archaeon GW2011_AR15;DNA topoisomerase VI, B subunit
+RLE38646.1;554;519;94;6e-106;{27 545};Candidatus Woesearchaeota archaeon;DNA topoisomerase VI subunit B
+RMF07245.1;567;496;87;6e-106;{24 519};Candidatus Woesearchaeota archaeon;DNA topoisomerase VI subunit B
+RLF12888.1;642;518;81;1e-105;{15 532};Thermoprotei archaeon;DNA topoisomerase VI subunit B
+RLF54520.1;642;518;81;1e-105;{15 532};Thermoplasmata archaeon;DNA topoisomerase VI subunit B
+RLG63608.1;514;445;87;2e-105;{0 444};archaeon;DNA topoisomerase VI subunit B
+RLE47106.1;547;511;93;2e-105;{16 526};Candidatus Woesearchaeota archaeon;DNA topoisomerase VI subunit B
+RLJ07160.1;524;491;94;4e-105;{14 504};Candidatus Aenigmarchaeota archaeon;DNA topoisomerase VI subunit B
+RLI96564.1;563;507;90;6e-105;{19 525};Candidatus Aenigmarchaeota archaeon;DNA topoisomerase VI subunit B
+OYT35353.1;601;482;80;1e-104;{7 488};Archaeoglobales archaeon ex4484_92;DNA topoisomerase VI subunit B
+EGQ43280.1;530;491;93;1e-104;{18 508};Candidatus Nanosalina sp. J07AB43;DNA topoisomerase VI, B subunit
+OIO61684.1;584;486;83;2e-104;{45 530};Candidatus Woesearchaeota archaeon CG1_02_33_12;DNA topoisomerase VI subunit B
+RLI62545.1;501;442;88;2e-104;{6 447};Candidatus Thorarchaeota archaeon;DNA topoisomerase VI subunit B
+RLI47577.1;501;442;88;2e-104;{6 447};Candidatus Thorarchaeota archaeon;DNA topoisomerase VI subunit B
+RLF45348.1;622;484;78;3e-104;{14 497};Thermoplasmata archaeon;DNA topoisomerase VI subunit B
+OYT31765.1;707;517;73;6e-104;{170 686};Candidatus Woesearchaeota archaeon ex4484_78;DNA topoisomerase VI subunit B
+WP_010878155.1;602;453;75;7e-104;{0 452};Archaeoglobus fulgidus;DNA topoisomerase VI subunit B
+PIN70367.1;619;481;78;7e-104;{44 524};Candidatus Woesearchaeota archaeon CG11_big_fil_rev_8_21_14_0_20_43_8;DNA topoisomerase VI subunit B
+WP_015591570.1;605;448;74;1e-103;{12 459};Archaeoglobus sulfaticallidus;DNA topoisomerase VI subunit B
+WP_015282838.1;646;487;75;2e-103;{6 492};Aciduliprofundum sp. MAR08-339;DNA topoisomerase VI subunit B
+RMF54682.1;556;511;92;3e-103;{18 528};Candidatus Woesearchaeota archaeon;DNA topoisomerase VI subunit B
+RLF05297.1;433;418;97;4e-103;{1 418};Thermoprotei archaeon;DNA topoisomerase VI subunit B, partial
+OYT34425.1;536;483;90;1e-102;{17 499};Candidatus Aenigmarchaeota archaeon ex4484_52;DNA topoisomerase VI subunit B
+RLF39563.1;645;515;80;1e-102;{15 529};Thermoplasmata archaeon;DNA topoisomerase VI subunit B
+OIO62586.1;583;514;88;1e-102;{39 552};Candidatus Woesearchaeota archaeon CG1_02_47_18;DNA topoisomerase VI subunit B
+RLJ03057.1;535;487;91;2e-102;{16 502};Candidatus Aenigmarchaeota archaeon;DNA topoisomerase VI subunit B
+PIU63708.1;547;523;96;3e-102;{11 533};archaeon CG07_land_8_20_14_0_80_38_8;DNA topoisomerase VI subunit B
+RLF44227.1;502;479;95;5e-102;{1 479};Thermoplasmata archaeon;DNA topoisomerase VI subunit B, partial
+WP_048112066.1;600;468;78;9e-102;{12 479};Methanoculleus sp. MH98A;DNA topoisomerase VI subunit B
+PMP74408.1;642;487;76;2e-101;{13 499};Aciduliprofundum sp.;DNA topoisomerase VI subunit B
+KHO50181.1;541;494;91;2e-101;{14 507};archaeon GW2011_AR9;DNA topoisomerase VI subunit B
+EHK02218.1;508;476;94;2e-101;{18 493};Candidatus Haloredivivus sp. G17;DNA topoisomerase VI subunit B
+KUL02660.1;600;468;78;3e-101;{12 479};Methanoculleus marisnigri;DNA topoisomerase VI, B subunit
+RLF62320.1;646;512;79;4e-101;{10 521};Thermoplasmata archaeon;DNA topoisomerase VI subunit B
+WP_011844426.1;600;468;78;4e-101;{12 479};Methanoculleus marisnigri;DNA topoisomerase VI subunit B
+PSH00629.1;478;456;95;4e-101;{19 474};Nanohaloarchaea archaeon SW_7_46_7;DNA topoisomerase VI subunit B
+RJQ18171.1;547;474;87;6e-101;{14 487};Candidatus Woesearchaeota archaeon;DNA topoisomerase VI subunit B
+RLI83513.1;624;465;75;7e-101;{0 464};Archaeoglobales archaeon;DNA topoisomerase VI subunit B
+WP_074175196.1;600;468;78;1e-100;{12 479};Methanoculleus bourgensis;DNA topoisomerase VI subunit B
+WP_014866699.1;600;468;78;1e-100;{12 479};Methanoculleus bourgensis;DNA topoisomerase VI subunit B
+WP_074359298.1;524;482;92;2e-100;{10 491};Methanothermobacter wolfeii;DNA topoisomerase VI subunit B
+WP_048092615.1;595;489;82;3e-100;{0 488};Geoglobus acetivorans;DNA topoisomerase VI subunit B
+PIN78769.1;570;477;84;4e-100;{34 510};Candidatus Woesearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_34_8;DNA topoisomerase VI subunit B
+KHO47570.1;547;502;92;5e-100;{16 517};archaeon GW2011_AR5;DNA topoisomerase VI subunit B
+AIF00780.1;556;476;86;5e-100;{31 506};uncultured marine group II/III euryarchaeote KM3_139_C07;DNA topoisomerase VI subunit B (top6B)
+RLG13397.1;572;491;86;6e-100;{36 526};Candidatus Nanohaloarchaeota archaeon;DNA topoisomerase VI subunit B
+PKL55735.1;600;468;78;6e-100;{12 479};Methanomicrobiales archaeon HGW-Methanomicrobiales-6;DNA topoisomerase VI subunit B
+WP_048184429.1;600;468;78;6e-100;{12 479};Methanoculleus sediminis;DNA topoisomerase VI subunit B
+RLF30702.1;646;512;79;6e-100;{10 521};Thermoplasmata archaeon;DNA topoisomerase VI subunit B
+WP_042687492.1;619;486;79;9e-100;{11 496};Methermicoccus shengliensis;DNA topoisomerase VI subunit B
+RJQ20354.1;544;508;93;1e-99;{0 507};Candidatus Woesearchaeota archaeon;DNA topoisomerase VI subunit B
+RLE45468.1;599;534;89;1e-99;{36 569};Candidatus Woesearchaeota archaeon;DNA topoisomerase VI subunit B
+RLF29170.1;664;511;77;1e-99;{28 538};Thermoplasmata archaeon;DNA topoisomerase VI subunit B
+AQS28041.1;502;471;94;1e-99;{17 487};uncultured archaeon;hypothetical protein
+WP_074370552.1;600;468;78;1e-99;{12 479};Methanoculleus chikugoensis;DNA topoisomerase VI subunit B
+RLF52947.1;642;516;80;1e-99;{15 530};Thermoplasmata archaeon;DNA topoisomerase VI subunit B
+PNX51172.1;643;513;80;1e-99;{15 527};Thermoplasmata archaeon M8B2D;DNA topoisomerase VI subunit B
+PIN73615.1;565;479;85;1e-99;{11 489};Candidatus Woesearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_45_16;DNA topoisomerase VI subunit B
+AAR38998.1;567;499;88;2e-99;{4 502};Nanoarchaeum equitans Kin4-M;NEQ144
+RLG15725.1;557;502;90;2e-99;{21 522};Candidatus Nanohaloarchaeota archaeon;DNA topoisomerase VI subunit B
+WP_067072694.1;600;468;78;2e-99;{12 479};Methanoculleus horonobensis;DNA topoisomerase VI subunit B
+WP_048094496.1;590;481;82;3e-99;{0 480};Geoglobus ahangari;DNA topoisomerase VI subunit B
+OLS31456.1;480;452;94;4e-99;{0 451};Candidatus Thorarchaeota archaeon AB_25;Type 2 DNA topoisomerase 6 subunit B
+WP_062262471.1;600;468;78;4e-99;{12 479};Methanoculleus sp. MAB1;DNA topoisomerase VI subunit B
+RLF95464.1;503;493;98;4e-99;{8 500};Thermococci archaeon;DNA topoisomerase VI subunit B
+RLF95877.1;503;493;98;4e-99;{8 500};Thermococci archaeon;DNA topoisomerase VI subunit B
+RME53983.1;660;479;73;5e-99;{126 604};Candidatus Woesearchaeota archaeon;DNA topoisomerase VI subunit B
+WP_012997216.1;663;487;73;6e-99;{22 508};Aciduliprofundum boonei;DNA topoisomerase VI subunit B
+RLI57971.1;504;464;92;6e-99;{8 471};Candidatus Thorarchaeota archaeon;DNA topoisomerase VI subunit B
+WP_088863494.1;563;553;98;7e-99;{8 560};Thermococcus celer;DNA topoisomerase VI subunit B
+EDY36956.1;681;487;72;7e-99;{40 526};Aciduliprofundum boonei T469;DNA topoisomerase VI, B subunit
+WP_054297646.1;621;480;77;8e-99;{14 493};Methanosarcina flavescens;DNA topoisomerase VI subunit B
+RLJ06099.1;498;495;99;2e-98;{1 495};Candidatus Aenigmarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+OYT43736.1;506;498;98;2e-98;{2 499};Candidatus Aenigmarchaeota archaeon ex4484_56;DNA topoisomerase VI subunit B
+RLI74315.1;1111;514;46;2e-98;{0 513};Candidatus Heimdallarchaeota archaeon;DNA topoisomerase VI subunit B
+PLW79771.1;593;479;81;2e-98;{52 530};Candidatus Woesearchaeota archaeon;DNA topoisomerase VI subunit B
+RLI69941.1;1118;514;46;2e-98;{7 520};Candidatus Heimdallarchaeota archaeon;DNA topoisomerase VI subunit B
+ABK14390.1;613;480;78;3e-98;{12 491};Methanothrix thermoacetophila PT;DNA topoisomerase VI, B subunit
+WP_008083489.1;680;487;72;4e-98;{39 525};Aciduliprofundum boonei;DNA topoisomerase VI subunit B
+WP_088864699.1;562;533;95;4e-98;{8 540};Thermococcus barossii;DNA topoisomerase VI subunit B
+PIN80756.1;581;478;82;5e-98;{40 517};Candidatus Woesearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_32_9;DNA topoisomerase VI subunit B
+RLF27721.1;645;484;75;6e-98;{15 498};Thermoplasmata archaeon;DNA topoisomerase VI subunit B
+RLF52679.1;644;513;80;9e-98;{15 527};Thermoplasmata archaeon;DNA topoisomerase VI subunit B
+WP_014789742.1;562;522;93;1e-97;{8 529};Thermococcus cleftensis;DNA topoisomerase VI subunit B
+WP_048178165.1;621;484;78;1e-97;{10 493};Methanosarcina sp. MTP4;DNA topoisomerase VI subunit B
+WP_048166783.1;621;480;77;1e-97;{14 493};Methanosarcina thermophila;DNA topoisomerase VI subunit B
+OGS55613.1;664;460;69;2e-97;{9 468};Euryarchaeota archaeon RBG_19FT_COMBO_56_21;DNA topoisomerase VI subunit B
+KHO53914.1;550;517;94;2e-97;{11 527};archaeon GW2011_AR18;DNA topoisomerase VI subunit B
+KHO52385.1;557;483;87;2e-97;{22 504};archaeon GW2011_AR17;DNA topoisomerase VI subunit B
+PKL62049.1;998;468;47;3e-97;{410 877};Methanomicrobiales archaeon HGW-Methanomicrobiales-2;hypothetical protein CVV31_08320
+RME31862.1;566;496;88;3e-97;{34 529};Candidatus Woesearchaeota archaeon;DNA topoisomerase VI subunit B
+PIN86084.1;579;478;83;3e-97;{26 503};Candidatus Woesearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_44_13;DNA topoisomerase VI subunit B
+WP_062373962.1;562;522;93;4e-97;{8 529};Thermococcus guaymasensis;DNA topoisomerase VI subunit B
+PJB21197.1;652;520;80;4e-97;{15 534};Euryarchaeota archaeon CG_4_9_14_3_um_filter_38_12;DNA topoisomerase VI subunit B
+WP_013413373.1;521;482;93;4e-97;{9 490};Methanothermus fervidus;DNA topoisomerase VI subunit B
+PIV70230.1;652;520;80;5e-97;{15 534};Euryarchaeota archaeon CG01_land_8_20_14_3_00_38_12;DNA topoisomerase VI subunit B
+WP_094228919.1;620;480;77;5e-97;{14 493};Methanolobus psychrotolerans;DNA topoisomerase VI subunit B
+WP_095645014.1;621;480;77;6e-97;{14 493};Methanosarcina spelaei;DNA topoisomerase VI subunit B
+RLF36374.1;644;513;80;7e-97;{15 527};Thermoplasmata archaeon;DNA topoisomerase VI subunit B
+RLG14045.1;724;535;74;8e-97;{0 534};Candidatus Pacearchaeota archaeon;DNA topoisomerase VI subunit B, partial
+KHO50506.1;480;460;96;8e-97;{16 475};archaeon GW2011_AR11;DNA topoisomerase VI subunit B, partial
+OGS43226.1;672;460;68;9e-97;{17 476};Euryarchaeota archaeon RBG_13_57_23;DNA topoisomerase VI subunit B
+RCU60829.1;625;466;75;9e-97;{14 479};ANME-2 cluster archaeon;DNA topoisomerase VI subunit B
+WP_011021597.1;621;484;78;1e-96;{10 493};Methanosarcina acetivorans;DNA topoisomerase VI subunit B
+WP_088866170.1;564;554;98;1e-96;{8 561};Thermococcus radiotolerans;DNA topoisomerase VI subunit B
+WP_074631201.1;564;522;93;1e-96;{8 529};Thermococcus thioreducens;DNA topoisomerase VI subunit B
+WP_088180464.1;564;554;98;1e-96;{8 561};Thermococcus sp. 5-4;DNA topoisomerase VI subunit B
+RLI61627.1;639;504;79;1e-96;{11 514};Candidatus Thorarchaeota archaeon;DNA topoisomerase VI subunit B
+KXH77519.1;481;460;96;1e-96;{0 459};Candidatus Thorarchaeota archaeon SMTZ1-83;hypothetical protein AM324_00065
+WP_015859038.1;561;537;96;2e-96;{8 544};Thermococcus gammatolerans;DNA topoisomerase VI subunit B
+WP_010885642.1;564;541;96;2e-96;{8 548};Pyrococcus horikoshii;DNA topoisomerase VI subunit B
+OGS40110.1;642;511;80;2e-96;{15 525};Euryarchaeota archaeon RBG_13_31_8;DNA topoisomerase VI subunit B
+RLI16382.1;350;348;99;2e-96;{2 349};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+WP_048107223.1;621;480;77;2e-96;{14 493};Methanosarcina barkeri;DNA topoisomerase VI subunit B
+WP_014121964.1;560;521;93;2e-96;{8 528};Thermococcus sp. AM4;DNA topoisomerase VI subunit B
+WP_048182357.1;621;484;78;2e-96;{10 493};Methanosarcina siciliae;DNA topoisomerase VI subunit B
+AAZ32519.1;631;490;78;2e-96;{6 495};uncultured euryarchaeote Alv-FOS4;DNA topoisomerase VI subunit B
+WP_088856540.1;566;522;92;2e-96;{8 529};Thermococcus siculi;DNA topoisomerase VI subunit B
+WP_048171932.1;621;484;78;2e-96;{10 493};Methanosarcina siciliae;DNA topoisomerase VI subunit B
+PKK86320.1;702;485;69;3e-96;{16 500};Thermoplasmata archaeon HGW-Thermoplasmata-1;DNA topoisomerase VI subunit B
+WP_048117745.1;621;480;77;3e-96;{14 493};Methanosarcina;MULTISPECIES: DNA topoisomerase VI subunit B
+WP_010876638.1;523;482;92;3e-96;{10 491};Methanothermobacter thermautotrophicus;DNA topoisomerase VI subunit B
+PIN75435.1;543;485;89;3e-96;{15 499};Candidatus Woesearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_37_12;DNA topoisomerase VI subunit B
+ODS40748.1;533;506;95;4e-96;{23 528};Candidatus Altiarchaeales archaeon WOR_SM1_79;DNA topoisomerase VI subunit B
+RLE46311.1;488;474;97;4e-96;{14 487};Candidatus Woesearchaeota archaeon;DNA topoisomerase VI subunit B, partial
+PIN75198.1;576;480;83;5e-96;{15 494};Candidatus Woesearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_36_11;DNA topoisomerase VI subunit B
+RLF39763.1;508;484;95;5e-96;{17 500};Thermoplasmata archaeon;DNA topoisomerase VI subunit B, partial
+WP_099211212.1;560;521;93;5e-96;{8 528};Thermococcus sp. EXT12c;DNA topoisomerase VI subunit B
+WP_109939676.1;607;472;78;6e-96;{18 489};Methanospirillum stamsii;DNA topoisomerase VI subunit B
+PHP45453.1;621;513;83;6e-96;{14 526};Methanosarcinales archaeon ex4572_44;DNA topoisomerase VI subunit B
+RLI97389.1;480;460;96;6e-96;{16 475};Candidatus Aenigmarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+DAC72715.1;641;511;80;6e-96;{11 521};Thermoplasmata archaeon;TPA: DNA topoisomerase VI subunit B
+WP_048148512.1;600;472;79;6e-96;{12 483};Methanolacinia paynteri;DNA topoisomerase VI subunit B
+RLG21683.1;537;464;86;7e-96;{12 475};Methanosarcinales archaeon;DNA topoisomerase VI subunit B, partial
+WP_050003978.1;566;555;98;8e-96;{9 563};Thermococcus eurythermalis;DNA topoisomerase VI subunit B
+OYT46754.1;624;489;78;8e-96;{8 496};Thermoplasmatales archaeon ex4484_6;DNA topoisomerase VI subunit B
+WP_014011801.1;565;541;96;9e-96;{9 549};Thermococcus sp. 4557;DNA topoisomerase VI subunit B
+PNX48959.1;641;511;80;9e-96;{11 521};Thermoplasmata archaeon M11B2D;DNA topoisomerase VI subunit B
+RLJ03435.1;528;479;91;1e-95;{16 494};Candidatus Aenigmarchaeota archaeon;DNA topoisomerase VI subunit B
+WP_048132570.1;621;484;78;1e-95;{10 493};Methanosarcina sp. 1.H.T.1A.1;DNA topoisomerase VI subunit B
+WP_042693152.1;567;537;95;1e-95;{8 544};Thermococcus nautili;DNA topoisomerase VI subunit B
+WP_048124872.1;621;484;78;1e-95;{10 493};Methanosarcina lacustris;DNA topoisomerase VI subunit B
+RLG27436.1;621;513;83;1e-95;{14 526};Methanosarcinales archaeon;DNA topoisomerase VI subunit B
+WP_088885071.1;567;548;97;1e-95;{9 556};Thermococcus gorgonarius;DNA topoisomerase VI subunit B
+RLF37666.1;639;513;80;1e-95;{23 535};Thermoplasmata archaeon;DNA topoisomerase VI subunit B
+RLI90474.1;550;498;91;1e-95;{9 506};Candidatus Altiarchaeales archaeon;DNA topoisomerase VI subunit B
+WP_048169117.1;621;484;78;1e-95;{10 493};Methanosarcina sp. 2.H.A.1B.4;DNA topoisomerase VI subunit B
+WP_048128630.1;621;483;78;2e-95;{11 493};Methanosarcina;MULTISPECIES: DNA topoisomerase VI subunit B
+PNX54298.1;641;511;80;2e-95;{11 521};Thermoplasmata archaeon M9B2D;DNA topoisomerase VI subunit B
+EQB66938.1;617;493;80;2e-95;{3 495};Thermoplasmatales archaeon E-plasma;hypothetical protein AMDU2_EPLC00006G0495
+KQM12580.1;665;484;73;2e-95;{16 499};Methanomassiliicoccales archaeon RumEn M1;DNA topoisomerase
+WP_013330299.1;600;472;79;2e-95;{12 483};Methanolacinia petrolearia;DNA topoisomerase VI subunit B
+WP_014734549.1;564;541;96;2e-95;{8 548};Pyrococcus sp. ST04;DNA topoisomerase VI subunit B
+WP_048161493.1;621;484;78;3e-95;{10 493};Methanosarcina sp. 1.H.A.2.2;DNA topoisomerase VI subunit B
+OYT41917.1;531;501;94;3e-95;{13 513};Candidatus Aenigmarchaeota archaeon ex4484_224;DNA topoisomerase VI subunit B
+AGF97783.1;611;480;79;3e-95;{4 483};Methanosarcina mazei Tuc01;DNA topoisomerase VI subunit B
+WP_048052961.1;621;484;78;3e-95;{10 493};Methanosarcina mazei;DNA topoisomerase VI subunit B
+WP_048051081.1;621;484;78;3e-95;{10 493};Methanosarcina soligelidi;DNA topoisomerase VI subunit B
+WP_048038741.1;621;484;78;3e-95;{10 493};Methanosarcina mazei;DNA topoisomerase VI subunit B
+WP_048039201.1;621;484;78;3e-95;{10 493};Methanosarcina mazei;DNA topoisomerase VI subunit B
+WP_048039796.1;621;484;78;3e-95;{10 493};Methanosarcina mazei;DNA topoisomerase VI subunit B
+AMK13490.1;675;485;72;3e-95;{28 512};methanogenic archaeon mixed culture ISO4-G1;DNA topoisomerase VI subunit B
+WP_011034341.1;621;484;78;3e-95;{10 493};Methanosarcina mazei;DNA topoisomerase VI subunit B
+WP_048041104.1;621;484;78;4e-95;{10 493};Methanosarcina mazei;DNA topoisomerase VI subunit B
+WP_015285298.1;609;468;77;5e-95;{21 488};Methanoregula formicica;DNA topoisomerase VI subunit B
+WP_011249750.1;567;520;92;5e-95;{8 527};Thermococcus kodakarensis;DNA topoisomerase VI subunit B
+WP_048137421.1;621;484;78;5e-95;{10 493};Methanosarcina;MULTISPECIES: DNA topoisomerase VI subunit B
+KUK70535.1;600;472;79;6e-95;{12 483};Methanocalculus sp. 52_23;DNA topoisomerase VI, B subunit
+WP_088854399.1;563;522;93;6e-95;{8 529};Thermococcus pacificus;DNA topoisomerase VI subunit B
+WP_086637300.1;622;531;85;6e-95;{7 537};Methanonatronarchaeum thermophilum;DNA topoisomerase VI subunit B
+WP_068578726.1;564;541;96;7e-95;{8 548};Thermococcus chitonophagus;DNA topoisomerase VI subunit B
+PIO00062.1;524;488;93;7e-95;{15 502};archaeon CG10_big_fil_rev_8_21_14_0_10_43_11;DNA topoisomerase VI subunit B
+WP_058938270.1;565;542;96;7e-95;{8 549};Thermococcus celericrescens;DNA topoisomerase VI subunit B
+WP_048140977.1;621;484;78;8e-95;{10 493};Methanosarcina horonobensis;DNA topoisomerase VI subunit B
+RLJ01074.1;506;490;97;8e-95;{3 492};Candidatus Aenigmarchaeota archaeon;DNA topoisomerase VI subunit B
+RLF68991.1;624;489;78;9e-95;{8 496};Thermoplasmata archaeon;DNA topoisomerase VI subunit B
+WP_012107300.1;600;468;78;1e-94;{12 479};Methanoregula boonei;DNA topoisomerase VI subunit B
+WP_068323717.1;564;541;96;1e-94;{8 548};Pyrococcus kukulkanii;DNA topoisomerase VI subunit B
+WP_014585668.1;611;480;79;1e-94;{12 491};Methanosaeta harundinacea;DNA topoisomerase VI subunit B
+WP_048044944.1;621;480;77;1e-94;{14 493};Methanosarcina mazei;DNA topoisomerase VI subunit B
+WP_007313794.1;601;472;79;2e-94;{12 483};Methanolinea tarda;DNA topoisomerase VI subunit B
+WP_020449267.1;666;485;73;2e-94;{16 500};Candidatus Methanomassiliicoccus intestinalis;DNA topoisomerase VI subunit B
+RLF31461.1;624;484;78;2e-94;{17 500};Thermoplasmata archaeon;DNA topoisomerase VI subunit B
+WP_048112361.1;673;493;73;2e-94;{18 510};Candidatus Methanoplasma termitum;DNA topoisomerase VI subunit B
+WP_011449864.1;606;472;78;3e-94;{17 488};Methanospirillum hungatei;DNA topoisomerase VI subunit B
+WP_011307748.1;621;480;77;4e-94;{14 493};Methanosarcina barkeri;DNA topoisomerase VI subunit B
+WP_042705918.1;603;478;79;4e-94;{6 483};Methanomicrobium mobile;DNA topoisomerase VI subunit B
+WP_014406227.1;535;503;94;5e-94;{15 517};Methanocella conradii;DNA topoisomerase VI subunit B
+WP_095608841.1;551;482;87;5e-94;{9 490};Methanosphaera cuniculi;DNA topoisomerase VI subunit B
+OGS59882.1;664;484;73;6e-94;{16 499};Euryarchaeota archaeon RBG_19FT_COMBO_69_17;DNA topoisomerase VI subunit B
+EOD42282.1;580;478;82;8e-94;{15 492};Candidatus Nanobsidianus stetteri;DNA topoisomerase VI subunit B
+RLI93268.1;553;499;90;9e-94;{13 511};Candidatus Altiarchaeales archaeon;DNA topoisomerase VI subunit B
+KQC03864.1;591;475;80;1e-93;{12 486};Methanolinea sp. SDB;DNA topoisomerase, partial
+WP_068667124.1;569;536;94;1e-93;{3 538};Thermococcus piezophilus;DNA topoisomerase VI subunit B
+KYK24834.1;577;521;90;2e-93;{8 528};Euryarchaeota archaeon SM23-78;hypothetical protein AYK26_03055
+PXF57397.1;627;466;74;2e-93;{14 479};ANME-2 cluster archaeon;DNA topoisomerase VI subunit B
+PKL65058.1;600;472;79;2e-93;{12 483};Methanomicrobiales archaeon HGW-Methanomicrobiales-3;DNA topoisomerase VI subunit B
+WP_048120871.1;621;480;77;2e-93;{14 493};Methanosarcina vacuolata;DNA topoisomerase VI subunit B
+RLI26755.1;350;348;99;3e-93;{2 349};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+EGQ40871.1;530;513;97;3e-93;{12 524};Candidatus Nanosalinarum sp. J07AB56;DNA topoisomerase VI, B subunit
+OEU41985.1;621;484;78;3e-93;{10 493};Methanosarcina sp. Ant1;DNA topoisomerase VI subunit B
+WP_048156073.1;621;480;77;3e-93;{14 493};Methanosarcina sp. Kolksee;DNA topoisomerase VI subunit B
+RQW78620.1;611;480;79;3e-93;{12 491};Methanothrix sp.;DNA topoisomerase VI subunit B
+WP_013194814.1;622;480;77;3e-93;{14 493};Methanohalobium evestigatum;DNA topoisomerase VI subunit B
+RAP49968.1;547;473;86;4e-93;{9 481};Methanosphaera sp. SHI613;DNA topoisomerase VI subunit B
+RMG38678.1;3505;539;15;4e-93;{40 578};Euryarchaeota archaeon;DNA topoisomerase VI subunit B
+RLI86158.1;543;480;88;5e-93;{12 491};Candidatus Altiarchaeales archaeon;DNA topoisomerase VI subunit B
+WP_015505144.1;685;491;72;6e-93;{23 513};Candidatus Methanomethylophilus alvus;DNA topoisomerase VI subunit B
+BAW31735.1;523;482;92;6e-93;{9 490};Methanothermobacter sp. MT-2;type II DNA topoisomerase VI, subunit B
+RQD79364.1;600;472;79;6e-93;{12 483};Methanocalculus sp. MSAO_Arc1;DNA topoisomerase VI subunit B
+WP_062386836.1;567;522;92;6e-93;{8 529};Thermococcus peptonophilus;DNA topoisomerase VI subunit B
+WP_019177591.1;664;477;72;7e-93;{16 492};Methanomassiliicoccus luminyensis;DNA topoisomerase VI subunit B
+CDF30507.1;685;491;72;7e-93;{23 513};Methanoculleus sp. CAG:1088;type 2 DNA topoisomerase 6 subunit B 3
+OIR20421.1;647;505;78;7e-93;{16 520};Marine Group III euryarchaeote CG-Bathy1;DNA topoisomerase VI subunit B
+OYT53198.1;543;502;92;7e-93;{11 512};Candidatus Altiarchaeales archaeon ex4484_2;DNA topoisomerase VI subunit B
+KQC16183.1;611;479;78;8e-93;{12 490};Methanosaeta sp. SDB;DNA topoisomerase
+WP_015054741.1;622;480;77;8e-93;{14 493};Methanolobus psychrophilus;DNA topoisomerase VI subunit B
+KXH71372.1;449;419;93;9e-93;{9 427};Candidatus Thorarchaeota archaeon SMTZ-45;hypothetical protein AM326_11870, partial
+OGI12217.1;1030;474;46;9e-93;{540 1013};Candidatus Micrarchaeota archaeon RBG_16_36_9;DNA topoisomerase VI subunit B
+WP_091709710.1;620;480;77;1e-92;{14 493};Methanolobus vulcani;DNA topoisomerase VI subunit B
+WP_048195132.1;622;484;78;1e-92;{10 493};Methanococcoides methylutens;DNA topoisomerase VI subunit B
+WP_004038298.1;599;473;79;1e-92;{12 484};Methanofollis liminatans;DNA topoisomerase VI subunit B
+AIE97100.1;672;505;75;1e-92;{41 545};uncultured marine group II/III euryarchaeote AD1000_91_C10;DNA topoisomerase VI subunit B (top6B)
+KYK38075.1;520;479;92;1e-92;{14 492};Theionarchaea archaeon DG-70;hypothetical protein AYK18_08170
+RAP53180.1;548;473;86;2e-92;{9 481};Methanosphaera sp. rholeuAM130;DNA topoisomerase VI subunit B
+KYH41422.1;486;374;77;2e-92;{1 374};Candidatus Bathyarchaeota archaeon B26-2;hypothetical protein AYL32_005320
+WP_112124783.1;547;473;86;2e-92;{9 481};Methanosphaera sp. BMS;DNA topoisomerase VI subunit B
+PIU30498.1;611;483;79;2e-92;{42 524};Candidatus Woesearchaeota archaeon CG07_land_8_20_14_0_80_44_23;DNA topoisomerase VI subunit B
+WP_067052238.1;599;473;79;2e-92;{12 484};Methanofollis ethanolicus;DNA topoisomerase VI subunit B
+PVU71220.1;580;478;82;2e-92;{15 492};Candidatus Nanobsidianus stetteri;DNA topoisomerase VI subunit B
+RLI95264.1;543;502;92;3e-92;{11 512};Candidatus Altiarchaeales archaeon;DNA topoisomerase VI subunit B
+PIN87943.1;578;480;83;4e-92;{15 494};Candidatus Woesearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_32_24;DNA topoisomerase VI subunit B
+KXS40906.1;620;480;77;4e-92;{14 493};Methanolobus sp. T82-4;DNA topoisomerase VI subunit B
+PKL70321.1;600;468;78;4e-92;{12 479};Methanomicrobiales archaeon HGW-Methanomicrobiales-1;DNA topoisomerase VI subunit B
+PBO81764.1;688;496;72;5e-92;{53 548};Euryarchaeota archaeon;DNA topoisomerase VI subunit B
+RLI91351.1;552;502;91;6e-92;{14 515};Candidatus Altiarchaeales archaeon;DNA topoisomerase VI subunit B
+WP_066074056.1;682;494;72;8e-92;{20 513};methanogenic archaeon ISO4-H5;DNA topoisomerase VI subunit B
+WP_013719237.1;611;480;79;8e-92;{12 491};Methanothrix soehngenii;DNA topoisomerase VI subunit B
+OYV11368.1;611;487;80;9e-92;{6 492};Methanosaeta sp. ASO1;DNA topoisomerase VI subunit B
+WP_023844145.1;620;480;77;1e-91;{14 493};Methanolobus tindarius;DNA topoisomerase VI subunit B
+OYV09578.1;611;487;80;1e-91;{6 492};Methanosaeta sp. NSP1;DNA topoisomerase VI subunit B
+OYV08526.1;611;487;80;1e-91;{6 492};Methanosaeta sp. ASP1-1;DNA topoisomerase VI subunit B
+RLI89328.1;557;502;90;1e-91;{14 515};Candidatus Altiarchaeales archaeon;DNA topoisomerase VI subunit B
+RME55284.1;530;494;93;1e-91;{25 518};Candidatus Woesearchaeota archaeon;DNA topoisomerase VI subunit B
+WP_004079520.1;600;468;78;1e-91;{12 479};Methanoplanus limicola;DNA topoisomerase VI subunit B
+WP_088858219.1;566;520;92;1e-91;{8 527};Thermococcus profundus;DNA topoisomerase VI subunit B
+WP_091932197.1;620;480;77;1e-91;{14 493};Methanolobus profundi;DNA topoisomerase VI subunit B
+KXB03139.1;513;480;94;1e-91;{3 482};candidate divison MSBL1 archaeon SCGC-AAA261F19;hypothetical protein AKJ45_02405
+WP_012571724.1;563;539;96;1e-91;{8 546};Thermococcus onnurineus;DNA topoisomerase VI subunit B
+RQD92168.1;621;480;77;2e-91;{14 493};Methanosalsum natronophilum;DNA topoisomerase VI subunit B
+WP_012037335.1;541;486;90;3e-91;{13 498};Methanocella arvoryzae;DNA topoisomerase VI subunit B
+RMD58472.1;539;492;91;3e-91;{5 496};Candidatus Woesearchaeota archaeon;DNA topoisomerase VI subunit B
+OGS42104.1;534;462;87;3e-91;{1 462};Euryarchaeota archaeon RBG_16_62_10;DNA topoisomerase VI subunit B, partial
+WP_109968213.1;616;475;77;5e-91;{28 502};Methanospirillum lacunae;DNA topoisomerase VI subunit B
+RLG17865.1;590;415;70;5e-91;{150 564};Nanoarchaeota archaeon;DNA topoisomerase VI subunit B
+WP_100904827.1;521;484;93;5e-91;{9 492};Methanobacterium;MULTISPECIES: DNA topoisomerase VI subunit B
+WP_058739902.1;566;494;87;6e-91;{10 503};Methanobrevibacter millerae;DNA topoisomerase VI subunit B
+WP_011406915.1;554;473;85;6e-91;{9 481};Methanosphaera;MULTISPECIES: DNA topoisomerase VI subunit B
+WP_091688656.1;622;484;78;7e-91;{10 493};Methanococcoides vulcani;DNA topoisomerase VI subunit B
+RAP51812.1;557;473;85;8e-91;{9 481};Methanosphaera sp. rholeuAM270;DNA topoisomerase VI subunit B
+WP_011499272.1;622;484;78;9e-91;{10 493};Methanococcoides burtonii;DNA topoisomerase VI subunit B
+WP_048205782.1;622;484;78;1e-90;{10 493};Methanococcoides methylutens;DNA topoisomerase VI subunit B
+WP_029551018.1;569;519;91;1e-90;{8 526};Thermococcus zilligii;DNA topoisomerase VI subunit B
+WP_071905949.1;521;482;93;1e-90;{9 490};Methanobacterium congolense;DNA topoisomerase VI subunit B
+WP_115892038.1;523;482;92;1e-90;{10 491};Methanothermobacter defluvii;DNA topoisomerase VI subunit B
+BAZ99034.1;524;482;92;1e-90;{10 491};Methanothermobacter sp. EMTCatA1;Type 2 DNA topoisomerase 6 subunit B
+AIE91343.1;688;517;75;1e-90;{53 569};uncultured marine group II/III euryarchaeote AD1000_117_B07;DNA topoisomerase VI subunit B (top6B)
+WP_048175630.1;523;482;92;1e-90;{10 491};Methanothermobacter sp. CaT2;DNA topoisomerase VI subunit B
+BAM70164.1;518;482;93;1e-90;{5 486};Methanothermobacter sp. CaT2;DNA topoisomerase VI subunit B
+WP_010867718.1;564;541;96;1e-90;{8 548};Pyrococcus abyssi;DNA topoisomerase VI subunit B
+AXV37199.1;521;484;93;1e-90;{9 492};Methanobacterium sp. BRmetb2;DNA topoisomerase VI subunit B
+WP_069585261.1;524;482;92;2e-90;{11 492};Methanobacterium;MULTISPECIES: DNA topoisomerase VI subunit B
+WP_112093588.1;523;482;92;2e-90;{9 490};Methanothermobacter tenebrarum;DNA topoisomerase VI subunit B
+AXV39751.1;526;484;92;3e-90;{9 492};Methanobacterium sp. BAmetb5;DNA topoisomerase VI subunit B
+WP_048080563.1;524;482;92;3e-90;{11 492};Methanobacterium;MULTISPECIES: DNA topoisomerase VI subunit B
+RME78611.1;549;518;94;3e-90;{9 526};Candidatus Woesearchaeota archaeon;DNA topoisomerase VI subunit B
+WP_069592181.1;554;482;87;4e-90;{9 490};Methanosphaera sp. WGK6;DNA topoisomerase VI subunit B
+KQC04414.1;603;468;78;4e-90;{12 479};Methanoculleus sp. SDB;DNA topoisomerase
+WP_013898060.1;621;484;78;4e-90;{10 493};Methanosalsum zhilinae;DNA topoisomerase VI subunit B
+KYH39926.1;460;337;73;6e-90;{1 337};Candidatus Bathyarchaeota archaeon B63;hypothetical protein AYL33_006960
+RAP43763.1;551;482;87;6e-90;{9 490};Methanosphaera sp. SHI1033;DNA topoisomerase VI subunit B
+WP_004030271.1;521;482;93;6e-90;{9 490};Methanobacterium formicicum;DNA topoisomerase VI subunit B
+WP_096205295.1;615;483;79;7e-90;{8 490};Candidatus Methanoperedens nitroreducens;DNA topoisomerase VI subunit B
+OGS49786.1;666;492;74;8e-90;{9 500};Euryarchaeota archaeon RBG_16_68_12;DNA topoisomerase VI subunit B
+KYC45131.1;541;494;91;8e-90;{15 508};Arc I group archaeon B03fssc0709_Meth_Bin005;Type 2 DNA topoisomerase 6 subunit B
+WP_013747629.1;564;541;96;9e-90;{8 548};Pyrococcus sp. NA2;DNA topoisomerase VI subunit B
+WP_013905100.1;563;517;92;1e-89;{9 525};Pyrococcus yayanosii;DNA topoisomerase VI subunit B
+WP_048071832.1;526;484;92;1e-89;{9 492};Methanobacterium formicicum;DNA topoisomerase VI subunit B
+PKL67590.1;524;482;92;1e-89;{9 490};Methanobacteriales archaeon HGW-Methanobacteriales-1;DNA topoisomerase VI subunit B
+WP_105460713.1;617;483;78;1e-89;{11 493};Methanohalophilus euhalobius;DNA topoisomerase VI subunit B
+RSD35321.1;617;483;78;1e-89;{11 493};Methanohalophilus sp.;DNA topoisomerase VI subunit B
+WP_015324081.1;622;480;77;1e-89;{14 493};Methanomethylovorans hollandica;DNA topoisomerase VI subunit B
+KUK01729.1;523;482;92;2e-89;{9 490};Methanobacteriaceae archaeon 41_258;Type 2 DNA topoisomerase 6 subunit B
+WP_096712963.1;617;483;78;2e-89;{11 493};Methanohalophilus euhalobius;DNA topoisomerase VI subunit B
+WP_048165334.1;564;553;98;2e-89;{5 557};Palaeococcus pacificus;DNA topoisomerase VI subunit B
+KQM10473.1;662;493;74;2e-89;{8 500};Methanomassiliicoccales archaeon RumEn M2;DNA topoisomerase
+PKK81375.1;422;394;93;2e-89;{20 413};Thermoplasmata archaeon HGW-Thermoplasmata-2;DNA topoisomerase VI subunit B, partial
+EKQ55628.1;521;484;93;2e-89;{9 492};Methanobacterium sp. Maddingley MBC34;DNA topoisomerase VI, B subunit
+RPG73439.1;705;492;70;2e-89;{17 508};Euryarchaeota archaeon TMED248;DNA topoisomerase VI subunit B
+OWP57271.1;621;492;79;2e-89;{5 496};Thermoplasmatales archaeon B_DKE;DNA topoisomerase VI subunit B
+OLS22384.1;1194;526;44;3e-89;{50 575};Candidatus Heimdallarchaeota archaeon LC_2;Type 2 DNA topoisomerase 6 subunit B, partial
+PSG96267.1;643;486;76;3e-89;{8 493};Thermoplasmatales archaeon SW_10_69_26;DNA topoisomerase VI subunit B
+WP_088883116.1;563;541;96;3e-89;{9 549};Thermococcus sp. P6;DNA topoisomerase VI subunit B
+RLF90952.1;593;523;88;4e-89;{10 532};Thermococci archaeon;DNA topoisomerase VI subunit B
+WP_042680257.1;570;553;97;4e-89;{3 555};Thermococcus paralvinellae;DNA topoisomerase VI subunit B
+RLF97155.1;593;523;88;4e-89;{10 532};Thermococci archaeon;DNA topoisomerase VI subunit B
+WP_011012725.1;568;545;96;5e-89;{8 552};Pyrococcus furiosus;DNA topoisomerase VI subunit B
+WP_023991474.1;526;484;92;5e-89;{9 492};Methanobacterium sp. MB1;DNA topoisomerase VI subunit B
+OLS32752.1;3334;566;17;6e-89;{0 565};Candidatus Heimdallarchaeota archaeon AB_125;Type 2 DNA topoisomerase 6 subunit B, partial
+PIU72573.1;479;421;88;7e-89;{5 425};Candidatus Woesearchaeota archaeon CG06_land_8_20_14_3_00_33_13;DNA topoisomerase VI subunit B
+WP_011832793.1;600;468;78;8e-89;{12 479};Methanocorpusculum labreanum;DNA topoisomerase VI subunit B
+RLF78545.1;562;543;97;1e-88;{5 547};Thermococci archaeon;DNA topoisomerase VI subunit B
+WP_123136600.1;617;484;78;1e-88;{10 493};Methanohalophilus sp. RSK;DNA topoisomerase VI subunit B
+RLI74748.1;531;385;73;1e-88;{0 384};Archaeoglobales archaeon;DNA topoisomerase VI subunit B, partial
+WP_013036974.1;617;484;78;2e-88;{10 493};Methanohalophilus mahii;DNA topoisomerase VI subunit B
+KHO45231.1;598;479;80;2e-88;{44 522};archaeon GW2011_AR4;DNA topoisomerase VI subunit B
+WP_072560391.1;617;484;78;2e-88;{10 493};Methanohalophilus halophilus;DNA topoisomerase VI subunit B
+WP_013296188.1;524;447;85;2e-88;{10 456};Methanothermobacter marburgensis;DNA topoisomerase VI subunit B
+WP_048189803.1;537;482;90;2e-88;{9 490};Methanobacterium sp. SMA-27;DNA topoisomerase VI subunit B
+WP_042696341.1;600;468;78;2e-88;{12 479};Methanocorpusculum bavaricum;DNA topoisomerase VI subunit B
+WP_097297845.1;616;466;76;2e-88;{8 473};Candidatus Methanoperedens sp. BLZ2;DNA topoisomerase VI subunit B
+PKL53186.1;589;484;82;2e-88;{8 491};Candidatus Methanoperedenaceae archaeon HGW-Methanoperedenaceae-1;DNA topoisomerase VI subunit B, partial
+PIZ50920.1;545;438;80;2e-88;{0 437};Candidatus Woesearchaeota archaeon CG_4_10_14_0_2_um_filter_33_13;DNA topoisomerase VI subunit B, partial
+WP_095642408.1;600;468;78;2e-88;{12 479};Methanocorpusculum parvum;DNA topoisomerase VI subunit B
+WP_013824828.1;521;482;93;3e-88;{9 490};Methanobacterium paludis;DNA topoisomerase VI subunit B
+WP_116481489.1;616;462;75;3e-88;{12 473};Candidatus Methanoperedenaceae archaeon;DNA topoisomerase VI subunit B
+AIC17108.1;658;518;79;3e-88;{34 551};Nitrososphaera viennensis EN76;putative topoisomerase IIB, subunitB
+WP_067044508.1;567;499;88;4e-88;{10 508};Methanobrevibacter sp. YE315;DNA topoisomerase VI subunit B
+WP_048090116.1;616;483;78;5e-88;{9 491};Candidatus Methanoperedens nitroreducens;DNA topoisomerase VI subunit B
+WP_084790856.1;667;518;78;6e-88;{43 560};Nitrososphaera viennensis;DNA topoisomerase VI subunit B
+KXS42543.1;529;484;91;6e-88;{10 493};Methanohalophilus sp. T328-1;DNA topoisomerase VI subunit B, partial
+WP_056933519.1;570;551;97;7e-88;{3 553};Thermococcus barophilus;DNA topoisomerase VI subunit B
+WP_116592328.1;566;512;90;8e-88;{9 520};Methanobrevibacter thaueri;DNA topoisomerase VI subunit B
+WP_072359229.1;617;484;78;8e-88;{10 493};Methanohalophilus portucalensis;DNA topoisomerase VI subunit B
+RLF90329.1;562;543;97;9e-88;{5 547};Thermococci archaeon;DNA topoisomerase VI subunit B
+SIM77017.1;614;488;79;1e-87;{7 494};Cuniculiplasma divulgatum;DNA topoisomerase VI subunit B
+WP_012618812.1;600;468;78;1e-87;{12 479};Methanosphaerula palustris;DNA topoisomerase VI subunit B
+WP_013466774.1;570;556;98;1e-87;{3 558};Thermococcus barophilus;DNA topoisomerase VI subunit B
+WP_055281807.1;567;545;96;2e-87;{11 555};Thermococcus sp. EP1;DNA topoisomerase VI subunit B
+AKA47779.1;634;483;76;2e-87;{14 496};uncultured archaeon;hypothetical protein IX51_00290
+WP_077076530.1;614;488;79;2e-87;{7 494};Cuniculiplasma divulgatum;DNA topoisomerase VI subunit B
+EQB68250.1;614;488;79;2e-87;{7 494};Thermoplasmatales archaeon Gpl;hypothetical protein AMDU5_GPLC00014G0057
+WP_084266301.1;557;488;88;2e-87;{9 496};Methanobrevibacter filiformis;DNA topoisomerase VI subunit B
+RBQ23305.1;600;468;78;2e-87;{12 479};Methanocorpusculum sp. MCE;Type 2 DNA topoisomerase 6 subunit B
+RPG79933.1;697;497;71;5e-87;{4 500};Euryarchaeota archaeon TMED117;DNA topoisomerase VI subunit B
+OIR21630.1;638;496;78;6e-87;{3 498};Marine Group III euryarchaeote CG-Epi2;DNA topoisomerase VI subunit B
+PXF20131.1;681;514;75;7e-87;{63 576};Euryarchaeota archaeon;DNA topoisomerase VI subunit B
+RJS48613.1;523;487;93;8e-87;{9 495};Methanobacterium sp.;DNA topoisomerase VI subunit B
+KUO39184.1;524;490;94;8e-87;{9 498};Hadesarchaea archaeon DG-33;hypothetical protein AVW05_01815
+DAC30810.1;525;461;88;1e-86;{17 477};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B, partial
+RME79655.1;506;500;99;1e-86;{0 499};Euryarchaeota archaeon;DNA topoisomerase VI subunit B
+WP_042703151.1;555;482;87;1e-86;{9 490};Methanobrevibacter arboriphilus;DNA topoisomerase VI subunit B
+KZX10184.1;558;494;89;2e-86;{10 503};Methanobrevibacter oralis;DNA topoisomerase 6 subunit B
+WP_063720606.1;553;494;89;2e-86;{5 498};Methanobrevibacter oralis;DNA topoisomerase VI subunit B
+WP_048148544.1;562;548;98;2e-86;{5 552};Palaeococcus ferrophilus;DNA topoisomerase VI subunit B
+BAI61232.1;555;509;92;2e-86;{30 538};Methanocella paludicola SANAE;type II DNA topoisomerase VI subunit B
+OUV39311.1;689;497;72;2e-86;{6 502};Euryarchaeota archaeon TMED103;DNA topoisomerase VI subunit B
+DAC07938.1;694;502;72;2e-86;{7 508};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B
+KUO40088.1;522;489;94;3e-86;{10 498};Hadesarchaea archaeon YNP_45;hypothetical protein APZ16_05595
+EQB71677.1;629;492;78;3e-86;{6 497};Thermoplasmatales archaeon A-plasma;hypothetical protein AMDU1_APLC00020G0043
+RDD52355.1;579;496;86;4e-86;{14 509};Nanoarchaeota archaeon NZ13-N;DNA topoisomerase VI subunit B
+ADD93225.1;705;492;70;5e-86;{17 508};uncultured archaeon MedDCM-OCT-S08-C37;DNA topoisomerase VI B subunit
+RJU83690.1;705;492;70;5e-86;{17 508};Marine Group II euryarchaeote;DNA topoisomerase VI subunit B
+AIF83154.1;660;516;78;6e-86;{35 550};Candidatus Nitrososphaera evergladensis SR1;DNA topoisomerase VI, subunit B
+RLG19600.1;544;504;93;8e-86;{9 512};Candidatus Micrarchaeota archaeon;DNA topoisomerase VI subunit B
+RAH05015.1;742;492;66;8e-86;{54 545};Euryarchaeota archaeon TMED132;DNA topoisomerase VI subunit B
+WP_013645938.1;538;482;90;8e-86;{9 490};Methanobacterium lacus;DNA topoisomerase VI subunit B
+OJI06841.1;547;503;92;8e-86;{10 512};Candidatus Micrarchaeum acidiphilum ARMAN-1;DNA topoisomerase VI subunit B
+RLJ05137.1;508;506;100;9e-86;{2 507};Candidatus Aenigmarchaeota archaeon;DNA topoisomerase VI subunit B
+RPJ30532.1;662;524;79;1e-85;{61 584};Nitrosopumilales archaeon;DNA topoisomerase VI subunit B
+WP_080460450.1;555;482;87;1e-85;{9 490};Methanobrevibacter arboriphilus;DNA topoisomerase VI subunit B
+KYC55437.1;541;499;92;2e-85;{15 513};Arc I group archaeon ADurb1013_Bin02101;Type 2 DNA topoisomerase 6 subunit B
+RPI84633.1;638;523;82;2e-85;{38 560};Nitrosopumilales archaeon;DNA topoisomerase VI subunit B
+WP_019264850.1;566;488;86;2e-85;{9 496};Methanobrevibacter smithii;DNA topoisomerase VI subunit B
+RIB35100.1;579;515;89;2e-85;{14 528};Candidatus Nanoclepta minutus;DNA topoisomerase VI subunit B
+DAC59783.1;546;461;84;2e-85;{17 477};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B, partial
+WP_029345263.1;521;475;91;2e-85;{9 483};Methanobrevibacter smithii;DNA topoisomerase VI subunit B
+WP_094516311.1;566;488;86;3e-85;{9 496};Methanobrevibacter smithii;DNA topoisomerase VI subunit B
+KYK35126.1;518;498;96;3e-85;{14 511};Theionarchaea archaeon DG-70-1;hypothetical protein AYK19_11225
+WP_069575266.1;567;494;87;4e-85;{10 503};Methanobrevibacter;MULTISPECIES: DNA topoisomerase VI subunit B
+WP_091698757.1;567;494;87;5e-85;{10 503};Methanobrevibacter gottschalkii;DNA topoisomerase VI subunit B
+DAC66846.1;491;484;99;8e-85;{7 490};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B, partial
+WP_067260153.1;551;484;88;8e-85;{9 492};Methanobrevibacter cuticularis;DNA topoisomerase VI subunit B
+ABQ87160.1;571;475;83;8e-85;{14 488};Methanobrevibacter smithii ATCC 35061;type II DNA topoisomerase VI, subunit B
+WP_029143428.1;566;475;84;1e-84;{9 483};Methanobrevibacter smithii;DNA topoisomerase VI subunit B
+WP_124216902.1;538;488;91;1e-84;{19 506};Candidatus Mancarchaeum acidiphilum;DNA topoisomerase VI subunit B
+WP_004032980.1;566;475;84;1e-84;{9 483};Methanobrevibacter;MULTISPECIES: DNA topoisomerase VI subunit B
+ASI14042.1;541;488;90;1e-84;{22 509};Candidatus Mancarchaeum acidiphilum;DNA topoisomerase VI subunit B
+OIR21281.1;645;496;77;1e-84;{10 505};Marine Group III euryarchaeote CG-Epi1;DNA topoisomerase VI subunit B
+WP_012956663.1;599;485;81;1e-84;{9 493};Methanobrevibacter ruminantium;DNA topoisomerase VI subunit B
+KUO42758.1;518;485;94;2e-84;{9 493};Hadesarchaea archaeon YNP_N21;hypothetical protein APU95_01725
+KYC52523.1;540;494;91;2e-84;{15 508};Arc I group archaeon U1lsi0528_Bin089;Type 2 DNA topoisomerase 6 subunit B
+RLG70978.1;536;516;96;2e-84;{8 523};Candidatus Diapherotrites archaeon;DNA topoisomerase VI subunit B
+DAC18152.1;686;497;72;2e-84;{6 502};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B
+PWU80753.1;664;512;77;2e-84;{34 545};Thaumarchaeota archaeon;DNA topoisomerase VI subunit B
+WP_004035720.1;566;475;84;3e-84;{9 483};Methanobrevibacter smithii;DNA topoisomerase VI subunit B
+OIR23671.1;645;496;77;4e-84;{10 505};Marine Group III euryarchaeote CG-Epi3;DNA topoisomerase VI subunit B
+RAH16447.1;696;502;72;4e-84;{7 508};Euryarchaeota archaeon;DNA topoisomerase VI subunit B
+ODS34889.1;526;507;96;4e-84;{7 513};Candidatus Altiarchaeales archaeon WOR_SM1_SCG;DNA topoisomerase VI subunit B
+RLG19115.1;602;436;72;5e-84;{156 591};Nanoarchaeota archaeon;DNA topoisomerase VI subunit B
+DAC51238.1;686;497;72;6e-84;{6 502};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B
+RAP47914.1;524;450;86;7e-84;{9 458};Methanosphaera sp. rholeuAM74;DNA topoisomerase VI subunit B
+RLF34284.1;587;471;80;9e-84;{0 470};Thermoplasmata archaeon;DNA topoisomerase VI subunit B
+WP_054835136.1;558;485;87;9e-84;{9 493};Methanobrevibacter arboriphilus;DNA topoisomerase VI subunit B
+ODS36351.1;558;547;98;1e-83;{11 557};Candidatus Altiarchaeales archaeon WOR_SM1_86-2;DNA topoisomerase VI subunit B
+ODS42090.1;553;493;89;1e-83;{11 503};Candidatus Altiarchaeales archaeon IMC4;DNA topoisomerase VI subunit B
+OIR20520.1;652;496;76;2e-83;{72 567};Marine Group III euryarchaeote CG-Epi4;DNA topoisomerase VI subunit B, partial
+WP_040682056.1;598;475;79;2e-83;{9 483};Methanobrevibacter boviskoreani;DNA topoisomerase VI subunit B
+DAC54573.1;681;497;73;2e-83;{0 496};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B
+WP_016359042.1;598;475;79;2e-83;{9 483};Methanobrevibacter sp. AbM4;DNA topoisomerase VI subunit B
+RLI80874.1;366;366;100;2e-83;{0 365};Archaeoglobales archaeon;DNA topoisomerase VI subunit B, partial
+DAC55726.1;691;502;73;2e-83;{7 508};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B
+WP_116669542.1;568;475;84;3e-83;{10 484};Methanobrevibacter woesei;DNA topoisomerase VI subunit B
+KXA91313.1;517;486;94;3e-83;{9 494};candidate divison MSBL1 archaeon SCGC-AAA259A05;hypothetical protein AKJ57_01715
+DAC60693.1;638;502;79;4e-83;{7 508};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B, partial
+RBQ23107.1;599;482;80;4e-83;{9 490};Methanobrevibacter sp. NOE;Type 2 DNA topoisomerase 6 subunit B
+RLG16752.1;649;418;64;5e-83;{198 615};Nanoarchaeota archaeon;DNA topoisomerase VI subunit B
+RJU91517.1;685;503;73;7e-83;{7 509};Marine Group II euryarchaeote;DNA topoisomerase VI subunit B
+WP_067147535.1;593;488;82;8e-83;{9 496};Methanobrevibacter olleyae;DNA topoisomerase VI subunit B
+WP_074797957.1;594;488;82;8e-83;{9 496};Methanobrevibacter olleyae;DNA topoisomerase VI subunit B
+EQB65526.1;589;474;80;9e-83;{10 483};Thermoplasmatales archaeon I-plasma;hypothetical protein AMDU3_IPLC00002G0163
+AJF60789.1;578;529;92;9e-83;{13 541};archaeon GW2011_AR10;DNA topoisomerase VI subunit B
+DAC27705.1;695;471;68;1e-82;{7 477};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B
+KJR79170.1;156;155;99;2e-82;{0 154};Candidatus Aramenus sulfurataquae;DNA topoisomerase VI subunit B, partial
+OYT58363.1;568;442;78;2e-82;{2 443};Euryarchaeota archaeon ex4484_162;DNA topoisomerase VI subunit B
+WP_088539972.1;598;446;75;3e-82;{11 456};Methanobrevibacter sp. 87.7;DNA topoisomerase VI subunit B
+RJU85733.1;691;502;73;3e-82;{13 514};Marine Group II euryarchaeote;DNA topoisomerase VI subunit B
+RLF49468.1;577;431;75;3e-82;{0 430};Thermoplasmata archaeon;DNA topoisomerase VI subunit B
+RLG43384.1;377;344;91;4e-82;{2 345};Candidatus Korarchaeota archaeon;DNA topoisomerase VI subunit B
+KPV62378.1;637;524;82;4e-82;{0 523};Candidatus Bathyarchaeota archaeon BA1;Type 2 DNA topoisomerase 6 subunit B
+RJU98969.1;694;471;68;4e-82;{7 477};Marine Group II euryarchaeote;DNA topoisomerase VI subunit B
+OYT29738.1;644;505;78;6e-82;{15 519};Thermoplasmatales archaeon ex4572_165;DNA topoisomerase VI subunit B
+OQX21080.1;574;502;87;9e-82;{24 525};Candidatus Altiarchaeales archaeon A3;DNA topoisomerase VI subunit B
+PKP61256.1;569;504;89;1e-81;{40 543};Candidatus Altiarchaeales archaeon HGW-Altiarchaeales-1;DNA topoisomerase VI subunit B
+PXF19299.1;676;509;75;2e-81;{63 571};Euryarchaeota archaeon;DNA topoisomerase VI subunit B
+DAC63226.1;653;473;72;3e-81;{11 483};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B, partial
+EHR75685.1;667;461;69;5e-81;{17 477};uncultured marine group II euryarchaeote;DNA topoisomerase VI subunit B
+WP_052334682.1;604;446;74;6e-81;{11 456};Methanobrevibacter wolinii;DNA topoisomerase VI subunit B
+WP_015492719.1;684;491;72;8e-81;{22 512};Thermoplasmatales archaeon BRNA1;DNA topoisomerase VI subunit B
+DAC48348.1;695;503;72;1e-80;{7 509};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B
+OIQ04982.1;544;497;91;1e-80;{10 506};Candidatus Altiarchaeum sp. CG2_30_32_3053;DNA topoisomerase VI subunit B
+RLI98514.1;360;350;97;1e-80;{9 358};Candidatus Aenigmarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+RAH12582.1;686;492;72;2e-80;{20 511};Euryarchaeota archaeon;DNA topoisomerase VI subunit B
+PXY72089.1;748;504;67;2e-80;{8 511};Euryarchaeota archaeon;DNA topoisomerase VI subunit B
+KYK22607.1;567;451;80;3e-80;{1 451};Thermoplasmatales archaeon SG8-52-2;DNA topoisomerase
+RLI31657.1;286;280;98;3e-80;{5 284};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+RJU93805.1;695;502;72;4e-80;{7 508};Marine Group II euryarchaeote;DNA topoisomerase VI subunit B
+PIN67089.1;573;497;87;5e-80;{39 535};Candidatus Altiarchaeum sp. CG12_big_fil_rev_8_21_14_0_65_33_22;DNA topoisomerase VI subunit B
+KYK26420.1;559;440;79;5e-80;{4 443};Thermoplasmatales archaeon SG8-52-1;DNA topoisomerase
+OIO22002.1;544;507;93;6e-80;{10 516};Candidatus Micrarchaeota archaeon CG1_02_47_40;DNA topoisomerase VI subunit B
+WP_084269458.1;649;484;75;9e-80;{9 492};Methanobrevibacter curvatus;DNA topoisomerase VI subunit B
+PIN98630.1;600;509;85;1e-79;{38 546};Candidatus Diapherotrites archaeon CG10_big_fil_rev_8_21_14_0_10_31_34;DNA topoisomerase VI subunit B
+RJU96415.1;657;450;68;1e-79;{1 450};Marine Group II euryarchaeote;DNA topoisomerase VI subunit B
+RJU83004.1;705;461;65;1e-79;{17 477};Marine Group II euryarchaeote;DNA topoisomerase VI subunit B
+PIT84994.1;564;509;90;2e-79;{42 550};Candidatus Micrarchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_45_29;DNA topoisomerase VI subunit B
+PDH25140.1;709;473;67;3e-79;{11 483};Marine Group II euryarchaeote MED-G33;DNA topoisomerase VI subunit B
+PXF26446.1;690;489;71;3e-79;{16 504};Euryarchaeota archaeon;DNA topoisomerase VI subunit B
+RAH06361.1;689;494;72;3e-79;{17 510};Euryarchaeota archaeon;DNA topoisomerase VI subunit B
+DAC20411.1;466;440;94;4e-79;{24 463};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B, partial
+KXB01556.1;519;486;94;2e-78;{11 496};candidate divison MSBL1 archaeon SCGC-AAA259O05;DNA topoisomerase VI
+RPG71698.1;707;461;65;2e-78;{31 491};Euryarchaeota archaeon TMED99;DNA topoisomerase VI subunit B
+RJV01292.1;703;502;71;2e-78;{26 527};Marine Group II euryarchaeote;DNA topoisomerase VI subunit B
+PDH25722.1;695;520;75;2e-78;{6 525};Marine Group II euryarchaeote MED-G35;DNA topoisomerase VI subunit B
+DAC66346.1;715;497;70;3e-78;{6 502};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B
+RLI65223.1;395;388;98;4e-78;{0 387};Candidatus Heimdallarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+RAH17301.1;701;498;71;5e-78;{6 503};Euryarchaeota archaeon;DNA topoisomerase VI subunit B
+RJU85413.1;694;520;75;5e-78;{6 525};Marine Group II euryarchaeote;DNA topoisomerase VI subunit B
+PDH23984.1;700;496;71;6e-78;{6 501};Marine Group II euryarchaeote MED-G36;DNA topoisomerase VI subunit B
+RCH70865.1;714;496;69;9e-78;{6 501};Marine Group II euryarchaeote;DNA topoisomerase VI subunit B
+AIE92877.1;714;496;69;1e-77;{6 501};uncultured marine group II/III euryarchaeote AD1000_29_E08;DNA topoisomerase VI subunit B (top6B)
+RLF82136.1;567;545;96;1e-77;{11 555};Thermococci archaeon;DNA topoisomerase VI subunit B
+RLF76424.1;567;545;96;2e-77;{11 555};Thermococci archaeon;DNA topoisomerase VI subunit B
+KYK31344.1;566;449;79;2e-77;{2 450};Thermoplasmatales archaeon SG8-52-3;DNA topoisomerase
+OLC22647.1;665;521;78;3e-77;{29 549};Thaumarchaeota archaeon 13_1_40CM_4_48_7;hypothetical protein AUH71_05820
+PSN89132.1;352;328;93;6e-77;{2 329};Candidatus Marsarchaeota G1 archaeon OSP_C;DNA topoisomerase VI subunit B
+OLS22707.1;2403;534;22;8e-77;{16 549};Candidatus Heimdallarchaeota archaeon LC_3;Type 2 DNA topoisomerase 6 subunit B
+RLF82590.1;567;545;96;1e-76;{11 555};Thermococci archaeon;DNA topoisomerase VI subunit B
+RLG67738.1;534;483;90;1e-76;{13 495};archaeon;DNA topoisomerase VI subunit B
+AFU59896.1;681;531;78;2e-76;{19 549};Candidatus Nitrososphaera gargensis Ga9.2;type 2 DNA topoisomerase 6, subunit B
+OUW12659.1;694;520;75;2e-76;{6 525};Euryarchaeota archaeon TMED164;DNA topoisomerase VI subunit B
+PWI48331.1;2319;553;24;2e-76;{15 567};Candidatus Heimdallarchaeota archaeon B3-JM-08;DNA topoisomerase VI subunit B
+OYT65789.1;534;483;90;2e-76;{13 495};Candidatus Bathyarchaeota archaeon ex4484_205;DNA topoisomerase VI subunit B
+PDH27233.1;690;544;79;2e-76;{6 549};Marine Group II euryarchaeote MED-G34;DNA topoisomerase VI subunit B
+PDH23221.1;700;499;71;2e-76;{15 513};Marine Group II euryarchaeote MED-G38;DNA topoisomerase VI subunit B
+RJU84720.1;691;499;72;3e-76;{6 504};Marine Group II euryarchaeote;DNA topoisomerase VI subunit B
+RAH07165.1;696;499;72;4e-76;{6 504};Euryarchaeota archaeon;DNA topoisomerase VI subunit B
+DAC69922.1;690;546;79;7e-76;{9 554};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B
+WP_015849378.1;566;546;96;9e-76;{11 556};Thermococcus sibiricus;DNA topoisomerase VI subunit B
+PXF22410.1;739;488;66;1e-75;{62 549};Euryarchaeota archaeon;DNA topoisomerase VI subunit B
+PXF27118.1;739;488;66;1e-75;{62 549};Euryarchaeota archaeon;DNA topoisomerase VI subunit B
+PPA79303.1;600;461;77;2e-75;{10 470};ANME-2 cluster archaeon HR1;Type 2 DNA topoisomerase 6 subunit B
+EET90319.1;541;507;94;2e-75;{11 517};Candidatus Micrarchaeum acidiphilum ARMAN-2;DNA topoisomerase VI, B subunit
+KYK20490.1;561;439;78;2e-75;{3 441};Thermoplasmatales archaeon SM1-50;DNA topoisomerase
+OUV66437.1;691;499;72;4e-75;{6 504};Euryarchaeota archaeon TMED129;DNA topoisomerase VI subunit B
+KXB06329.1;484;474;98;5e-75;{9 482};candidate divison MSBL1 archaeon SCGC-AAA382F02;DNA topoisomerase VI, partial
+ANV78719.1;691;499;72;5e-75;{6 504};uncultured Candidatus Thalassoarchaea euryarchaeote;DNA topoisomerase VI subunit B (top6B)
+ANV78698.1;692;499;72;5e-75;{6 504};uncultured Candidatus Thalassoarchaea euryarchaeote;DNA topoisomerase VI subunit B (top6B)
+AIF00208.1;716;489;68;5e-75;{40 528};uncultured marine group II/III euryarchaeote KM3_12_E09;DNA topoisomerase VI subunit B (top6B)
+RAH14580.1;694;504;73;9e-75;{3 506};Euryarchaeota archaeon;DNA topoisomerase VI subunit B
+DAC12540.1;695;506;73;1e-74;{6 511};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B
+RPG73279.1;687;539;78;1e-74;{13 551};Euryarchaeota archaeon TMED192;DNA topoisomerase VI subunit B
+DAC44263.1;694;494;71;1e-74;{16 509};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B
+RLE42015.1;508;437;86;2e-74;{18 454};Candidatus Woesearchaeota archaeon;DNA topoisomerase VI subunit B, partial
+OIO26745.1;551;494;90;2e-74;{16 509};Candidatus Micrarchaeota archaeon CG1_02_55_22;DNA topoisomerase VI subunit B
+KUK29036.1;567;545;96;2e-74;{11 555};Thermococcus sp. 40_45;Type 2 DNA topoisomerase 6 subunit B
+DAC38328.1;700;489;70;4e-74;{25 513};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B
+WP_004070145.1;567;545;96;4e-74;{11 555};Thermococcus litoralis;DNA topoisomerase VI subunit B
+DAC29790.1;699;506;72;5e-74;{6 511};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B
+DAC62362.1;698;499;71;5e-74;{15 513};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B
+RLF81619.1;567;546;96;6e-74;{11 556};Thermococci archaeon;DNA topoisomerase VI subunit B
+RLG20926.1;532;482;91;6e-74;{10 491};Candidatus Micrarchaeota archaeon;DNA topoisomerase VI subunit B
+EMR74494.1;559;433;77;1e-73;{3 435};Thermoplasmatales archaeon SCGC AB-540-F20;DNA topoisomerase VI, B subunit
+DAC40703.1;656;499;76;2e-73;{6 504};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B, partial
+WP_014405031.1;543;477;88;2e-73;{14 490};Methanocella conradii;DNA topoisomerase VI subunit B
+RCH73128.1;689;499;72;3e-73;{6 504};Marine Group II euryarchaeote;DNA topoisomerase VI subunit B
+RLE44880.1;528;393;74;4e-73;{82 474};Candidatus Woesearchaeota archaeon;DNA topoisomerase VI subunit B, partial
+DAC07014.1;699;499;71;5e-73;{6 504};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B
+PIN80839.1;993;407;41;6e-73;{552 958};Candidatus Woesearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_30_7;DNA topoisomerase VI subunit B, partial
+DAC44530.1;707;499;71;9e-73;{15 513};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B
+PIU81866.1;542;500;92;1e-72;{3 502};Candidatus Micrarchaeota archaeon CG06_land_8_20_14_3_00_50_6;DNA topoisomerase VI subunit B, partial
+WP_012036129.1;556;506;91;1e-72;{18 523};Methanocella arvoryzae;DNA topoisomerase VI subunit B
+DAC40043.1;631;453;72;2e-72;{4 456};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B, partial
+KXB02516.1;518;483;93;2e-72;{9 491};candidate divison MSBL1 archaeon SCGC-AAA261F17;hypothetical protein AKJ44_00045
+OUW79587.1;699;499;71;5e-72;{6 504};Euryarchaeota archaeon TMED215;DNA topoisomerase VI subunit B
+PIU22171.1;556;488;88;5e-72;{10 497};Candidatus Diapherotrites archaeon CG08_land_8_20_14_0_20_30_16;DNA topoisomerase VI subunit B
+RCH77278.1;699;499;71;6e-72;{6 504};Marine Group II euryarchaeote;DNA topoisomerase VI subunit B
+KXB09656.1;518;483;93;6e-72;{9 491};candidate divison MSBL1 archaeon SCGC-AAA833F18;hypothetical protein AKJ35_00120
+DAC47078.1;730;499;68;8e-72;{52 550};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B
+OIO25818.1;546;500;92;1e-71;{7 506};Candidatus Micrarchaeota archaeon CG1_02_49_24;DNA topoisomerase VI subunit B
+PIU09913.1;562;500;89;2e-71;{23 522};Candidatus Micrarchaeota archaeon CG08_land_8_20_14_0_20_49_17;DNA topoisomerase VI subunit B
+AIF20335.1;726;501;69;3e-71;{2 502};uncultured marine group II/III euryarchaeote KM3_89_E01;DNA topoisomerase VI subunit B (top6B)
+RUA00589.1;605;504;83;1e-70;{8 511};Marine Group II euryarchaeote;DNA topoisomerase VI subunit B, partial
+PXY73862.1;732;502;69;1e-70;{1 502};Euryarchaeota archaeon;DNA topoisomerase VI subunit B
+OYT67545.1;305;268;88;1e-70;{0 267};Thaumarchaeota archaeon ex4484_121;DNA topoisomerase VI subunit B, partial
+ANV78837.1;693;485;70;3e-70;{21 505};uncultured Candidatus Thalassoarchaea euryarchaeote;DNA topoisomerase VI subunit B (top6B)
+RLI35665.1;286;275;96;4e-70;{10 284};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+AIF05627.1;712;500;70;4e-70;{3 502};uncultured marine group II/III euryarchaeote KM3_185_F09;DNA topoisomerase VI subunit B (top6B)
+WP_042701666.1;567;545;96;5e-70;{11 555};Thermococcus sp. PK;DNA topoisomerase VI subunit B
+RLE43057.1;958;421;44;5e-70;{484 904};Candidatus Woesearchaeota archaeon;DNA topoisomerase VI subunit B
+AIF06446.1;716;492;69;7e-70;{4 495};uncultured marine group II/III euryarchaeote KM3_192_C12;DNA topoisomerase VI subunit B (top6B)
+RLF70898.1;357;344;96;1e-69;{12 355};Thermoplasmata archaeon;DNA topoisomerase VI subunit B, partial
+WP_116577850.1;586;554;95;1e-69;{3 556};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B
+KUK18137.1;567;545;96;1e-69;{11 555};Thermococcus sibiricus;Type 2 DNA topoisomerase 6 subunit B
+EEZ92483.1;621;416;67;2e-69;{12 82} {152 567};Candidatus Parvarchaeum acidiphilum ARMAN-4;DNA topoisomerase VI, B subunit
+BAI60113.1;547;486;89;5e-69;{16 501};Methanocella paludicola SANAE;type II DNA topoisomerase VI subunit B
+EFD92389.1;577;432;75;6e-69;{109 540};Candidatus Parvarchaeum acidophilus ARMAN-5;DNA topoisomerase (ATP-hydrolyzing)
+RLI75802.1;542;458;85;7e-69;{8 465};Archaeoglobales archaeon;DNA topoisomerase VI subunit B
+EGD71981.1;620;432;70;9e-69;{12 82} {152 583};Candidatus Parvarchaeum acidophilus ARMAN-5_'5-way FS';DNA topoisomerase VI subunit B
+KXB07787.1;474;448;95;2e-68;{1 448};candidate divison MSBL1 archaeon SCGC-AAA382M17;DNA topoisomerase VI, partial
+DAC28093.1;750;501;67;3e-68;{30 530};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B
+KUK00068.1;567;545;96;4e-68;{11 555};Thermococcales archaeon 44_46;Type 2 DNA topoisomerase 6 subunit B
+RAH12056.1;750;501;67;4e-68;{30 530};Euryarchaeota archaeon;DNA topoisomerase VI subunit B
+DAC21715.1;677;501;74;6e-68;{30 530};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B, partial
+DAC32005.1;412;395;96;8e-68;{17 411};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B, partial
+AAM02134.1;475;427;90;9e-68;{9 435};Methanopyrus kandleri AV19;DNA topoisomerase VI, subunit B
+PDH23321.1;705;502;71;1e-67;{0 501};Marine Group II euryarchaeote MED-G37;DNA topoisomerase VI subunit B
+RLI19244.1;290;253;87;1e-67;{0 252};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+WP_101476659.1;612;237;39;4e-67;{3 313} {358 594};Nitrosotalea sp. SbT1;DNA topoisomerase VI subunit B
+WP_058946765.1;567;545;96;5e-67;{11 555};Thermococcus sp. 2319x1;DNA topoisomerase VI subunit B
+PTD94127.1;1185;403;34;1e-66;{16 109} {651 1053};archaeon SCG-AAA382B04;DNA topoisomerase VI subunit B
+RPG74420.1;735;519;71;2e-66;{4 522};Euryarchaeota archaeon TMED85;DNA topoisomerase VI subunit B
+RAH09353.1;753;519;69;2e-66;{22 540};Euryarchaeota archaeon;DNA topoisomerase VI subunit B
+WP_101009524.1;610;247;40;3e-66;{1 331} {346 592};Nitrosotalea sp. Nd2;DNA topoisomerase VI subunit B
+OYT64330.1;242;242;100;4e-66;{0 241};Candidatus Bathyarchaeota archaeon ex4484_205;DNA topoisomerase VI subunit B, partial
+WP_048196494.1;613;245;40;7e-66;{1 243} {349 593};Thaumarchaeota archaeon N4;DNA topoisomerase VI subunit B
+SPC34297.1;663;227;34;1e-65;{3 279} {352 578};Candidatus Nitrosocaldus cavascurensis;Type 2 DNA topoisomerase 6 subunit B
+KPV64273.1;276;261;95;2e-65;{14 274};Candidatus Bathyarchaeota archaeon BA1;Type 2 DNA topoisomerase 6 subunit B
+PIW34624.1;306;237;77;2e-65;{53 289};Nitrosopumilales archaeon CG15_BIG_FIL_POST_REV_8_21_14_020_33_23;DNA topoisomerase VI subunit B, partial
+WP_048104726.1;622;248;40;4e-65;{0 244} {348 595};Candidatus Nitrosopelagicus brevis;DNA topoisomerase VI subunit B
+RLF31785.1;485;356;73;6e-65;{13 368};Thermoplasmata archaeon;DNA topoisomerase VI subunit B, partial
+OKY77954.1;1062;383;36;1e-64;{16 103} {544 926};Candidatus Methanohalarchaeum thermophilum;DNA topoisomerase VI subunit B
+WP_088336045.1;475;427;90;1e-64;{9 435};Methanopyrus sp. KOL6;DNA topoisomerase VI subunit B
+PIN97513.1;264;244;92;1e-64;{2 245};Nitrosopumilus sp. CG10_big_fil_rev_8_21_14_0_10_33_7;DNA topoisomerase VI subunit B, partial
+WP_048187154.1;613;237;39;1e-64;{0 244} {358 594};Candidatus Nitrosotenuis cloacae;DNA topoisomerase VI subunit B
+OLB90664.1;613;263;43;2e-64;{2 245} {333 595};Thaumarchaeota archaeon 13_1_40CM_38_12;DNA topoisomerase
+RTZ70931.1;435;334;77;2e-64;{0 333};Thaumarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+OLD22632.1;613;263;43;3e-64;{2 245} {333 595};Thaumarchaeota archaeon 13_1_40CM_2_39_13_1;DNA topoisomerase
+PIZ91743.1;544;415;76;4e-64;{77 491};Candidatus Micrarchaeota archaeon CG_4_10_14_0_2_um_filter_55_9;DNA topoisomerase VI subunit B, partial
+RDJ32475.1;611;233;38;5e-64;{0 335} {358 590};Crenarchaeota archaeon;DNA topoisomerase VI subunit B
+CUR52458.1;610;263;43;6e-64;{1 311} {330 592};Candidatus Nitrosotalea devanaterra;Type 2 DNA topoisomerase 6 subunit B
+RLG24658.1;357;347;97;7e-64;{10 356};Methanosarcinales archaeon;DNA topoisomerase VI subunit B, partial
+OLE40972.1;613;263;43;9e-64;{2 245} {333 595};Thaumarchaeota archaeon 13_1_20CM_2_39_20;DNA topoisomerase
+OIO25727.1;617;415;67;1e-63;{11 68} {150 564};Candidatus Micrarchaeota archaeon CG1_02_55_41;DNA topoisomerase VI subunit B
+RNJ73972.1;638;237;37;2e-63;{0 244} {356 592};Thaumarchaeota archaeon S13;DNA topoisomerase VI subunit B
+ABK77415.1;304;278;91;2e-63;{2 279};Cenarchaeum symbiosum A;DNA topoisomerase VI, subunit B
+RNJ71268.1;638;237;37;2e-63;{0 244} {356 592};Thaumarchaeota archaeon S14;DNA topoisomerase VI subunit B
+PHY08315.1;612;237;39;2e-63;{2 337} {359 595};Candidatus Nitrosoarchaeum sp.;DNA topoisomerase VI subunit B
+WP_100181680.1;612;237;39;3e-63;{1 243} {357 593};Candidatus Nitrosotenuis aquarius;DNA topoisomerase VI subunit B
+EHK00765.1;320;301;94;3e-63;{0 300};Candidatus Haloredivivus sp. G17;DNA topoisomerase VI subunit B, partial
+GBL40759.1;612;237;39;4e-63;{2 337} {359 595};Candidatus Nitrosoarchaeum sp.;type 2 DNA topoisomerase 6 subunit B
+RPJ53141.1;367;356;97;5e-63;{8 363};Euryarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+EGG41326.1;613;237;39;6e-63;{0 346} {358 594};Candidatus Nitrosoarchaeum limnia SFB1;DNA topoisomerase VI, B subunit
+WP_010191050.1;613;237;39;8e-63;{0 346} {358 594};Candidatus Nitrosoarchaeum limnia;DNA topoisomerase VI subunit B
+SMH71627.1;610;237;39;8e-63;{1 331} {356 592};Nitrosotalea sp. CS;Type 2 DNA topoisomerase 6 subunit B
+PIY89838.1;612;237;39;9e-63;{2 334} {359 595};Nitrosopumilales archaeon CG_4_10_14_0_8_um_filter_34_8;DNA topoisomerase VI subunit B
+WP_007551255.1;612;237;39;1e-62;{2 334} {359 595};Nitrosarchaeum koreense;DNA topoisomerase VI subunit B
+AIF21127.1;612;245;40;1e-62;{0 333} {350 594};uncultured marine thaumarchaeote KM3_98_C03;DNA topoisomerase VI subunit B (top6B)
+WP_014965709.1;622;233;37;2e-62;{2 337} {351 583};Nitrosopumilus;MULTISPECIES: DNA topoisomerase VI subunit B
+PSG99936.1;328;320;98;2e-62;{1 320};Nanohaloarchaea archaeon SW_4_43_9;DNA topoisomerase VI subunit B, partial
+PBO85778.1;623;245;39;2e-62;{2 245} {351 595};Thaumarchaeota archaeon;DNA topoisomerase VI subunit B
+AIF13518.1;638;245;38;2e-62;{26 359} {376 620};uncultured marine thaumarchaeote KM3_62_H02;DNA topoisomerase VI subunit B (top6B)
+AIF25232.1;612;245;40;2e-62;{0 333} {350 594};uncultured marine thaumarchaeote SAT1000_48_C08;DNA topoisomerase VI subunit B (top6B)
+RNJ77009.1;618;266;43;5e-62;{3 335} {349 614};Nitrosopumilus sp. D6;DNA topoisomerase VI subunit B
+AIF02342.1;612;245;40;5e-62;{0 333} {350 594};uncultured marine thaumarchaeote KM3_156_B03;DNA topoisomerase VI subunit B (top6B)
+RNJ78754.1;617;245;40;6e-62;{3 335} {349 593};Nitrosopumilus sp. B06;DNA topoisomerase VI subunit B
+WP_048071074.1;627;245;39;6e-62;{2 293} {351 595};Marine Group I thaumarchaeote SCGC AAA799-P11;DNA topoisomerase VI subunit B
+RLF47415.1;351;336;96;6e-62;{14 349};Thermoplasmata archaeon;DNA topoisomerase VI subunit B, partial
+AIE95704.1;612;245;40;7e-62;{0 333} {350 594};uncultured marine thaumarchaeote AD1000_69_E02;DNA topoisomerase VI subunit B (top6B)
+KRT61543.1;612;245;40;8e-62;{0 248} {350 594};Thaumarchaeota archaeon CSP1-1;topoisomerase VI subunit B, DNA topoisomerase VI subunit B protein
+WP_109876938.1;622;236;38;8e-62;{4 245} {360 595};Candidatus Nitrosopumilus sp. NM25;DNA topoisomerase VI subunit B
+ABZ08993.1;638;246;39;9e-62;{26 359} {384 629};uncultured marine crenarchaeote HF4000_APKG6B14;putative histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+WP_042687876.1;612;247;40;9e-62;{1 243} {347 593};Candidatus Nitrosotenuis chungbukensis;DNA topoisomerase VI subunit B
+RLE42784.1;312;290;93;1e-61;{16 305};Candidatus Woesearchaeota archaeon;DNA topoisomerase VI subunit B, partial
+ABZ06919.1;642;246;38;1e-61;{30 363} {388 633};uncultured marine crenarchaeote HF4000_ANIW93H17;putative histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+WP_048079367.1;627;245;39;1e-61;{2 293} {351 595};Marine Group I;MULTISPECIES: DNA topoisomerase VI subunit B
+PIT85349.1;515;428;83;1e-61;{35 462};Candidatus Micrarchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_59_7;DNA topoisomerase VI subunit B, partial
+RMW37023.1;626;233;37;2e-61;{2 293} {363 595};Nitrosopumilus sp.;DNA topoisomerase VI subunit B
+WP_048069976.1;612;245;40;3e-61;{0 244} {350 594};Marine Group I thaumarchaeote SCGC AAA799-O18;DNA topoisomerase VI subunit B
+AJM93279.1;628;245;39;3e-61;{2 337} {351 595};Candidatus Nitrosopumilus piranensis;Type 2 DNA topoisomerase 6 subunit B
+AIF24895.1;612;254;42;3e-61;{0 333} {350 603};uncultured marine thaumarchaeote SAT1000_41_C02;DNA topoisomerase VI subunit B (top6B)
+WP_014963793.1;627;245;39;3e-61;{2 245} {351 595};Nitrosopumilus;MULTISPECIES: DNA topoisomerase VI subunit B
+WP_048115272.1;624;236;38;4e-61;{4 337} {360 595};Candidatus Nitrosopumilus adriaticus;DNA topoisomerase VI subunit B
+PIY60107.1;304;300;99;4e-61;{0 299};Candidatus Woesearchaeota archaeon CG_4_10_14_0_8_um_filter_47_5;DNA topoisomerase VI subunit B, partial
+RNJ76560.1;621;245;39;4e-61;{3 335} {349 593};Nitrosopumilus sp. H13;DNA topoisomerase VI subunit B
+RMW39639.1;626;245;39;6e-61;{2 293} {351 595};Nitrosopumilus sp.;DNA topoisomerase VI subunit B
+OIO24488.1;655;437;67;7e-61;{34 91} {174 610};Candidatus Micrarchaeota archaeon CG1_02_51_15;DNA topoisomerase VI subunit B
+DAC14333.1;385;368;96;8e-61;{15 382};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B, partial
+AIE99874.1;612;254;42;1e-60;{0 333} {350 603};uncultured marine thaumarchaeote KM3_125_A06;DNA topoisomerase VI subunit B (top6B)
+RNJ78762.1;621;245;39;1e-60;{3 335} {349 593};Nitrosopumilus sp. H8;DNA topoisomerase VI subunit B
+RMW34139.1;627;233;37;1e-60;{2 293} {363 595};Nitrosopumilus sp.;DNA topoisomerase VI subunit B
+RLJ01596.1;897;350;39;2e-60;{2 61} {546 895};Candidatus Aenigmarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+PHY04580.1;624;244;39;2e-60;{2 245} {351 594};Thaumarchaeota archaeon;DNA topoisomerase VI subunit B
+WP_067958836.1;624;233;37;2e-60;{2 245} {363 595};Nitrosopumilus sp. Nsub;DNA topoisomerase VI subunit B
+PSH02057.1;311;290;93;2e-60;{0 289};Nanohaloarchaea archaeon QH_8_44_6;DNA topoisomerase VI subunit B
+PBO83298.1;612;246;40;2e-60;{0 333} {358 603};Nitrosopumilales archaeon;DNA topoisomerase VI subunit B
+ABX13304.1;626;245;39;3e-60;{2 293} {351 595};Nitrosopumilus maritimus SCM1;DNA topoisomerase VI, B subunit
+PJC51209.1;624;245;39;4e-60;{2 275} {351 595};Nitrosopumilales archaeon CG_4_9_14_0_2_um_filter_34_16;DNA topoisomerase VI subunit B
+KRO31792.1;601;236;39;4e-60;{2 245} {360 595};Nitrosopumilus sp. BACL13 MAG-120910-bin56;DNA topoisomerase, partial
+RMF31920.1;592;227;38;4e-60;{1 240} {342 568};Thaumarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+EHK01574.1;369;347;94;5e-60;{18 364};Candidatus Haloredivivus sp. G17;DNA topoisomerase VI subunit B
+KRO29239.1;624;233;37;6e-60;{2 245} {363 595};Nitrosopumilus sp. BACL13 MAG-121220-bin23;DNA topoisomerase
+ABK77416.1;297;237;80;6e-60;{40 276};Cenarchaeum symbiosum A;DNA topoisomerase VI, subunit B
+WP_086907161.1;624;233;37;1e-59;{2 245} {363 595};Candidatus Nitrosomarinus catalina;DNA topoisomerase VI subunit B
+RCL30388.1;624;233;37;2e-59;{2 245} {363 595};Nitrosopumilus sp.;DNA topoisomerase VI subunit B
+AIF07370.1;624;233;37;3e-59;{2 245} {363 595};uncultured marine thaumarchaeote KM3_201_H03;DNA topoisomerase VI subunit B (top6B)
+RLE68916.1;232;230;99;7e-59;{2 231};Thermoprotei archaeon;DNA topoisomerase VI subunit B, partial
+RLF91912.1;403;395;98;2e-58;{8 402};Thermococci archaeon;DNA topoisomerase VI subunit B, partial
+RLE84935.1;183;182;99;1e-57;{1 182};Thermoprotei archaeon;DNA topoisomerase VI subunit B, partial
+PSG98515.1;1569;141;9;1e-57;{571 905} {1407 1547};Nanohaloarchaea archaeon SW_7_43_1;DNA topoisomerase VI subunit B
+PVU76974.1;152;151;99;2e-57;{0 150};Acidianus hospitalis;DNA topoisomerase VI subunit B, partial
+DAC68806.1;430;405;94;2e-57;{25 429};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B, partial
+AIF09977.1;457;245;54;6e-57;{13 178} {195 439};uncultured marine thaumarchaeote KM3_42_C02;DNA topoisomerase VI subunit B (top6B)
+AIF00209.1;351;244;70;1e-56;{2 245};uncultured marine thaumarchaeote KM3_12_F11;DNA topoisomerase VI subunit B (top6B)
+RQD82384.1;455;338;74;2e-56;{1 338};Methanocalculus sp. MSAO_Arc2;DNA topoisomerase VI subunit B, partial
+WP_008301237.1;263;244;93;6e-56;{2 245};Candidatus Nitrosopumilus salaria;DNA topoisomerase VI subunit B, partial
+RLF31776.1;316;301;95;7e-55;{15 315};Thermoplasmata archaeon;DNA topoisomerase VI subunit B, partial
+PIO05807.1;640;428;67;8e-55;{20 76} {160 587};Candidatus Micrarchaeota archaeon CG08_land_8_20_14_0_20_59_11;DNA topoisomerase VI subunit B
+PIU21142.1;1141;381;33;5e-54;{53 159} {681 1061};Candidatus Diapherotrites archaeon CG08_land_8_20_14_0_20_34_12;DNA topoisomerase VI subunit B
+PIN82607.1;402;383;95;8e-54;{10 392};Candidatus Micrarchaeota archaeon CG11_big_fil_rev_8_21_14_0_20_47_5;DNA topoisomerase VI subunit B, partial
+DAC45024.1;565;356;63;1e-53;{0 355};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B
+RJU88288.1;553;363;66;1e-53;{5 367};Marine Group II euryarchaeote;DNA topoisomerase VI subunit B, partial
+OYT52022.1;200;194;97;2e-53;{6 199};Candidatus Bathyarchaeota archaeon ex4484_135;hypothetical protein B6U66_02895, partial
+RLF71494.1;251;236;94;2e-53;{0 235};Thermoplasmata archaeon;DNA topoisomerase VI subunit B, partial
+RAS35618.1;391;237;61;2e-52;{137 373};Thaumarchaeota archaeon SCGC AC-337_F14;DNA topoisomerase-6 subunit B
+RTZ95710.1;565;328;58;2e-52;{48 375};Marine Group II euryarchaeote;DNA topoisomerase VI subunit B
+RLF61702.1;303;267;88;1e-51;{0 266};Thermoplasmata archaeon;DNA topoisomerase VI subunit B, partial
+ADD93028.1;401;319;80;2e-51;{2 320};uncultured archaeon MedDCM-OCT-S04-C246;hypothetical protein
+RLI20099.1;208;179;86;7e-51;{0 178};Candidatus Bathyarchaeota archaeon;hypothetical protein DRO54_07070
+ABQ75803.1;786;184;23;1e-50;{28 290} {500 683};uncultured haloarchaeon;DNA topoisomerase VI subunit B
+AIE93231.1;323;254;79;2e-50;{45 298};uncultured marine thaumarchaeote AD1000_33_B07;DNA topoisomerase VI subunit B (top6B)
+RLF53661.1;417;294;71;2e-50;{0 293};Thermoplasmata archaeon;DNA topoisomerase VI subunit B, partial
+DAC33793.1;551;328;60;3e-50;{25 352};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B, partial
+WP_009761602.1;801;220;27;3e-49;{24 289} {505 724};Halobacterium sp. DL1;DNA topoisomerase VI subunit B
+PIN68540.1;337;293;87;3e-49;{1 293};Candidatus Woesearchaeota archaeon CG11_big_fil_rev_8_21_14_0_20_57_5;DNA topoisomerase VI subunit B, partial
+RLG22981.1;385;253;66;4e-49;{1 253};Methanosarcinales archaeon;DNA topoisomerase VI subunit B
+OYT64783.1;224;190;85;5e-49;{3 192};Candidatus Bathyarchaeota archaeon ex4484_205;hypothetical protein B6U74_04875
+RLG28866.1;403;256;64;9e-49;{0 255};Methanosarcinales archaeon;DNA topoisomerase VI subunit B, partial
+WP_077204751.1;795;194;24;9e-49;{23 283} {494 687};Halorientalis sp. IM1011;DNA topoisomerase VI subunit B
+PSP96756.1;809;233;29;1e-48;{24 283} {450 682};Halobacteriales archaeon QS_5_70_17;DNA topoisomerase VI subunit B
+ERH10900.1;797;188;24;2e-48;{23 283} {490 677};halophilic archaeon J07HX64;DNA topoisomerase VI, B subunit
+PSP55238.1;798;202;25;5e-48;{24 285} {490 691};Halobacteriales archaeon QS_1_67_19;DNA topoisomerase VI subunit B
+WP_092687209.1;795;196;25;5e-48;{23 283} {494 689};Halorientalis regularis;DNA topoisomerase VI subunit B
+WP_092661648.1;795;196;25;7e-48;{23 283} {494 689};Halorientalis persicus;DNA topoisomerase VI subunit B
+PSQ03772.1;811;233;29;1e-47;{19 283} {463 695};Halobacteriales archaeon QS_4_69_31;DNA topoisomerase VI subunit B
+ALI34615.1;824;185;22;1e-47;{47 363} {459 643};Candidatus Nitrosocosmicus oleophilus;DNA topoisomerase VI subunit B
+WP_059056475.1;800;185;23;2e-47;{24 289} {502 686};Halobacterium hubeiense;DNA topoisomerase VI subunit B
+PIU02617.1;1117;486;44;5e-47;{9 99} {588 1073};Candidatus Diapherotrites archaeon CG09_land_8_20_14_0_10_32_12;DNA topoisomerase VI subunit B
+EMA50967.1;325;259;80;6e-47;{22 280};Halococcus thailandensis JCM 13552;DNA topoisomerase VI subunit B, partial
+PSP59502.1;797;282;35;9e-47;{25 285} {424 705};Halobacteriales archaeon QH_7_66_36;DNA topoisomerase VI subunit B
+PSQ27316.1;809;194;24;9e-47;{19 283} {499 692};Halobacteriales archaeon QS_9_67_15;DNA topoisomerase VI subunit B
+WP_058982271.1;800;182;23;1e-46;{24 289} {502 683};Halobacterium sp. CBA1132;DNA topoisomerase VI subunit B
+WP_117591098.1;806;181;22;1e-46;{23 285} {507 687};Haloprofundus sp. NK23;DNA topoisomerase VI subunit B
+WP_089667868.1;802;184;23;2e-46;{25 290} {506 689};Halobacterium jilantaiense;DNA topoisomerase VI subunit B
+PSQ20242.1;797;210;26;2e-46;{25 285} {496 705};Halobacteriales archaeon QS_9_67_17;DNA topoisomerase VI subunit B
+ESS03696.1;814;184;23;2e-46;{24 285} {513 696};uncultured archaeon A07HR67;DNA topoisomerase VI, B subunit
+RAS35619.1;184;183;99;3e-46;{0 182};Thaumarchaeota archaeon SCGC AC-337_F14;DNA topoisomerase-6 subunit B
+WP_066415928.1;838;181;22;3e-46;{24 285} {540 720};Halorubrum aethiopicum;DNA topoisomerase VI subunit B
+WP_094534154.1;828;184;22;4e-46;{24 285} {527 710};Halorubrum halodurans;DNA topoisomerase VI subunit B
+WP_005559167.1;817;207;25;4e-46;{19 283} {513 719};Natronococcus amylolyticus;DNA topoisomerase VI subunit B
+WP_122105015.1;820;181;22;4e-46;{24 285} {522 702};Halobellus sp. ZY21;DNA topoisomerase VI subunit B
+WP_015910048.1;818;225;28;4e-46;{24 285} {476 700};Halorubrum lacusprofundi;DNA topoisomerase VI subunit B
+WP_123534611.1;811;203;25;4e-46;{19 283} {501 703};Halosimplex sp. YPL4;DNA topoisomerase VI subunit B
+WP_012943448.1;825;207;25;4e-46;{19 283} {522 728};Haloterrigena turkmenica;DNA topoisomerase VI subunit B
+WP_090506750.1;823;328;40;5e-46;{19 283} {398 725};Natronorubrum sediminis;DNA topoisomerase VI subunit B
+RLE78822.1;214;170;79;6e-46;{2 171};Thermoprotei archaeon;DNA topoisomerase VI subunit B, partial
+WP_075935994.1;797;188;24;6e-46;{25 285} {496 683};Natronomonas;MULTISPECIES: DNA topoisomerase VI subunit B
+WP_086220900.1;696;213;31;6e-46;{24 285} {478 690};Halorubrum sp. SD612;DNA topoisomerase VI subunit B, partial
+WP_006884143.1;812;196;24;7e-46;{19 283} {509 704};Halosimplex carlsbadense;DNA topoisomerase VI subunit B
+WP_092732977.1;814;229;28;7e-46;{24 284} {469 697};Halopenitus persicus;DNA topoisomerase VI subunit B
+WP_049989297.1;841;195;23;7e-46;{19 283} {537 731};Halopiger salifodinae;DNA topoisomerase VI subunit B
+AIF16646.1;618;390;63;7e-46;{5 394};uncultured marine group II/III euryarchaeote KM3_74_G02;DNA topoisomerase VI subunit B (top6B), partial
+PSQ26371.1;812;230;28;7e-46;{24 283} {463 692};Halobacteriales archaeon QS_9_68_17;DNA topoisomerase VI subunit B
+WP_021074307.1;814;229;28;7e-46;{24 284} {469 697};haloarchaeon 3A1_DGR;DNA topoisomerase VI subunit B
+WP_076582212.1;827;215;26;7e-46;{19 283} {515 729};Haloterrigena daqingensis;DNA topoisomerase VI subunit B
+WP_103425554.1;815;207;25;8e-46;{25 286} {494 700};Salinigranum rubrum;DNA topoisomerase VI subunit B
+WP_071932885.1;795;188;24;8e-46;{23 283} {496 683};Halodesulfurarchaeum formicicum;DNA topoisomerase VI subunit B
+KPV64272.1;185;168;91;8e-46;{0 167};Candidatus Bathyarchaeota archaeon BA1;Type 2 DNA topoisomerase 6 subunit B
+WP_010902623.1;804;204;25;8e-46;{25 290} {503 706};Halobacterium salinarum;DNA topoisomerase VI subunit B
+WP_070364736.1;795;188;24;9e-46;{23 283} {496 683};Halodesulfurarchaeum formicicum;DNA topoisomerase VI subunit B
+WP_020445297.1;821;250;30;9e-46;{23 285} {453 702};Salinarchaeum sp. Harcht-Bsk1;DNA topoisomerase VI subunit B
+WP_007999474.1;818;181;22;1e-45;{24 285} {520 700};Halorubrum aidingense;DNA topoisomerase VI subunit B
+WP_112078474.1;822;181;22;1e-45;{24 285} {524 704};Halorubrum sp. 48_1_W;DNA topoisomerase VI subunit B
+WP_124954696.1;790;188;24;1e-45;{23 282} {489 676};Halomarina oriensis;DNA topoisomerase VI subunit B
+WP_007258985.1;847;207;24;1e-45;{19 283} {544 750};Natronolimnobius innermongolicus;DNA topoisomerase VI subunit B
+WP_121818798.1;812;234;29;1e-45;{24 283} {459 692};Halostella sp. LT12;DNA topoisomerase VI subunit B
+PSP82878.1;795;229;29;1e-45;{23 283} {475 703};Halobacteriales archaeon QS_1_68_17;DNA topoisomerase VI subunit B
+PSQ67456.1;561;61;11;1e-45;{22 282} {495 555};Halobacteriales archaeon SW_9_67_24;DNA topoisomerase VI subunit B, partial
+DAC21784.1;286;278;97;1e-45;{7 284};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B, partial
+WP_096388918.1;814;229;28;1e-45;{24 284} {469 697};Halopenitus persicus;DNA topoisomerase VI subunit B
+PSQ47767.1;793;192;24;1e-45;{23 283} {489 680};Halobacteriales archaeon SW_7_65_23;DNA topoisomerase VI subunit B
+WP_096393085.1;822;181;22;2e-45;{24 285} {524 704};Halorubrum trapanicum;DNA topoisomerase VI subunit B
+WP_049997425.1;789;219;28;2e-45;{22 281} {487 705};Halococcus sediminicola;DNA topoisomerase VI subunit B
+WP_095635897.1;816;225;28;2e-45;{24 285} {474 698};Halorubrum sp. WN019;DNA topoisomerase VI subunit B
+WP_099254634.1;819;225;27;2e-45;{24 285} {477 701};Halorubrum persicum;DNA topoisomerase VI subunit B
+WP_126661333.1;826;207;25;2e-45;{19 283} {523 729};Haloterrigena sp. ZY19;DNA topoisomerase VI subunit B
+WP_008003436.1;818;259;32;2e-45;{24 285} {442 700};Halorubrum lipolyticum;DNA topoisomerase VI subunit B
+WP_058365846.1;806;184;23;2e-45;{23 284} {505 688};Haloparvum sedimenti;DNA topoisomerase VI subunit B
+WP_008894816.1;826;207;25;2e-45;{19 283} {523 729};Haloterrigena salina;DNA topoisomerase VI subunit B
+WP_100050455.1;820;225;27;2e-45;{24 285} {478 702};Halorubrum ezzemoulense;DNA topoisomerase VI subunit B
+WP_094579794.1;820;225;27;2e-45;{24 285} {478 702};Halorubrum ezzemoulense;DNA topoisomerase VI subunit B
+WP_101297364.1;808;233;29;2e-45;{24 285} {459 691};Haloferacaceae archaeon SYSU A9-0;DNA topoisomerase VI subunit B
+WP_085682366.1;820;225;27;2e-45;{24 285} {478 702};Halorubrum ezzemoulense;DNA topoisomerase VI subunit B
+WP_090613142.1;828;271;33;2e-45;{19 283} {468 738};Natrinema salaciae;DNA topoisomerase VI subunit B
+WP_086215802.1;820;225;27;2e-45;{24 285} {478 702};Halorubrum;MULTISPECIES: DNA topoisomerase VI subunit B
+WP_049982223.1;818;184;22;2e-45;{24 285} {517 700};Halorubrum sp. BV1;DNA topoisomerase VI subunit B
+WP_074795517.1;798;207;26;3e-45;{24 285} {477 683};Haloferax larsenii;DNA topoisomerase VI subunit B
+WP_094519787.1;820;225;27;3e-45;{24 285} {478 702};Halorubrum;MULTISPECIES: DNA topoisomerase VI subunit B
+WP_007540305.1;798;207;26;3e-45;{24 285} {477 683};Haloferax larsenii;DNA topoisomerase VI subunit B
+WP_049929588.1;820;225;27;3e-45;{24 285} {478 702};Halorubrum ezzemoulense;DNA topoisomerase VI subunit B
+WP_123112095.1;826;181;22;3e-45;{24 285} {528 708};Halorubrum sp. CBA1229;DNA topoisomerase VI subunit B
+WP_004045864.1;820;181;22;3e-45;{24 285} {522 702};Halorubrum saccharovorum;DNA topoisomerase VI subunit B
+WP_006673984.1;839;317;38;3e-45;{19 283} {426 742};Halobiforma nitratireducens;DNA topoisomerase VI subunit B
+WP_005580244.1;819;215;26;3e-45;{19 283} {508 722};Natronobacterium gregoryi;DNA topoisomerase VI subunit B
+ELZ46546.1;815;254;31;4e-45;{24 285} {444 697};Halorubrum coriense DSM 10284;DNA topoisomerase VI subunit B
+PSP99417.1;806;218;27;4e-45;{25 286} {497 714};Halobacteriales archaeon QS_4_70_19;DNA topoisomerase VI subunit B
+WP_121821274.1;812;246;30;5e-45;{24 283} {446 691};Halostella salina;DNA topoisomerase VI subunit B
+WP_006650566.1;823;270;33;5e-45;{19 283} {463 732};Haloterrigena thermotolerans;DNA topoisomerase VI subunit B
+WP_092922340.1;821;181;22;5e-45;{24 285} {523 703};Halorubrum sodomense;DNA topoisomerase VI subunit B
+WP_006630914.1;821;225;27;6e-45;{24 285} {479 703};Halorubrum tebenquichense;DNA topoisomerase VI subunit B
+WP_123076362.1;793;225;28;6e-45;{25 285} {451 675};Halarchaeum sp. CBA1220;DNA topoisomerase VI subunit B
+WP_006077942.1;798;210;26;7e-45;{22 282} {496 705};Halococcus saccharolyticus;DNA topoisomerase VI subunit B
+WP_005043157.1;797;244;31;7e-45;{22 282} {461 704};Halococcus salifodinae;DNA topoisomerase VI subunit B
+WP_121599389.1;813;225;28;7e-45;{24 284} {471 695};Halorubrum sp. Atlit-28R;DNA topoisomerase VI subunit B
+WP_049980498.1;822;188;23;7e-45;{24 285} {520 707};Halolamina rubra;DNA topoisomerase VI subunit B
+WP_124178044.1;830;225;27;7e-45;{19 283} {516 740};Natrialbaceae haloarchaeon AArcht-Sl;DNA topoisomerase VI subunit B
+WP_053771222.1;813;225;28;7e-45;{24 284} {471 695};Halorubrum tropicale;DNA topoisomerase VI subunit B
+WP_008423571.1;816;207;25;8e-45;{19 283} {513 719};Natronococcus jeotgali;DNA topoisomerase VI subunit B
+WP_049966508.1;823;270;33;8e-45;{19 283} {463 732};Haloterrigena jeotgali;DNA topoisomerase VI subunit B
+WP_086890230.1;811;270;33;8e-45;{19 283} {452 721};Natronolimnobius aegyptiacus;DNA topoisomerase VI subunit B
+WP_066296393.1;822;271;33;8e-45;{19 283} {462 732};Haloterrigena mahii;DNA topoisomerase VI subunit B
+WP_007141714.1;827;214;26;9e-45;{19 283} {523 736};Halobiforma lacisalsi;DNA topoisomerase VI subunit B
+WP_121562358.1;816;225;28;9e-45;{24 284} {474 698};Halorubrum;MULTISPECIES: DNA topoisomerase VI subunit B
+WP_053948237.1;811;188;23;9e-45;{24 285} {509 696};Halolamina sediminis;DNA topoisomerase VI subunit B
+WP_008452119.1;827;207;25;1e-44;{19 283} {524 730};Natrinema gari;DNA topoisomerase VI subunit B
+ERG89632.1;807;204;25;1e-44;{19 282} {445 648};halophilic archaeon J07HX5;DNA topoisomerase VI, B subunit
+WP_089788819.1;825;214;26;1e-44;{19 283} {521 734};Halobiforma haloterrestris;DNA topoisomerase VI subunit B
+PSP48973.1;798;194;24;1e-44;{26 286} {497 690};Halobacteriales archaeon QH_7_69_31;DNA topoisomerase VI subunit B
+PSQ54581.1;817;259;32;1e-44;{24 285} {441 699};Halobacteriales archaeon SW_8_68_21;DNA topoisomerase VI subunit B
+WP_049899325.1;799;219;27;1e-44;{22 282} {497 715};Halococcus agarilyticus;DNA topoisomerase VI subunit B
+WP_087713890.1;820;207;25;1e-44;{19 283} {517 723};Natronolimnobius baerhuensis;DNA topoisomerase VI subunit B
+WP_004595826.1;820;204;25;1e-44;{24 285} {522 725};Halorubrum;MULTISPECIES: DNA topoisomerase VI subunit B
+WP_007993347.1;820;204;25;1e-44;{24 285} {522 725};Halorubrum arcis;DNA topoisomerase VI subunit B
+AFO56086.1;825;207;25;1e-44;{21 285} {522 728};Natrinema sp. J7-2;DNA topoisomerase VI, B subunit
+WP_013880244.1;822;274;33;1e-44;{19 283} {452 725};Halopiger xanaduensis;DNA topoisomerase VI subunit B
+WP_089817375.1;807;238;29;1e-44;{23 283} {465 702};Halomicrobium zhouii;DNA topoisomerase VI subunit B
+WP_108381071.1;809;187;23;1e-44;{22 280} {499 685};Haloarculaceae archaeon HArcel1;DNA topoisomerase VI subunit B
+WP_049888099.1;823;207;25;1e-44;{19 283} {520 726};Natrinema sp. J7-2;DNA topoisomerase VI subunit B
+WP_074875154.1;823;188;23;1e-44;{24 285} {521 708};Halolamina pelagica;DNA topoisomerase VI subunit B
+WP_050024120.1;819;259;32;1e-44;{24 285} {443 701};Halorubrum saccharovorum;DNA topoisomerase VI subunit B
+PSN92847.1;177;176;99;1e-44;{0 175};Candidatus Marsarchaeota G1 archaeon OSP_B;hypothetical protein B9P99_03135, partial
+WP_006431628.1;824;214;26;1e-44;{19 283} {521 734};Natrinema versiforme;DNA topoisomerase VI subunit B
+ELZ35453.1;820;204;25;1e-44;{24 285} {522 725};Halorubrum terrestre JCM 10247;DNA topoisomerase VI subunit B
+WP_007109592.1;824;207;25;2e-44;{19 283} {521 727};Natrinema altunense;DNA topoisomerase VI subunit B
+WP_050048682.1;800;190;24;2e-44;{23 282} {498 687};Halanaeroarchaeum sulfurireducens;DNA topoisomerase VI subunit B
+WP_120084270.1;815;229;28;2e-44;{24 285} {471 699};Halonotius pteroides;DNA topoisomerase VI subunit B
+WP_092565894.1;812;236;29;2e-44;{17 278} {514 749};Halorubrum sp. SD626R;DNA topoisomerase VI subunit B, partial
+WP_049900206.1;823;207;25;2e-44;{19 283} {520 726};Natrinema sp. J7-1;DNA topoisomerase VI subunit B
+WP_050033185.1;819;259;32;2e-44;{24 285} {443 701};Halorubrum halophilum;DNA topoisomerase VI subunit B
+WP_094581255.1;825;181;22;2e-44;{24 285} {527 707};Halorubrum sp. Ib24;DNA topoisomerase VI subunit B
+WP_094525511.1;825;181;22;2e-44;{24 285} {527 707};Halorubrum;MULTISPECIES: DNA topoisomerase VI subunit B
+WP_058580431.1;806;181;22;2e-44;{23 284} {507 687};Haloprofundus marisrubri;DNA topoisomerase VI subunit B
+WP_094526812.1;825;181;22;2e-44;{24 285} {527 707};Halorubrum;MULTISPECIES: DNA topoisomerase VI subunit B
+AZQ14471.1;812;225;28;2e-44;{24 285} {470 694};Halorubrum sp. PV6;DNA topoisomerase VI subunit B
+WP_092630145.1;798;229;29;2e-44;{23 285} {455 683};Haloplanus vescus;DNA topoisomerase VI subunit B
+WP_006179375.1;826;213;26;2e-44;{19 283} {523 735};Natrinema pellirubrum;DNA topoisomerase VI subunit B
+WP_076144861.1;824;271;33;2e-44;{19 283} {464 734};Haloterrigena saccharevitans;DNA topoisomerase VI subunit B
+WP_092931618.1;815;207;25;2e-44;{19 283} {512 718};Haloterrigena hispanica;DNA topoisomerase VI subunit B
+WP_023394146.1;820;284;35;2e-44;{24 285} {471 754};Candidatus Halobonum tyrrellensis;DNA topoisomerase VI subunit B
+WP_098726549.1;825;224;27;2e-44;{19 283} {505 728};Natrinema sp. CBA1119;DNA topoisomerase VI subunit B
+WP_115862362.1;802;197;25;2e-44;{26 288} {498 694};Halorussus sp. HD8-51;DNA topoisomerase VI subunit B
+WP_018258262.1;808;195;24;3e-44;{19 282} {508 702};Halomicrobium katesii;DNA topoisomerase VI subunit B
+WP_008012376.1;817;207;25;3e-44;{19 283} {514 720};Haloterrigena limicola;DNA topoisomerase VI subunit B
+WP_073309401.1;801;270;34;3e-44;{24 285} {417 686};Halobaculum gomorrense;DNA topoisomerase VI subunit B
+DAC39233.1;307;306;100;3e-44;{1 306};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B, partial
+WP_124192783.1;821;188;23;3e-44;{19 283} {515 702};Natrialbaceae haloarchaeon AArcht7;DNA topoisomerase VI subunit B
+WP_121744614.1;821;207;25;3e-44;{19 283} {518 724};Halobacteriaceae archaeon SHR37;DNA topoisomerase VI subunit B
+WP_114586501.1;800;185;23;3e-44;{23 285} {501 685};Haloplanus sp. CBA1113;DNA topoisomerase VI subunit B
+WP_008849675.1;820;181;22;3e-44;{24 285} {522 702};Halorubrum kocurii;DNA topoisomerase VI subunit B
+WP_066382991.1;788;229;29;3e-44;{24 283} {446 674};Halalkalicoccus paucihalophilus;DNA topoisomerase VI subunit B
+WP_120102975.1;815;233;29;4e-44;{24 284} {467 699};Halonotius sp. F13-13;DNA topoisomerase VI subunit B
+WP_089383150.1;812;181;22;4e-44;{24 285} {514 694};Halorubrum vacuolatum;DNA topoisomerase VI subunit B
+DAC32945.1;458;310;68;4e-44;{10 319};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B, partial
+PSP60728.1;812;232;29;4e-44;{23 282} {456 687};Halobacteriales archaeon QH_8_64_26;DNA topoisomerase VI subunit B
+WP_015763676.1;807;195;24;4e-44;{19 282} {507 701};Halomicrobium mukohataei;DNA topoisomerase VI subunit B
+WP_092703359.1;793;233;29;5e-44;{23 283} {447 679};Halovenus aranensis;DNA topoisomerase VI subunit B
+WP_090378968.1;820;207;25;5e-44;{19 283} {517 723};Natronobacterium texcoconense;DNA topoisomerase VI subunit B
+WP_049925840.1;829;207;25;5e-44;{19 283} {526 732};Halopiger goleimassiliensis;DNA topoisomerase VI subunit B
+WP_114606208.1;800;185;23;5e-44;{23 285} {501 685};Haloplanus sp. CBA1112;DNA topoisomerase VI subunit B
+WP_006088360.1;833;217;26;5e-44;{19 283} {526 742};Natronorubrum tibetense;DNA topoisomerase VI subunit B
+WP_120243170.1;821;328;40;6e-44;{19 283} {397 724};Halopiger aswanensis;DNA topoisomerase VI subunit B
+WP_092817554.1;814;229;28;7e-44;{24 284} {469 697};Halopenitus malekzadehii;DNA topoisomerase VI subunit B
+WP_004055548.1;793;230;29;7e-44;{22 280} {450 679};Halococcus morrhuae;DNA topoisomerase VI subunit B
+WP_058570627.1;798;229;29;7e-44;{24 285} {455 683};Haloferax sp. SB29;DNA topoisomerase VI subunit B
+WP_097379929.1;828;224;27;7e-44;{23 283} {515 738};Natrinema ejinorense;DNA topoisomerase VI subunit B
+WP_007696710.1;807;202;25;7e-44;{23 283} {501 702};Halovivax asiaticus;DNA topoisomerase VI subunit B
+WP_124194829.1;827;217;26;8e-44;{19 283} {518 734};Natrialbaceae haloarchaeon AArcht4;DNA topoisomerase VI subunit B
+WP_122091359.1;789;229;29;9e-44;{24 283} {447 675};Halalkalicoccus sp. GSM28;DNA topoisomerase VI subunit B
+WP_114575481.1;813;236;29;9e-44;{23 283} {466 701};Saliphagus sp. LR7;DNA topoisomerase VI subunit B
+WP_008159323.1;820;207;25;9e-44;{19 283} {517 723};Natronorubrum sulfidifaciens;DNA topoisomerase VI subunit B
+PSQ19727.1;839;264;31;1e-43;{23 282} {457 720};Halobacteriales archaeon QS_8_65_32;DNA topoisomerase VI subunit B
+WP_009365578.1;806;225;28;1e-43;{24 285} {463 687};Halogranum salarium;DNA topoisomerase VI subunit B
+WP_084156973.1;800;248;31;1e-43;{20 325} {459 706};Haladaptatus cibarius;DNA topoisomerase VI subunit B
+WP_117363941.1;816;210;26;1e-43;{19 283} {510 719};Natronolimnobius;MULTISPECIES: DNA topoisomerase VI subunit B
+WP_006186852.1;823;207;25;1e-43;{19 283} {520 726};Natrinema pallidum;DNA topoisomerase VI subunit B
+AIE91236.1;545;315;58;1e-43;{7 321};uncultured marine group II/III euryarchaeote AD1000_10_C12;DNA topoisomerase VI subunit B (top6B), partial
+WP_049952895.1;815;206;25;1e-43;{23 283} {490 695};Halostagnicola larsenii;DNA topoisomerase VI subunit B
+WP_089872338.1;806;225;28;1e-43;{24 285} {463 687};Halogranum rubrum;DNA topoisomerase VI subunit B
+WP_089698031.1;806;244;30;1e-43;{24 326} {444 687};Halogranum gelatinilyticum;DNA topoisomerase VI subunit B
+WP_092905243.1;820;206;25;1e-43;{23 283} {495 700};Halostagnicola kamekurae;DNA topoisomerase VI subunit B
+WP_050051297.1;818;206;25;1e-43;{23 283} {493 698};Halostagnicola sp. A56;DNA topoisomerase VI subunit B
+WP_079232870.1;825;188;23;2e-43;{24 285} {523 710};Halolamina sp. CBA1230;DNA topoisomerase VI subunit B
+WP_076608207.1;822;207;25;2e-43;{19 283} {519 725};Natronorubrum thiooxidans;DNA topoisomerase VI subunit B
+WP_076429539.1;803;210;26;2e-43;{23 290} {500 709};Haladaptatus litoreus;DNA topoisomerase VI subunit B
+WP_006651894.1;824;207;25;2e-43;{19 283} {521 727};Natrialba hulunbeirensis;DNA topoisomerase VI subunit B
+WP_089670873.1;809;233;29;2e-43;{24 285} {462 694};Halohasta litchfieldiae;DNA topoisomerase VI subunit B
+RJV00234.1;812;185;23;2e-43;{10 327} {434 618};Marine Group II euryarchaeote;DNA topoisomerase VI subunit B
+WP_089824656.1;806;225;28;3e-43;{24 285} {463 687};Halogranum amylolyticum;DNA topoisomerase VI subunit B
+WP_006067799.1;820;207;25;3e-43;{19 283} {517 723};Natronorubrum bangense;DNA topoisomerase VI subunit B
+AGB16053.1;807;242;30;3e-43;{23 283} {461 702};Halovivax ruber XH-70;DNA topoisomerase VI, B subunit
+WP_089732722.1;822;258;31;4e-43;{19 289} {446 703};Haloarchaeobius iranensis;DNA topoisomerase VI subunit B
+WP_103990038.1;803;238;30;4e-43;{25 292} {450 687};Halobellus limi;DNA topoisomerase VI subunit B
+WP_049920952.1;818;214;26;4e-43;{19 283} {515 728};Halopiger djelfimassiliensis;DNA topoisomerase VI subunit B
+WP_071402471.1;824;207;25;4e-43;{19 282} {521 727};Natrialba sp. SSL1;DNA topoisomerase VI subunit B
+WP_008416629.1;789;229;29;5e-43;{24 283} {447 675};Halalkalicoccus jeotgali;DNA topoisomerase VI subunit B
+WP_089810525.1;800;241;30;5e-43;{23 290} {445 685};Halogeometricum rufum;DNA topoisomerase VI subunit B
+WP_089766447.1;802;248;31;7e-43;{25 292} {440 687};Halobellus clavatus;DNA topoisomerase VI subunit B
+WP_120072277.1;790;185;23;7e-43;{22 332} {490 674};Halococcus sp. IIIV-5B;DNA topoisomerase VI subunit B
+EIJ65173.1;258;170;66;7e-43;{88 257};Candidatus Nitrosopumilus salaria BD31;putative DNA topoisomerase VI, B subunit, partial
+WP_011323452.1;798;194;24;7e-43;{22 286} {491 684};Natronomonas pharaonis;DNA topoisomerase VI subunit B
+WP_006167011.1;824;207;25;8e-43;{19 283} {521 727};Natrialba chahannaoensis;DNA topoisomerase VI subunit B
+WP_049936660.1;800;185;23;8e-43;{23 285} {501 685};Haloplanus natans;DNA topoisomerase VI subunit B
+WP_004216379.1;824;207;25;8e-43;{19 283} {521 727};Natrialba magadii;DNA topoisomerase VI subunit B
+WP_053969459.1;795;226;28;9e-43;{23 285} {464 689};Haloarcula rubripromontorii;DNA topoisomerase VI subunit B
+WP_007690349.1;790;185;23;1e-42;{22 280} {490 674};Halococcus hamelinensis;DNA topoisomerase VI subunit B
+ESS09063.1;812;242;30;1e-42;{24 285} {455 696};uncultured archaeon A07HN63;DNA topoisomerase VI, B subunit
+PVU68185.1;146;146;100;1e-42;{0 145};Sulfolobus sp. SCGC AB-777_G05;DNA topoisomerase VI subunit B, partial
+ESS06204.1;799;167;21;1e-42;{19 285} {487 653};uncultured archaeon A07HB70;DNA topoisomerase VI, B subunit
+WP_115819243.1;798;207;26;1e-42;{24 283} {477 683};Haloferax;MULTISPECIES: DNA topoisomerase VI subunit B
+WP_058567594.1;798;207;26;1e-42;{24 283} {477 683};Haloferax sp. SB3;DNA topoisomerase VI subunit B
+WP_090303734.1;833;217;26;1e-42;{19 283} {526 742};Natronorubrum texcoconense;DNA topoisomerase VI subunit B
+ACV10318.1;807;237;29;1e-42;{20 282} {459 695};Halorhabdus utahensis DSM 12940;DNA topoisomerase VI, B subunit
+WP_115804862.1;798;207;26;1e-42;{24 283} {477 683};Haloferax;MULTISPECIES: DNA topoisomerase VI subunit B
+WP_004976864.1;798;207;26;2e-42;{24 283} {477 683};Haloferax gibbonsii;DNA topoisomerase VI subunit B
+WP_008581278.1;267;225;84;2e-42;{24 248};Halorubrum hochstenium;DNA topoisomerase VI subunit B, partial
+WP_049968489.1;798;207;26;2e-42;{24 283} {477 683};Haloferax;MULTISPECIES: DNA topoisomerase VI subunit B
+WP_004970679.1;798;207;26;2e-42;{24 283} {477 683};Haloferax denitrificans;DNA topoisomerase VI subunit B
+WP_064288501.1;796;187;23;2e-42;{23 285} {495 681};Haloarcula sp. K1;DNA topoisomerase VI subunit B
+WP_050459094.1;798;207;26;2e-42;{24 283} {477 683};Haloferax gibbonsii;DNA topoisomerase VI subunit B
+WP_049941127.1;810;237;29;2e-42;{23 285} {462 698};Halorhabdus utahensis;DNA topoisomerase VI subunit B
+WP_121577534.1;796;196;25;2e-42;{23 285} {495 690};Haloarcula sp. Atlit-47R;DNA topoisomerase VI subunit B
+ERH01061.1;812;242;30;2e-42;{24 285} {455 696};Halonotius sp. J07HN6;DNA topoisomerase VI, B subunit
+WP_089777768.1;798;226;28;2e-42;{24 283} {458 683};Haloferax massiliensis;DNA topoisomerase VI subunit B
+WP_101349793.1;796;196;25;2e-42;{19 285} {495 690};Haloarcula taiwanensis;DNA topoisomerase VI subunit B
+WP_011223034.1;796;187;23;2e-42;{19 285} {495 681};Haloarcula marismortui;DNA topoisomerase VI subunit B
+WP_121510835.1;796;196;25;2e-42;{23 285} {495 690};Haloarcula sp. Atlit-7R;DNA topoisomerase VI subunit B
+WP_115883433.1;798;226;28;2e-42;{24 283} {458 683};Haloferax sp. Atlit-12N;DNA topoisomerase VI subunit B
+WP_007273638.1;798;207;26;2e-42;{24 283} {477 683};Haloferax sulfurifontis;DNA topoisomerase VI subunit B
+WP_006666335.1;826;185;22;2e-42;{19 283} {523 707};Natrialba aegyptia;DNA topoisomerase VI subunit B
+WP_121536825.1;796;196;25;2e-42;{23 285} {495 690};Haloarcula sp. Atlit-120R;DNA topoisomerase VI subunit B
+WP_004041450.1;798;207;26;2e-42;{24 283} {477 683};Haloferax volcanii;DNA topoisomerase VI subunit B
+WP_050037845.1;796;187;23;2e-42;{23 285} {495 681};Haloarcula;MULTISPECIES: DNA topoisomerase VI subunit B
+WP_014040063.1;796;187;23;2e-42;{23 285} {495 681};Haloarcula hispanica;DNA topoisomerase VI subunit B
+WP_004962321.1;796;196;25;2e-42;{19 285} {495 690};Haloarcula sinaiiensis;DNA topoisomerase VI subunit B
+ELK53286.1;790;207;26;2e-42;{16 275} {469 675};Haloferax sp. BAB2207;DNA topoisomerase VI subunit B
+WP_008574359.1;798;207;26;2e-42;{24 283} {477 683};Haloferax;MULTISPECIES: DNA topoisomerase VI subunit B
+WP_005535003.1;796;187;23;2e-42;{19 285} {495 681};Haloarcula argentinensis;DNA topoisomerase VI subunit B
+WP_007187988.1;796;187;23;2e-42;{19 285} {495 681};Haloarcula californiae;DNA topoisomerase VI subunit B
+WP_115802623.1;798;207;26;2e-42;{24 283} {477 683};Haloferax;MULTISPECIES: DNA topoisomerase VI subunit B
+WP_058996431.1;796;187;23;2e-42;{23 285} {495 681};Haloarcula sp. CBA1127;DNA topoisomerase VI subunit B
+WP_115859834.1;798;207;26;2e-42;{24 283} {477 683};Haloferax sp. Atlit-47N;DNA topoisomerase VI subunit B
+WP_121302903.1;795;187;24;3e-42;{19 285} {494 680};Haloarcula quadrata;DNA topoisomerase VI subunit B
+WP_004515705.1;796;196;25;3e-42;{19 285} {495 690};Haloarcula vallismortis;DNA topoisomerase VI subunit B
+WP_006600261.1;798;207;26;3e-42;{24 283} {477 683};Haloferax alexandrinus;DNA topoisomerase VI subunit B
+ERH05864.1;814;229;28;3e-42;{24 285} {470 698};Halonotius sp. J07HN4;DNA topoisomerase VI, B subunit
+WP_004063240.1;798;207;26;3e-42;{24 283} {477 683};Haloferax lucentense;DNA topoisomerase VI subunit B
+WP_004593131.1;796;187;23;3e-42;{23 285} {495 681};Haloarcula japonica;DNA topoisomerase VI subunit B
+OUX22775.1;812;184;23;3e-42;{10 327} {434 617};Euryarchaeota archaeon TMED252;DNA topoisomerase VI subunit B
+WP_058827359.1;798;207;26;3e-42;{24 283} {477 683};Haloferax sp. Q22;DNA topoisomerase VI subunit B
+WP_006824502.1;821;185;23;3e-42;{19 282} {518 702};Natrialba taiwanensis;DNA topoisomerase VI subunit B
+DAC36411.1;812;184;23;3e-42;{10 327} {434 617};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B
+WP_049995565.1;807;191;24;3e-42;{23 285} {509 699};Halapricum salinum;DNA topoisomerase VI subunit B
+RJU91489.1;352;344;98;3e-42;{7 350};Marine Group II euryarchaeote;DNA topoisomerase VI subunit B, partial
+WP_008309775.1;796;249;31;4e-42;{19 285} {433 681};Haloarcula amylolytica;DNA topoisomerase VI subunit B
+WP_092893280.1;806;238;30;4e-42;{19 290} {454 691};Halopelagius inordinatus;DNA topoisomerase VI subunit B
+WP_006108610.1;821;185;23;4e-42;{19 282} {518 702};Natrialba asiatica;DNA topoisomerase VI subunit B
+WP_089883242.1;800;246;31;6e-42;{19 291} {440 685};Halogeometricum limi;DNA topoisomerase VI subunit B
+KXH72859.1;672;447;67;6e-42;{169 615};Candidatus Thorarchaeota archaeon SMTZ-45;hypothetical protein AM326_10930
+PSQ11932.1;810;185;23;7e-42;{26 286} {512 696};Halobacteriales archaeon QS_7_69_60;DNA topoisomerase VI subunit B
+WP_013440578.1;800;241;30;7e-42;{23 290} {445 685};Halogeometricum borinquense;DNA topoisomerase VI subunit B
+KXH71473.1;667;447;67;8e-42;{164 610};Candidatus Thorarchaeota archaeon SMTZ1-45;hypothetical protein AM325_10090
+WP_049985687.1;802;238;30;8e-42;{25 293} {450 687};Halobellus rufus;DNA topoisomerase VI subunit B
+DAC09872.1;810;185;23;9e-42;{10 327} {434 618};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B
+WP_121570431.1;802;248;31;9e-42;{25 292} {440 687};Halobellus sp. Atlit-38R;DNA topoisomerase VI subunit B
+PSQ16635.1;810;276;34;9e-42;{26 286} {443 718};Halobacteriales archaeon QS_8_69_73;DNA topoisomerase VI subunit B
+PSP79971.1;810;185;23;1e-41;{26 286} {512 696};Halobacteriales archaeon QS_4_69_225;DNA topoisomerase VI subunit B
+PSQ35884.1;810;185;23;1e-41;{26 286} {512 696};Halobacteriales archaeon QS_9_70_65;DNA topoisomerase VI subunit B
+RDE14069.1;672;485;72;1e-41;{134 618};Candidatus Thorarchaeota archaeon;DNA topoisomerase VI subunit B
+WP_097007564.1;826;253;31;1e-41;{19 284} {453 705};Natronoarchaeum philippinense;DNA topoisomerase VI subunit B
+WP_082837873.1;802;210;26;2e-41;{20 289} {499 708};Haladaptatus sp. R4;DNA topoisomerase VI subunit B
+KZN23893.1;805;210;26;2e-41;{23 292} {502 711};Haladaptatus sp. R4;DNA topoisomerase VI
+DAC64054.1;488;303;62;2e-41;{1 303};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B
+OYT57715.1;283;234;83;2e-41;{17 250};Candidatus Aenigmarchaeota archaeon ex4484_14;DNA topoisomerase VI subunit B, partial
+WP_083252521.1;802;217;27;2e-41;{20 289} {499 715};Haladaptatus sp. W1;DNA topoisomerase VI subunit B
+SHJ95760.1;805;217;27;3e-41;{23 292} {502 718};Haladaptatus paucihalophilus DX253;DNA topoisomerase-6 subunit B
+OLS17306.1;614;445;72;3e-41;{131 575};Candidatus Odinarchaeota archaeon LCB_4;Type 2 DNA topoisomerase 6 subunit B
+WP_121559502.1;802;238;30;3e-41;{25 293} {450 687};Halobellus sp. Atlit-31R;DNA topoisomerase VI subunit B
+ODR81363.1;805;217;27;3e-41;{23 292} {502 718};Haladaptatus sp. W1;DNA topoisomerase VI subunit B
+WP_007980390.1;802;217;27;3e-41;{20 289} {499 715};Haladaptatus paucihalophilus;DNA topoisomerase VI subunit B
+RDE16322.1;725;440;61;8e-41;{229 668};Candidatus Thorarchaeota archaeon;DNA topoisomerase VI subunit B
+WP_004056798.1;798;229;29;9e-41;{24 283} {455 683};Haloferax mediterranei;DNA topoisomerase VI subunit B
+WP_049964065.1;798;229;29;9e-41;{24 283} {455 683};Haloferax mediterranei;DNA topoisomerase VI subunit B
+WP_092534931.1;806;188;23;1e-40;{23 291} {504 691};Halopelagius longus;DNA topoisomerase VI subunit B
+WP_008317308.1;798;229;29;1e-40;{24 283} {455 683};Haloferax mucosum;DNA topoisomerase VI subunit B
+WP_013100285.1;656;229;35;2e-40;{7 237} {426 654};Methanocaldococcus infernus;DNA topoisomerase VI subunit B
+RPI40028.1;257;245;95;6e-40;{12 256};Methanoregulaceae archaeon;DNA topoisomerase VI subunit B, partial
+WP_015733040.1;656;187;29;9e-40;{7 270} {427 613};Methanocaldococcus vulcanius;DNA topoisomerase VI subunit B
+WP_115795593.1;802;208;26;9e-40;{24 290} {489 696};Halorussus rarus;DNA topoisomerase VI subunit B
+RDE15888.1;760;430;57;4e-39;{261 690};Candidatus Thorarchaeota archaeon;DNA topoisomerase VI subunit B
+PKG32633.1;342;221;65;5e-39;{1 221};Methanoregula sp.;DNA topoisomerase VI subunit B, partial
+Q58434.2;660;228;35;6e-39;{12 273} {431 658};Unknown unknown;Type 2 DNA topoisomerase 6 subunit B,
+WP_064496705.1;656;228;35;6e-39;{8 269} {427 654};Methanocaldococcus jannaschii;DNA topoisomerase VI subunit B
+WP_012981218.1;656;228;35;7e-39;{8 270} {427 654};Methanocaldococcus sp. FS406-22;DNA topoisomerase VI subunit B
+RPI38858.1;335;244;73;8e-39;{0 243};Methanoregulaceae archaeon;DNA topoisomerase VI subunit B, partial
+BAJ49452.1;158;145;92;9e-39;{13 157};Candidatus Caldiarchaeum subterraneum;DNA topoisomerase VI subunit B, partial
+AAB99032.1;686;228;33;1e-38;{36 299} {457 684};Methanocaldococcus jannaschii DSM 2661;DNA topoisomerase VI, subunit B (top6B)
+WP_012794988.1;656;228;35;1e-38;{8 270} {427 654};Methanocaldococcus fervens;DNA topoisomerase VI subunit B
+WP_004590227.1;656;228;35;2e-38;{8 269} {427 654};Methanocaldococcus villosus;DNA topoisomerase VI subunit B
+WP_113275859.1;805;221;27;2e-38;{23 291} {490 710};halophilic archaeon;DNA topoisomerase VI subunit B
+OLS31644.1;703;440;63;3e-38;{208 647};Candidatus Thorarchaeota archaeon AB_25;Type 2 DNA topoisomerase 6 subunit B
+PSQ15069.1;728;241;33;3e-38;{21 293} {465 705};Halobacteriales archaeon QS_8_69_26;DNA topoisomerase VI subunit B, partial
+ELZ85123.1;225;195;87;3e-38;{24 218};Haloferax elongans ATCC BAA-1513;DNA topoisomerase VI subunit B, partial
+RLI52635.1;575;445;77;4e-38;{74 518};Candidatus Thorarchaeota archaeon;DNA topoisomerase VI subunit B
+WP_048201913.1;656;228;35;6e-38;{8 270} {427 654};Methanocaldococcus bathoardescens;DNA topoisomerase VI subunit B
+WP_013798244.1;656;214;33;6e-38;{6 258} {427 640};Methanotorris igneus;DNA topoisomerase VI subunit B
+RLI53575.1;674;449;67;9e-38;{170 618};Candidatus Thorarchaeota archaeon;DNA topoisomerase VI subunit B
+ELY29769.1;263;236;90;1e-37;{19 254};Halogeometricum borinquense DSM 11551;DNA topoisomerase VI subunit B, partial
+KPN31436.1;677;248;37;2e-37;{3 238} {426 673};Halolamina pelagica;type 2 DNA topoisomerase 6 subunit B
+PSQ60622.1;816;269;33;3e-37;{19 291} {462 730};Halobacteriales archaeon SW_7_71_33;DNA topoisomerase VI subunit B
+KXH73289.1;681;457;67;5e-37;{165 621};Candidatus Thorarchaeota archaeon SMTZ-45;hypothetical protein AM326_00645
+PIZ51309.1;200;198;99;6e-37;{0 197};Candidatus Woesearchaeota archaeon CG_4_10_14_0_2_um_filter_33_13;DNA topoisomerase VI subunit B, partial
+PSQ40584.1;829;206;25;1e-36;{19 291} {501 706};Halobacteriales archaeon SW_12_71_31;DNA topoisomerase VI subunit B
+PSQ38084.1;830;232;28;1e-36;{19 291} {476 707};Halobacteriales archaeon SW_5_70_135;DNA topoisomerase VI subunit B
+WP_048115626.1;657;242;37;1e-36;{6 258} {398 639};Methanotorris formicicus;DNA topoisomerase VI subunit B
+AVB75421.1;670;207;31;2e-36;{20 252} {460 666};Methanococcus maripaludis;DNA topoisomerase VI subunit B
+ELZ70399.1;243;219;90;2e-36;{24 242};Haloferax prahovense DSM 18310;DNA topoisomerase VI subunit B, partial
+WP_104837112.1;664;207;31;2e-36;{14 246} {454 660};Methanococcus maripaludis;DNA topoisomerase VI subunit B
+WP_011170933.1;664;207;31;2e-36;{14 246} {454 660};Methanococcus maripaludis;DNA topoisomerase VI subunit B
+WP_013999445.1;664;207;31;2e-36;{14 246} {454 660};Methanococcus maripaludis;DNA topoisomerase VI subunit B
+EHP86233.1;683;242;35;3e-36;{32 264} {424 665};Methanotorris formicicus Mc-S-70;DNA topoisomerase VI, B subunit
+PSQ10469.1;318;188;59;4e-36;{17 204};Halobacteriales archaeon QS_7_69_60;DNA topoisomerase VI subunit B, partial
+KPU81034.1;143;134;94;4e-36;{2 135};Nitrosopumilus sp. PRT-SC01;DNA topoisomerase, partial
+WP_011973156.1;662;216;33;4e-36;{9 272} {445 660};Methanococcus aeolicus;DNA topoisomerase VI subunit B
+WP_013867354.1;658;229;35;1e-35;{8 271} {428 656};Methanothermococcus okinawensis;DNA topoisomerase VI subunit B
+ERH12121.1;355;204;57;1e-35;{54 257};halophilic archaeon J07HB67;DNA topoisomerase VI, subunit B, partial
+WP_081641546.1;433;189;44;1e-35;{134 322};Halarchaeum acidiphilum;hypothetical protein
+WP_018154680.1;658;305;46;1e-35;{8 271} {352 656};Methanothermococcus thermolithotrophicus;DNA topoisomerase VI subunit B
+ELZ71199.1;492;207;42;2e-35;{171 377};Haloferax prahovense DSM 18310;DNA topoisomerase VI subunit B, partial
+EMA50605.1;433;230;53;3e-35;{90 319};Halococcus thailandensis JCM 13552;DNA topoisomerase VI subunit B
+WP_013179740.1;658;215;33;8e-35;{8 240} {442 656};Methanococcus voltae;DNA topoisomerase VI subunit B
+KXH75321.1;682;437;64;9e-35;{183 619};Candidatus Thorarchaeota archaeon SMTZ1-83;hypothetical protein AM324_05630
+WP_008324309.1;539;207;38;1e-34;{218 424};Haloferax elongans;DNA topoisomerase VI subunit B, partial
+ELY29556.1;477;241;51;1e-34;{122 362};Halogeometricum borinquense DSM 11551;DNA topoisomerase vi, b subunit, partial
+PSP92623.1;1152;145;13;1e-34;{567 794} {1007 1151};Halobacteriales archaeon QS_1_68_44;DNA topoisomerase VI subunit B, partial
+WP_011976637.1;664;207;31;2e-34;{14 246} {454 660};Methanococcus maripaludis;DNA topoisomerase VI subunit B
+ERG92536.1;1330;245;18;2e-34;{23 114} {599 797} {971 1215};Haloquadratum walsbyi J07HQW1;DNA topoisomerase VI, subunit B
+WP_015322592.1;1385;255;18;3e-34;{19 114} {683 852} {1034 1288};Natronococcus occultus;DNA topoisomerase VI subunit B
+RLE41758.1;243;180;74;4e-34;{5 184};Candidatus Woesearchaeota archaeon;DNA topoisomerase VI subunit B, partial
+WP_021780130.1;1364;189;14;4e-34;{26 116} {685 855} {1065 1253};Halarchaeum acidiphilum;hypothetical protein
+PSQ56341.1;1368;233;17;5e-34;{19 114} {663 853} {1016 1248};Halobacteriales archaeon SW_9_67_25;DNA topoisomerase VI subunit B
+WP_121919373.1;1369;207;15;6e-34;{23 114} {662 854} {1048 1254};Haloplanus aerogenes;DNA topoisomerase VI subunit B
+PSP60537.1;1374;255;19;9e-34;{24 115} {684 855} {1028 1282};Halobacteriales archaeon QH_8_67_36;DNA topoisomerase VI subunit B
+PSQ48139.1;643;226;35;1e-33;{2 195} {405 630};Halobacteriales archaeon SW_6_65_15;DNA topoisomerase VI subunit B, partial
+WP_012194397.1;664;207;31;1e-33;{14 246} {454 660};Methanococcus maripaludis;DNA topoisomerase VI subunit B
+PSQ31026.1;1366;188;14;1e-33;{25 116} {685 854} {1065 1252};Halobacteriales archaeon SW_6_65_46;DNA topoisomerase VI subunit B
+WP_014556314.1;1304;245;19;2e-33;{23 114} {606 783} {945 1189};Haloquadratum walsbyi;hypothetical protein
+PSP37769.1;1366;188;14;2e-33;{25 116} {685 854} {1065 1252};Halobacteriales archaeon QH_7_65_31;DNA topoisomerase VI subunit B
+PSP28705.1;1361;185;14;2e-33;{23 114} {661 851} {1063 1247};Halobacteriales archaeon QH_2_65_14;DNA topoisomerase VI subunit B
+WP_011571880.1;1304;245;19;2e-33;{23 114} {606 783} {945 1189};Haloquadratum walsbyi;hypothetical protein
+RLI14446.1;168;149;89;2e-33;{0 148};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+ERG94844.1;1295;245;19;2e-33;{23 114} {574 771} {936 1180};Haloquadratum walsbyi J07HQW2;DNA topoisomerase VI, subunit B
+RLI69604.1;133;132;99;2e-33;{1 132};Candidatus Heimdallarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+WP_119821698.1;1841;182;10;3e-33;{496 556} {1125 1295} {1545 1726};archaeon AArc-Sl;DNA topoisomerase VI subunit B
+PSP95658.1;1361;238;17;3e-33;{23 114} {683 851} {1016 1253};Halobacteriales archaeon QS_4_62_28;DNA topoisomerase VI subunit B
+AUX08364.1;1957;182;9;3e-33;{612 672} {1241 1411} {1661 1842};archaeon AArc-Sl;DNA topoisomerase VI subunit B
+PSP68140.1;1353;187;14;1e-32;{26 117} {672 841} {1052 1238};Halobacteriales archaeon QS_1_69_70;DNA topoisomerase VI subunit B
+ERG97981.1;1188;264;22;1e-32;{24 115} {502 679} {829 1092};Haloquadratum sp. J07HQX50;DNA topoisomerase VI, subunit B
+PSP76512.1;799;207;26;1e-32;{24 270} {499 705};Halobacteriales archaeon QS_1_68_20;DNA topoisomerase VI subunit B
+ESS10971.1;1279;237;19;1e-32;{23 114} {901 1137};uncultured archaeon A07HR60;DNA topoisomerase VI, subunit B
+WP_114449934.1;1369;185;14;1e-32;{23 114} {683 854} {1070 1254};Haloplanus salinus;DNA topoisomerase VI subunit B
+PSN89131.1;146;133;91;2e-32;{0 132};Candidatus Marsarchaeota G1 archaeon OSP_C;hypothetical protein B9Q00_02605
+PSP85615.1;1371;274;20;2e-32;{23 114} {682 853} {1029 1302};Halobacteriales archaeon QS_6_64_34;DNA topoisomerase VI subunit B
+RLI53562.1;535;349;65;2e-32;{171 519};Candidatus Thorarchaeota archaeon;hypothetical protein DRO87_11430, partial
+WP_011868572.1;664;207;31;2e-32;{14 246} {454 660};Methanococcus maripaludis;DNA topoisomerase VI subunit B
+PSP71239.1;1378;205;15;2e-32;{23 114} {683 852} {1068 1272};Halobacteriales archaeon QH_8_67_27;DNA topoisomerase VI subunit B
+PSQ07227.1;1392;207;15;3e-32;{24 115} {662 852} {1092 1298};Halobacteriales archaeon QS_5_68_33;DNA topoisomerase VI subunit B
+ELZ34176.1;538;241;45;3e-32;{183 423};Halogeometricum pallidum JCM 14848;DNA topoisomerase vi, b subunit, partial
+PSP62863.1;1339;191;14;4e-32;{0 90} {639 829} {1035 1225};Halobacteriales archaeon QH_7_66_37;DNA topoisomerase VI subunit B, partial
+WP_014052057.1;1378;275;20;4e-32;{24 114} {683 853} {989 1263};halophilic archaeon DL31;hypothetical protein
+WP_011972127.1;666;209;31;5e-32;{16 248} {456 664};Methanococcus vannielii;DNA topoisomerase VI subunit B
+ADD93259.1;430;246;57;5e-32;{0 245};uncultured archaeon MedDCM-OCT-S08-C82;hypothetical protein
+PSP69257.1;615;210;34;6e-32;{10 101} {313 522};Halobacteriales archaeon QH_9_66_26;DNA topoisomerase VI subunit B, partial
+OYT44222.1;135;130;96;6e-32;{2 131};Candidatus Bathyarchaeota archaeon ex4484_40;hypothetical protein B6U84_04510, partial
+AIE96658.1;340;222;65;6e-32;{0 221};uncultured marine group II/III euryarchaeote AD1000_85_G06;DNA topoisomerase VI subunit B (top6B)
+WP_008581286.1;539;259;48;7e-32;{163 421};Halorubrum hochstenium;DNA topoisomerase VI subunit B, partial
+PSP74963.1;1260;207;16;8e-32;{530 720} {960 1166};Halobacteriales archaeon QH_6_68_27;DNA topoisomerase VI subunit B
+PSP92059.1;1372;191;14;9e-32;{23 114} {672 862} {1068 1258};Halobacteriales archaeon QS_4_66_20;DNA topoisomerase VI subunit B
+PSP53003.1;1392;207;15;1e-31;{24 115} {662 852} {1092 1298};Halobacteriales archaeon QH_3_68_24;DNA topoisomerase VI subunit B
+WP_123621041.1;1392;225;16;2e-31;{24 114} {1050 1274};Halorubrum sp. CSM-61;DNA topoisomerase VI subunit B
+WP_008383661.1;214;190;89;3e-31;{23 212};Halogeometricum pallidum;DNA topoisomerase VI subunit B, partial
+RLG06386.1;116;111;96;3e-31;{2 112};Thaumarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+WP_008442526.1;1383;181;13;8e-31;{24 114} {1085 1265};Halorubrum californiense;hypothetical protein
+ERJ05150.1;1377;274;20;1e-30;{20 110} {679 851} {1029 1302};Halorhabdus tiamatea SARL4B;Type 2 DNA topoisomerase 6 subunit B protein
+WP_020935910.1;1380;274;20;1e-30;{23 113} {682 854} {1032 1305};Halorhabdus tiamatea;hypothetical protein
+RLG02512.1;726;165;23;3e-30;{559 723};Thaumarchaeota archaeon;hypothetical protein DRN60_03155, partial
+KUK61940.1;261;164;63;3e-30;{12 175};Methanoculleus marisnigri;DNA topoisomerase VI, B subunit
+PXF20015.1;325;318;98;5e-30;{6 323};Euryarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+WP_015409353.1;1367;207;15;7e-30;{24 115} {686 855} {1047 1253};Natronomonas moolapensis;hypothetical protein
+OYT32662.1;359;306;85;1e-29;{11 316};Archaeoglobales archaeon ex4484_92;DNA topoisomerase VI subunit B, partial
+DAC24249.1;272;173;64;2e-29;{4 176};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B, partial
+AIE98722.1;446;224;50;3e-29;{2 225};uncultured marine group II/III euryarchaeote KM3_07_G11;DNA topoisomerase VI subunit B (top6B)
+PXF18956.1;380;173;46;3e-29;{1 173};Euryarchaeota archaeon;hypothetical protein CXX73_03180
+KYH38781.1;109;107;98;4e-29;{1 107};Candidatus Bathyarchaeota archaeon B23;Type 2 DNA topoisomerase 6 subunit B protein, partial
+EHK00625.1;203;151;74;7e-29;{0 150};Candidatus Haloredivivus sp. G17;DNA topoisomerase VI subunit B, partial
+PSP17940.1;676;238;35;8e-29;{0 157} {320 557};Halobacteriales archaeon QH_10_67_13;DNA topoisomerase VI subunit B, partial
+DAC12128.1;355;173;49;8e-29;{2 174};Marine Group II euryarchaeote;TPA: hypothetical protein D7H73_05135, partial
+DAC12134.1;290;290;100;4e-27;{0 289};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B, partial
+PXY75027.1;424;186;44;8e-27;{9 194};Euryarchaeota archaeon;hypothetical protein CXX81_19625
+PIN95932.1;203;148;73;9e-27;{3 150};Candidatus Micrarchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_60_32;hypothetical protein COU39_03360
+RLJ04312.1;132;115;87;7e-26;{16 130};Candidatus Aenigmarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+RLF87486.1;163;153;94;2e-25;{0 152};Thermococci archaeon;DNA topoisomerase VI subunit B, partial
+PSQ41060.1;716;190;27;2e-25;{30 222} {435 624};Halobacteriales archaeon QS_9_68_42;DNA topoisomerase VI subunit B
+RLI06213.1;143;138;97;5e-25;{1 138};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+AIE98723.1;228;226;99;2e-24;{0 225};uncultured marine group II/III euryarchaeote KM3_07_G11;DNA topoisomerase VI subunit B (top6B)
+DAC14856.1;365;172;47;3e-24;{1 172};Marine Group II euryarchaeote;TPA: hypothetical protein D7H86_02250
+AIE96817.1;153;144;94;3e-24;{1 144};uncultured marine thaumarchaeote AD1000_88_A06;DNA topoisomerase VI subunit B (top6B)
+EHK00827.1;345;146;42;9e-24;{18 163};Candidatus Haloredivivus sp. G17;DNA topoisomerase VI subunit beta
+KON29282.1;118;112;95;1e-23;{2 113};miscellaneous Crenarchaeota group-1 archaeon SG8-32-1;hypothetical protein AC477_06135, partial
+PSG99735.1;154;119;77;2e-23;{19 137};Nanohaloarchaea archaeon SW_4_43_9;DNA topoisomerase VI subunit B, partial
+AIE93230.1;199;170;85;3e-23;{0 169};uncultured marine thaumarchaeote AD1000_33_B07;DNA topoisomerase VI subunit B (top6B)
+PSH01390.1;136;117;86;6e-23;{19 135};Nanohaloarchaea archaeon QH_8_44_6;DNA topoisomerase VI subunit B, partial
+PIO01843.1;186;134;72;5e-22;{0 133};Candidatus Micrarchaeota archaeon CG09_land_8_20_14_0_10_60_16;DNA topoisomerase VI subunit B, partial
+PKP59157.1;189;167;88;2e-21;{2 168};Candidatus Altiarchaeales archaeon HGW-Altiarchaeales-2;DNA topoisomerase VI subunit B, partial
+PIZ97187.1;215;175;81;4e-21;{1 175};Candidatus Micrarchaeota archaeon CG_4_10_14_0_2_um_filter_49_7;hypothetical protein COX84_03275
+RLG58100.1;590;179;30;2e-20;{29 290} {395 573};Candidatus Hydrothermarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+RLG53956.1;590;179;30;4e-20;{28 290} {395 573};Candidatus Hydrothermarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+RLF88877.1;146;108;74;2e-19;{0 107};Thermococci archaeon;DNA topoisomerase VI subunit B, partial
+RJU88327.1;119;111;93;4e-19;{7 117};Marine Group II euryarchaeote;DNA topoisomerase VI subunit B, partial
+RLJ01813.1;161;158;98;6e-19;{1 158};Candidatus Aenigmarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+GBE56456.1;711;220;31;1e-18;{101 362} {469 688};archaeon BMS3Bbin16;DNA topoisomerase VI subunit B
+PJA19353.1;179;136;76;2e-18;{14 149};Candidatus Diapherotrites archaeon CG_4_10_14_0_2_um_filter_31_5;DNA topoisomerase VI subunit B, partial
+OYR55554.1;272;142;52;2e-18;{130 271};Halorubrum sp. E3;DNA topoisomerase VI, partial
+RLI41074.1;91;90;99;3e-18;{1 90};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+OYT58197.1;109;88;81;3e-18;{16 103};Candidatus Aenigmarchaeota archaeon ex4484_14;hypothetical protein B6U68_00430, partial
+PSQ41235.1;130;107;82;5e-18;{23 129};Halobacteriales archaeon SW_12_71_31;DNA topoisomerase VI subunit B, partial
+DAC39234.1;324;141;44;1e-17;{0 140};Marine Group II euryarchaeote;TPA: DNA topoisomerase VI subunit B, partial
+RTZ93916.1;140;111;79;5e-17;{13 123};Marine Group II euryarchaeote;DNA topoisomerase VI subunit B, partial
+KXB03326.1;159;116;73;8e-17;{17 132};candidate divison MSBL1 archaeon SCGC-AAA261G05;hypothetical protein AKJ47_02445, partial
+EHK01478.1;162;134;83;3e-16;{18 151};Candidatus Haloredivivus sp. G17;DNA topoisomerase VI subunit B
+ADD93027.1;174;118;68;3e-16;{6 123};uncultured archaeon MedDCM-OCT-S04-C246;hypothetical protein
+RMF90506.1;704;201;29;4e-16;{455 655};Euryarchaeota archaeon;DNA topoisomerase VI subunit B
+PIY60106.1;181;158;87;5e-16;{0 157};Candidatus Woesearchaeota archaeon CG_4_10_14_0_8_um_filter_47_5;DNA topoisomerase VI subunit B, partial
+RJU91711.1;320;138;43;5e-16;{0 137};Marine Group II euryarchaeote;hypothetical protein DWC01_03510, partial
+RLI36079.1;130;85;65;1e-15;{0 84};Candidatus Bathyarchaeota archaeon;DNA topoisomerase VI subunit B, partial
+RLI63490.1;1165;171;15;2e-15;{226 442} {734 904};Candidatus Lokiarchaeota archaeon;hypothetical protein DRO88_09770
+EHK02064.1;179;102;57;4e-15;{11 112};Candidatus Haloredivivus sp. G17;DNA topoisomerase VI subunit B, partial
+PIX43516.1;115;103;90;1e-14;{11 113};archaeon CG_4_8_14_3_um_filter_38_5;DNA topoisomerase VI subunit B, partial
+WP_116596066.1;103;83;81;4e-14;{2 84};Candidatus Bathyarchaeota archaeon;hypothetical protein
+PNX47049.1;258;143;55;7e-13;{0 142};Thermoplasmata archaeon M9B1D;DNA topoisomerase, partial
+RLE40389.1;753;119;16;3e-12;{15 111} {634 752};Candidatus Woesearchaeota archaeon;hypothetical protein DRZ77_02445, partial
+EHK01424.1;141;81;57;3e-12;{18 98};Candidatus Haloredivivus sp. G17;DNA topoisomerase VI subunit B
+CCC81400.1;120;98;82;3e-12;{3 100};Thermoproteus tenax Kra 1;type II DNA topoisomerase VI, subunit B
+PIN83196.1;94;78;83;9e-12;{0 77};Nitrosopumilales archaeon CG11_big_fil_rev_8_21_14_0_20_33_24;DNA topoisomerase, partial
+RJS89595.1;132;71;54;1e-11;{19 89};Candidatus Bathyarchaeota archaeon;hypothetical protein CW700_03970
+EHK01631.1;92;77;84;1e-11;{15 91};Candidatus Haloredivivus sp. G17;DNA topoisomerase VI subunit B, partial
+EHK01827.1;116;74;64;3e-11;{0 73};Candidatus Haloredivivus sp. G17;Type 2 DNA topoisomerase 6 subunit B
+RJU90795.1;94;84;89;1e-10;{7 90};Marine Group II euryarchaeote;DNA topoisomerase VI subunit B, partial
+PKL60213.1;219;102;47;2e-10;{4 105};Methanomicrobiales archaeon HGW-Methanomicrobiales-4;DNA topoisomerase VI subunit B, partial
+OLS15011.1;1241;189;15;2e-10;{307 515} {805 993};Candidatus Lokiarchaeota archaeon CR_4;type 2 DNA topoisomerase 6 subunit B
+EMR75383.1;105;70;67;3e-10;{15 84};Thermoplasmatales archaeon SCGC AB-540-F20;DNA topoisomerase VI, subunit B, partial
+EHK01526.1;112;67;60;5e-10;{2 68};Candidatus Haloredivivus sp. G17;DNA topoisomerase VI subunit B
+RLG46125.1;64;53;83;1e-09;{11 63};Candidatus Korarchaeota archaeon;hypothetical protein DRN90_06995, partial
+EHK01419.1;114;79;69;6e-09;{33 111};Candidatus Haloredivivus sp. G17;DNA topoisomerase VI subunit B
+AIF10507.1;100;83;83;2e-08;{0 82};uncultured marine thaumarchaeote KM3_46_E07;DNA topoisomerase VI subunit B (top6B)
+RLF49374.1;76;56;74;5e-08;{19 74};Thermoplasmata archaeon;hypothetical protein DRN20_02265, partial
+EIJ65044.1;100;74;74;9e-08;{0 73};Candidatus Nitrosopumilus salaria BD31;hypothetical protein BD31_I2044, partial
+PIN82538.1;113;86;76;5e-07;{0 85};Candidatus Micrarchaeota archaeon CG11_big_fil_rev_8_21_14_0_20_47_5;hypothetical protein COV61_05705, partial
+PKL73660.1;113;81;72;5e-06;{4 84};Methanobacteriales archaeon HGW-Methanobacteriales-2;DNA topoisomerase VI subunit B, partial
+RLG94839.1;105;61;58;2e-05;{0 60};Candidatus Bathyarchaeota archaeon;hypothetical protein DRO27_04325, partial
+PSP18994.1;524;61;12;3e-05;{60 120};Halobacteriales archaeon QH_10_67_13;hypothetical protein BRC62_02450, partial
+EFD92530.1;111;71;64;1e-04;{12 82};Candidatus Parvarchaeum acidophilus ARMAN-5;DNA topoisomerase VI subunit B
+EHK01648.1;89;45;51;2e-04;{18 62};Candidatus Haloredivivus sp. G17;DNA topoisomerase VI subunit B

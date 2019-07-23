@@ -1,0 +1,30 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+Je voudrais faire une appli shiny pour analyser les données de Claudine.  
+
+# input
+Cette appli prendra en entrée un fichier csv qui contient les tailles des séquences pour chque protéine
+
+
+# output
+L'appli devra avoir une barre latérale pour entrer les données.  
+Elle devra s'organiser en onglet : 
+
+* onglet 1 : description des données avec : 
+    + une partie qui donne le nombre de séquence par protéine
+    + une partie qui donne le summary de la taille des séquences pour chaque protéine
+    + une partie qui donne la variance de la taille des séquences pour chaque protéine
+
+L'idéal serait d'avoir cette sortie en tableau
+
+* onglet 2 : un onglet représentation graphique
+Représentation par boxplot de la distribution de la taille des séquence pour chque protéine
+
+* onglet 3 : comparaison des variances de la taille des séquences
+    + résultat du test de bartlett
+    + résultat du test post-hoc
+
+
